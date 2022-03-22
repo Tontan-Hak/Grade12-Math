@@ -1,15 +1,7 @@
 
 -----
-<div id="myimages">
-<img src="https://github.com/Tulamechatronics/Grade12-Physics/blob/main/Naval-Ravikant-Quote-Free-education-is-abundant-all-over-the-Internet.-It%E2%80%99s-the-desire-to-learn-that%E2%80%99s-scarce.jpg" width=30% height=40% />
-<img src="https://github.com/Tulamechatronics/Grade12-Physics/blob/main/1_2R4A0--GdGdzjlRZEdOLmw.jpeg" width=32% height=40% />
-<img src ="https://github.com/Tulamechatronics/Grade12-Physics/blob/main/japan%20hero.jpg" width=30% height=40%>
-</div>
 
-
------
-
-# Grade12-Physics      [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Grade12-Math      [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 សារបណ្ណ
 
