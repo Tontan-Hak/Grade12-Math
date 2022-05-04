@@ -14,8 +14,10 @@ Reminding: Do you have a choice not to do it?
 
 * [Learning How to Learn](#Learning-How-to-Learn)
     * 1.1\. [How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
-    * 1.2\.  How to Study Math
-    * 1.3\. [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
+    * 1.2\. [How to learn Math:For student (edx)](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/block-v1:StanfordOnline+GSE-YEDUC115-S+1T2020+type@sequential+block@b46dd45ae5074886aec23587330b8cb1/block-v1:StanfordOnline+GSE-YEDUC115-S+1T2020+type@vertical+block@f649ce868e2843989159427c028294e8)
+    * 1.3\. [How you can be good at math, and other surprising facts about learning](https://www.youtube.com/watch?v=3icoSeGqQtY) 
+    * 1.4\. [Math isn't hard, it's a language](https://www.youtube.com/watch?v=V6yixyiJcos)
+    * 1.5\. [The Real Reason You Should Study Math](https://www.youtube.com/watch?v=NjYjT9j-y8M)
 
 * ជំពូកទី ០១\. [វុិចទ័រក្នុងលំហ](#ជំពូកទី-១-វុិចទ័រក្នុងលំហ)
     * L.1\. [ផលគុណនៃពីរវុិចទ័រក្នុងលំហ](#មេរៀនទី-០១-ផលគុណនៃពីរវុិចទ័រក្នុងលំហ)
