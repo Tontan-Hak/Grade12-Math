@@ -17,12 +17,12 @@ Reminding: Do you have a choice not to do it?
     * 1.2\.  How to Study Math
     * 1.3\. [Feynman on teaching Physics South-American](http://calteches.library.caltech.edu/46/2/LatinAmerica.htm?fbclid=IwAR2HFl_FrR-9hbecND_2lbHd1O2uL8n2yO39pmC2VKLA1ORLEW-fd7-eyjk) 
 
-* ជំពូកទី ០១\. [ចំនួនកុំផ្លិច](#ជំពូកទី-១-ទែម៉ូឌីណាមិច)
-    * L.1\. [ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន](#មេរៀនទី-០១-ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន)
-    * L.2\. [ច្បាប់ទី ១ ទែម៉ូឌីណាមិច](#មេរៀនទី-០២-ច្បាប់ទី-១-ទែម៉ូឌីណាមិច)
-    * L.3\. [ម៉ាស៊ីន](#មេរៀនទី-០៣-ម៉ាស៊ីន)
-* ជំពូកទី ០២\. រលក 
-    * L.4\. គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ
+* ជំពូកទី ០១\. [វុិចទ័រក្នុងលំហ](#ជំពូកទី-១-វុិចទ័រក្នុងលំហ)
+    * L.1\. [ផលគុណនៃពីរវុិចទ័រក្នុងលំហ](#មេរៀនទី-០១-ផលគុណនៃពីរវុិចទ័រក្នុងលំហ)
+    * L.2\. [អនុវត្តនៃផលគុណវុិចទ័រ](#មេរៀនទី-០២-ច្បាប់ទី-១-អនុវត្តនៃផលគុណវុិចទ័រ)
+* ជំពូកទី ០២\. វុិចទ័រក្នុងលំហ 
+    * L.4\. ផលគុណនៃពីរវុិចទ័រក្នុងលំហ
+    * L.5\. អនុវត្តនៃផលគុណវុិចទ័រ
     * L.5\. <s> អាំងទែផេរ៉ង់ និង ឌីប្រាក់ស្យុង </s>
 * ជំពូកទី ០៣ \. អគ្គិសនី និង ម៉ាញេទិច 
     * L.6\. ដែន និង កម្លាំងអគ្គិសនី
@@ -70,34 +70,32 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [The process of reflection](https://docs.google.com/document/d/1KThoPoc2LZmIt1-TykXqt48nVZe7yAfnzzrBi2iDZMM/edit)
     *      
 -----
-# ជំពូកទី ០១ ទែម៉ូឌីណាមិច
+# ជំពូកទី ០១ វុិចទ័រក្នុងលំហ
  > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
 ✅ [ The Physics of Randomness](https://www.youtube.com/watch?v=5jBVYvHeG2c) <br>
 ✅ [  First Law of Thermodynamics: History of the Concept of Energy](https://www.youtube.com/watch?v=a9c7u-FM-Wc&list=PLepnjl2hm9tHRMTdVyJ8t9HB6TZ63hFdU) <br>
 ✅ [ The Story Of Energy With Professor Jim Al-Khalili | Order and Disorder](https://www.youtube.com/watch?v=aeaQpuYPsy8&t=82s) 
 
-###      មេរៀនទី ០១ ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន
+###      មេរៀនទី ០១ ផលគុណនៃពីរវុិចទ័រក្នុងលំហ
 **Topics Covered:** `ទំនាក់ទំនងរវាងមីក្រូស្កុបពិច និង ម៉ាក្រូស្កុបពិច` `ស្ថិតិ` `Assumptions Ideal Gas Law` `សម្ពាធក្នុងទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន` `សមីការឧស្ម័នបរិសុទ្ធ`  `តម្លៃមធ្យមនៃថាមពលស៊ីនេទិចម៉ូលេគុលនីមួយៗ` `ថាមពលស៊ីនេទិចសរុប` `ឬសការេនៃការេល្បឿនមធ្យម`
 
-- [Macroscopic & Microscopic point of view](https://www.youtube.com/watch?v=eeu6OVNtjkc)
-- [សម្រាយបញ្ជាក់ PV = nRT](https://www.youtube.com/watch?v=voFVaeDZrjc&t=2s)
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://youtube.com/playlist?list=PL2G_O4s8LpX-srF-aHX8k2O_Dg3LqQ9jm)
-    * [🎬 មេរៀន ទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampfSrIezrqrQY7Tz2exIqns) 
-- [Phet Simulation: gas-properties](https://phet.colorado.edu/sims/html/gas-properties/latest/gas-properties_en.html) ប្រើសម្រាប់ជំនួយក្នុងការពន្យល់ពី P~ T,N && P~ 1/V និង ថាមពលស៊ីនេទិចមធ្យម របស់ម៉ូលេគុល
+    * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ (ភាគទី១)(MoEYS Official)](https://www.youtube.com/watch?v=a2QhkBJuK9M&t=613s)
+    * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ (ភាគទី២)(MoEYS Official)](https://www.youtube.com/watch?v=jehDcFs7niU&t=310s)
+    * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ (ភាគទី៣)(MoEYS Official)](https://www.youtube.com/watch?v=spEnYhluza8)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1rbt3E4j3O_fwVe70KBoZBbDkaq4VXldg/view?usp=sharing) 
 
 
-###       មេរៀនទី ០២ ច្បាប់ទី ១ ទែម៉ូឌីណាមិច
+###       មេរៀនទី ០២ ច្បាប់ទី ១ អនុវត្តនៃផលគុណវុិចទ័រ
 **Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
 <br>
-**Maths Prerequisites:** `ផលគុណស្កាលែ` `អាំងតេក្រាល` 
-- [Phet Simulation: Energy Forms and Changes](https://phet.colorado.edu/sims/html/energy-forms-and-changes/latest/energy-forms-and-changes_en.html) ប្រើសម្រាប់ពន្យល់ពី ច្បាប់រក្សាថាមពល និង ការបម្លែងពីប្រភេទថាមពលមួយ ទៅជា ប្រភេទថាមពលមួយទៀត
+**Maths Prerequisites:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 មេរៀន ច្បាប់ទី ១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX_3RY8_aWQi47ukyJsopRSE)
-    * [🎬 មេរៀន ច្បាប់ទី ១ ទែម៉ូឌីណាមិច បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamreiGv9yH8FF12aw9xcqCrZ)
+    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ (ភាគទី១)(MoEYS Official)](https://www.youtube.com/watch?v=AI9oj1NXSKc)
+    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ (ភាគទី៣)(MoEYS Official)](https://www.youtube.com/watch?v=aVxhICegKoE)
+    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ (ភាគទី៤)(MoEYS Official)](https://www.youtube.com/watch?v=c-6z5_McW8c)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
