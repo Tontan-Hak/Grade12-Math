@@ -140,11 +140,11 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1Y0btpKE2TUjBosqP90CN9EQARI4u11aP/view?usp=sharing)
 
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
-- **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
-- **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=bJyBho4y1fg&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=3) && [ភាគទី ០២](https://www.youtube.com/watch?v=YEIhbjDoMxM&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=4) 
-- **2017**  [ភាគទី ០១](https://www.youtube.com/watch?v=BICz-zBGdNs) && [ភាគទី ០២](https://www.youtube.com/watch?v=GD5aZV60qm4) 
-- **2018**  [ភាគទី ០១](https://www.youtube.com/watch?v=SwXULemlvzQ&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=7) && [ភាគទី ០២](https://www.youtube.com/watch?v=HAcV2UpRrqI&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=8) 
-- **2019**  [ភាគទី ០១](https://www.youtube.com/watch?v=z0sjGGEBdyU&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=9) && [ភាគទី ០២](https://www.youtube.com/watch?v=18M_o-1l3Ok&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=10) 
+- **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
+- **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=FrfD7qShSzQ) && [ភាគទី ០២](https://www.youtube.com/watch?v=tcimn6YR42k) 
+- **2017**  [ភាគទី ០១](https://www.youtube.com/watch?v=WfE1acm9iao) && [ភាគទី ០២](https://www.youtube.com/watch?v=7qEKhBd2IPk) 
+- **2018**  [ភាគទី ០១](https://www.youtube.com/watch?v=V5TC-XSadVI) && [ភាគទី ០២](https://www.youtube.com/watch?v=v1j3tnIEMuE) 
+- **2019**  [ភាគទី ០១](https://www.youtube.com/watch?v=V1Xh702GM_g) && [ភាគទី ០២](https://www.youtube.com/watch?v=PcCCWbxExd8) 
 
 -----
 
