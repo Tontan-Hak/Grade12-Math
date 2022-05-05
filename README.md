@@ -168,7 +168,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 
 
 #### វីដេអូត្រៀមប្រលង
- - [វិញ្ញាសារត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ លី ស្រួច (ប្រធានដេប៉ាតឺម៉ង់គណិតវិទ្យានៅសាកលវិទ្យាល័យភូមិន្តភ្នំពេញ](https://www.youtube.com/playlist?list=PLDt349AvcEaI1NMnGBwBBGeAt6iXXQB64)
+ - [វិញ្ញាសារត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ លី ស្រួច (ប្រធានដេប៉ាតឺម៉ង់គណិតវិទ្យានៅសាកលវិទ្យាល័យភូមិន្តភ្នំពេញ)](https://www.youtube.com/playlist?list=PLDt349AvcEaI1NMnGBwBBGeAt6iXXQB64)
 #### រូបមន្តសង្ខេប-PDF 
 
 - [រូបមន្តសង្ខេប]
