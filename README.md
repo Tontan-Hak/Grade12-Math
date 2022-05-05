@@ -101,22 +101,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
-
-###       មេរៀនទី ០៣ ម៉ាស៊ីន
-**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
-<br>
-- [Simulation វដ្តម៉ាស៊ីនកាកណូ](https://www.compadre.org/Physlets/thermodynamics/illustration21_1.cfm)
-- មូលហេតុដែលម៉ាស៊ីនសាំងប្រើ បូស៊ី ហើយ ម៉ាស៊ីនម៉ាស៊ូតប្រើ ប៉ិច
-     * [ដុតសាំង និង ម៉ាស៊ូតក្នុងខ្យល់](https://www.youtube.com/watch?v=7soVqyGq4i4&t=81s) 
-     * [ភាពខុសគ្នានៃច្រវ៉ាក់អ៊ីដ្រូកាបួ របស់ សាំង និង ម៉ាស៊ូត](https://www.youtube.com/watch?v=rlK7JIAz9WY&t=214s)
-- [ដំណើរការរបស់ម៉ាស៊ីនសាំង](https://www.youtube.com/watch?v=_QXH5MaoKEE&t=1s)
-- [Playlist ដំណើរការរបស់ម៉ាស៊ីនម៉ាស៊ូត](https://www.youtube.com/playlist?list=PLy4d0AptRUmLjsfuuM-cvdwjdSH0qy5jg)
-- [Stirling Engine](https://www.youtube.com/watch?v=PamhI7ZJiFs&t=4s) | [Reading about Stirling Engine](https://en.wikipedia.org/wiki/Stirling_cycle)
-- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrWn6PHIUqPCSxhPfB8IELI)
-    * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX9kbGO0E7OQcjZrpUkpmICB)
-- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1Y0btpKE2TUjBosqP90CN9EQARI4u11aP/view?usp=sharing)
 -----
 # ជំពូក ០២ អាំងតេក្រាល
 
@@ -135,6 +119,24 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1nCTF10afgcVmzFVLDkCRg7v0P1riFzdV/view?usp=sharing)
 
+# ជំពូក ០៣ ឌីផេរ៉ងស្យែល
+###       មេរៀនទី ០៣ ម៉ាស៊ីន
+
+**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
+<br>
+- [Simulation វដ្តម៉ាស៊ីនកាកណូ](https://www.compadre.org/Physlets/thermodynamics/illustration21_1.cfm)
+- មូលហេតុដែលម៉ាស៊ីនសាំងប្រើ បូស៊ី ហើយ ម៉ាស៊ីនម៉ាស៊ូតប្រើ ប៉ិច
+     * [ដុតសាំង និង ម៉ាស៊ូតក្នុងខ្យល់](https://www.youtube.com/watch?v=7soVqyGq4i4&t=81s) 
+     * [ភាពខុសគ្នានៃច្រវ៉ាក់អ៊ីដ្រូកាបួ របស់ សាំង និង ម៉ាស៊ូត](https://www.youtube.com/watch?v=rlK7JIAz9WY&t=214s)
+- [ដំណើរការរបស់ម៉ាស៊ីនសាំង](https://www.youtube.com/watch?v=_QXH5MaoKEE&t=1s)
+- [Playlist ដំណើរការរបស់ម៉ាស៊ីនម៉ាស៊ូត](https://www.youtube.com/playlist?list=PLy4d0AptRUmLjsfuuM-cvdwjdSH0qy5jg)
+- [Stirling Engine](https://www.youtube.com/watch?v=PamhI7ZJiFs&t=4s) | [Reading about Stirling Engine](https://en.wikipedia.org/wiki/Stirling_cycle)
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrWn6PHIUqPCSxhPfB8IELI)
+    * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX9kbGO0E7OQcjZrpUkpmICB)
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1Y0btpKE2TUjBosqP90CN9EQARI4u11aP/view?usp=sharing)
+
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=9Rmqxvf9jio&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=1) && [ភាគទី ០២](https://www.youtube.com/watch?v=903_yVf0dPk&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=2)  
 - **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=bJyBho4y1fg&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=3) && [ភាគទី ០២](https://www.youtube.com/watch?v=YEIhbjDoMxM&list=PLDt349AvcEaJuvSVfA_NkEk6BfX__usyd&index=4) 
@@ -146,13 +148,13 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 
 # 📚 ebook 📚
 
-#### 🎯 សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប (ធានា បាន A+ រូបវិទ្យា) 🥇
+#### 🎯 សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប (ធានា បាននិទ្ទេសល្អ គណិតវិទ្យា) 🥇
 
-- [👉 សៀវភៅសង្ខេបក្រសួងធ្លាប់ដកស្រង់លំហាត់ ចេញប្រលង ឆ្នាំ 2015-2016-2017-2018-2019-2021](https://drive.google.com/file/d/1_LNpf0rKgL4Fm4aqaJsKFIlEM600X89o/view?usp=sharing)
+- [👉 មេរៀនសង្ខេបនិងលំហាត់គំរូ សម្រាប់ជ៉នួយដល់សិស្សថ្នាក់ទី១២](https://drive.google.com/file/d/1cCakSBR-mwg74inXGUupHQRFKBefXQBE/view?usp=sharing)
 
-#### វិញ្ញាសារបាក់ឌុប ឆ្នាំ 2011 - 2019
+#### វិញ្ញាសារបាក់ឌុប ឆ្នាំ 2014 - 2019
 
-- [វិញ្ញាសាររូបវិទ្យា ឆមាស និង បាក់ឌុប(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម) ឆ្នាំ 2011-2019](https://drive.google.com/file/d/1tZZrikQ75AWwEOJITZV5ZFS3p9rQm85o/view?usp=sharing)
+- [កម្រងវិញ្ញាសា និងអត្រាកំណែថ្នាក់ទី១២(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម)2014-2019](https://drive.google.com/file/d/1gfwLvnefDOGVMEdnsoYBT4xJ1ATdtK-f/view?usp=sharing)
 
 #### វិញ្ញាសារបាក់ឌុបរូបវិទ្យា និង អត្រាកំណែ ឆ្នាំ 2014-2019 (File-PDF)
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(I)](https://drive.google.com/file/d/1BbTkvvk0-Vq5o40DTlCP3vqB0fvWHDID/view?usp=sharing)
