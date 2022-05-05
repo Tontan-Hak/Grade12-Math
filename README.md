@@ -41,6 +41,7 @@ Reminding: Do you have a choice not to do it?
     * សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប (ធានា បាននិទ្ទេសល្អ គណិតវិទ្យា)
     * វិញ្ញាសារបាក់ឌុប ឆ្នាំ 2014 - 2019
     * វិញ្ញាសារបាក់ឌុប និង អត្រាកំណែគ្រប់មុខ រៀបចំដោយក្រសួងអប់រំ ឆ្នាំ 2014-2019 (File-PDF)
+    * វីដេអូត្រៀមប្រលង
     * រូបមន្តសង្ខេប
       
 -----
@@ -158,14 +159,15 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - [📚 កម្រងវិញ្ញាសា និងអត្រាកំណែថ្នាក់ទី១២(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម)2014-2019](https://drive.google.com/file/d/1gfwLvnefDOGVMEdnsoYBT4xJ1ATdtK-f/view?usp=sharing)
 
 #### វិញ្ញាសារបាក់ឌុប និង អត្រាកំណែគ្រប់មុខ រៀបចំដោយក្រសួងអប់រំ ឆ្នាំ 2014-2019 (File-PDF)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(I)]
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(II)]
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2015]
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2016]
+
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014 ដល់ 2017](https://drive.google.com/file/d/1son8XwOmQLvyRfVgKl0p5r9rndBC2SH4/view?usp=sharing)
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2017](https://drive.google.com/file/d/1xGNrYTf_Ycgc5sLIeeABivjRJ3flVeQe/view?usp=sharing)
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2018](https://drive.google.com/file/d/1CmU8UqySMzTNyrzIKn2i5Xb83la0QcxG/view?usp=sharing)
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2019](https://drive.google.com/file/d/1JGv5d-AA5cTfhpzssMpnf9VxGH3SBbpX/view?usp=sharing)
 
+
+#### វីដេអូត្រៀមប្រលង
+ - [វិញ្ញាសារត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ លី ស្រួច (ប្រធានដេប៉ាតឺម៉ង់គណិតវិទ្យានៅសាកលវិទ្យាល័យភូមិន្តភ្នំពេញ](https://www.youtube.com/playlist?list=PLDt349AvcEaI1NMnGBwBBGeAt6iXXQB64)
 #### រូបមន្តសង្ខេប-PDF 
 
 - [រូបមន្តសង្ខេប]
