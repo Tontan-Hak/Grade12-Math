@@ -177,8 +177,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 -----
 
 #  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
-- [Physlets](https://www.compadre.org/Physlets/)
-- [Phet](https://phet.colorado.edu/)
+- [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
+- [GeoGebra](https://www.geogebra.org/u/tontanhak97)
 
 -----
 ## Licence:
