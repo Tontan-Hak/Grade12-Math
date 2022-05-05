@@ -157,10 +157,10 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - [កម្រងវិញ្ញាសា និងអត្រាកំណែថ្នាក់ទី១២(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម)2014-2019](https://drive.google.com/file/d/1gfwLvnefDOGVMEdnsoYBT4xJ1ATdtK-f/view?usp=sharing)
 
 #### វិញ្ញាសារបាក់ឌុប និង អត្រាកំណែគ្រប់មុខ រៀបចំដោយក្រសួងអប់រំ ឆ្នាំ 2014-2019 (File-PDF)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(I)]()
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(II)]()
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2015]()
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2016]()
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(I)]
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(II)]
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2015]
+- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2016]
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2017](https://drive.google.com/file/d/1xGNrYTf_Ycgc5sLIeeABivjRJ3flVeQe/view?usp=sharing)
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2018](https://drive.google.com/file/d/1CmU8UqySMzTNyrzIKn2i5Xb83la0QcxG/view?usp=sharing)
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2019](https://drive.google.com/file/d/1JGv5d-AA5cTfhpzssMpnf9VxGH3SBbpX/view?usp=sharing)
