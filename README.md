@@ -37,7 +37,7 @@ Reminding: Do you have a choice not to do it?
     * ឆ្នាំ 2017
     * ឆ្នាំ 2018
     * ឆ្នាំ 2019
-* ebook
+* [ebook](#)
     * សៀវភៅសង្ខេបក្រសួងធ្លាប់ចេញប្រលង
     * វិញ្ញាសាររូបវិទ្យា ឆមាស និង បាក់ឌុប(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម) ឆ្នាំ 2011-2019
     * រូបមន្តសង្ខេប
@@ -46,11 +46,11 @@ Reminding: Do you have a choice not to do it?
 # 🎓 Learning How to Learn
 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
 - [How to Get the Most Out of Studying](https://www.youtube.com/watch?v=htv6eap1-_M&list=PL85708E6EA236E3DB&index=1)
-     * [🎥 វីដេអូភាគទី 1](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) | [សរុបខ្លឹមសារ]()
-     * [🎥 វីដេអូភាគទី 2](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) | [សរុបខ្លឹមសារ]()
-     * [🎥 វីដេអូភាគទី 3](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) | [សរុបខ្លឹមសារ]()
-     * [🎥 វីដេអូភាគទី 4](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) | [សរុបខ្លឹមសារ]()
-     * [🎥 វីដេអូភាគទី 5](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) | [សរុបខ្លឹមសារ]()
+     * [🎬 វីដេអូភាគទី 1](https://www.youtube.com/watch?v=RH95h36NChI&list=PL85708E6EA236E3DB&index=2) | [សរុបខ្លឹមសារ]()
+     * [🎬 វីដេអូភាគទី 2](https://www.youtube.com/watch?v=9O7y7XEC66M&list=PL85708E6EA236E3DB&index=3) | [សរុបខ្លឹមសារ]()
+     * [🎬 វីដេអូភាគទី 3](https://www.youtube.com/watch?v=1xeHh5DnCIw&list=PL85708E6EA236E3DB&index=4) | [សរុបខ្លឹមសារ]()
+     * [🎬 វីដេអូភាគទី 4](https://www.youtube.com/watch?v=E9GrOxhYZdQ&list=PL85708E6EA236E3DB&index=5) | [សរុបខ្លឹមសារ]()
+     * [🎬 វីដេអូភាគទី 5](https://www.youtube.com/watch?v=-QVRiMkdRsU&list=PL85708E6EA236E3DB&index=6) | [សរុបខ្លឹមសារ]()
 - [How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
      * [General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx)
      * [Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
