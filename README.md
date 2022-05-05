@@ -146,7 +146,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 
 -----
 
-# 📚 ebook 📚
+# ebook
 
 #### 🎯 សៀវភៅសម្រាប់ត្រៀមបាក់ឌុប (ធានា បាននិទ្ទេសល្អ គណិតវិទ្យា) 🥇
 
@@ -154,7 +154,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 
 #### វិញ្ញាសារបាក់ឌុប ឆ្នាំ 2014 - 2019
 
-- [កម្រងវិញ្ញាសា និងអត្រាកំណែថ្នាក់ទី១២(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម)2014-2019](https://drive.google.com/file/d/1gfwLvnefDOGVMEdnsoYBT4xJ1ATdtK-f/view?usp=sharing)
+- [📚 កម្រងវិញ្ញាសា និងអត្រាកំណែថ្នាក់ទី១២(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម)2014-2019](https://drive.google.com/file/d/1gfwLvnefDOGVMEdnsoYBT4xJ1ATdtK-f/view?usp=sharing)
 
 #### វិញ្ញាសារបាក់ឌុប និង អត្រាកំណែគ្រប់មុខ រៀបចំដោយក្រសួងអប់រំ ឆ្នាំ 2014-2019 (File-PDF)
 - [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014(I)]
@@ -167,7 +167,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 
 #### រូបមន្តសង្ខេប-PDF 
 
-- [រូបមន្តសង្ខេប](https://drive.google.com/file/d/1_l9WZjCZM5bM9g02CGVzHNDURAKsguC6/view?usp=sharing)
+- [រូបមន្តសង្ខេប]
 
 #### វិញ្ញាសារត្រៀម (optional)
 
