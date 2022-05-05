@@ -90,7 +90,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1rbt3E4j3O_fwVe70KBoZBbDkaq4VXldg/view?usp=sharing) 
 
 
-###       មេរៀនទី ០២ ច្បាប់ទី ១ អនុវត្តនៃផលគុណវុិចទ័រ
+###       មេរៀនទី ០២ អនុវត្តនៃផលគុណវុិចទ័រ
 **Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
 <br>
 **Maths Prerequisites:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
