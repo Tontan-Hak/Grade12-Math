@@ -12,7 +12,7 @@ Reminding: Do you have a choice not to do it?
 
 -----
 
-* [Learning How to Learn](#Learning-How-to-Learn)
+* [Learning How to Learn](#🎓-Learning-How-to-Learn)
     * 1.1\. [How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
     * 1.2\. [How to learn Math:For student (edx)](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/block-v1:StanfordOnline+GSE-YEDUC115-S+1T2020+type@sequential+block@b46dd45ae5074886aec23587330b8cb1/block-v1:StanfordOnline+GSE-YEDUC115-S+1T2020+type@vertical+block@f649ce868e2843989159427c028294e8)
     * 1.3\. [How you can be good at math, and other surprising facts about learning](https://www.youtube.com/watch?v=3icoSeGqQtY) 
