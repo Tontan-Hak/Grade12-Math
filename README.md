@@ -145,6 +145,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - **2017**  [ភាគទី ០១](https://www.youtube.com/watch?v=WfE1acm9iao) && [ភាគទី ០២](https://www.youtube.com/watch?v=7qEKhBd2IPk) 
 - **2018**  [ភាគទី ០១](https://www.youtube.com/watch?v=V5TC-XSadVI) && [ភាគទី ០២](https://www.youtube.com/watch?v=v1j3tnIEMuE) 
 - **2019**  [ភាគទី ០១](https://www.youtube.com/watch?v=V1Xh702GM_g) && [ភាគទី ០២](https://www.youtube.com/watch?v=PcCCWbxExd8) 
+- **វីឌីអូ Playlist** [អត្រាកំណែវិញ្ញាសារថ្នាក់សង្គមនិងវិទ្យាសាស្រ្ត](https://www.youtube.com/playlist?list=PLDt349AvcEaJPUNekyJzYBrHl1bUTgu1j)
 
 -----
 
