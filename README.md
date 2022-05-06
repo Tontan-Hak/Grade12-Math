@@ -82,7 +82,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 ✅ [ The Story Of Energy With Professor Jim Al-Khalili | Order and Disorder](https://www.youtube.com/watch?v=aeaQpuYPsy8&t=82s) 
 
 ###      មេរៀនទី ០១ ផលគុណនៃពីរវុិចទ័រក្នុងលំហ
-**Topics Covered:** `ទំនាក់ទំនងរវាងមីក្រូស្កុបពិច និង ម៉ាក្រូស្កុបពិច` `ស្ថិតិ` `Assumptions Ideal Gas Law` `សម្ពាធក្នុងទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន` `សមីការឧស្ម័នបរិសុទ្ធ`  `តម្លៃមធ្យមនៃថាមពលស៊ីនេទិចម៉ូលេគុលនីមួយៗ` `ថាមពលស៊ីនេទិចសរុប` `ឬសការេនៃការេល្បឿនមធ្យម`
+**Mathematical Fundamentals:** `ទំនាក់ទំនងរវាងមីក្រូស្កុបពិច និង ម៉ាក្រូស្កុបពិច` `ស្ថិតិ` `Assumptions Ideal Gas Law` `សម្ពាធក្នុងទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន` `សមីការឧស្ម័នបរិសុទ្ធ`  `តម្លៃមធ្យមនៃថាមពលស៊ីនេទិចម៉ូលេគុលនីមួយៗ` `ថាមពលស៊ីនេទិចសរុប` `ឬសការេនៃការេល្បឿនមធ្យម`
 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ (ភាគទី១)(MoEYS Official)](https://www.youtube.com/watch?v=a2QhkBJuK9M&t=613s)
@@ -95,7 +95,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 ###       មេរៀនទី ០២ អនុវត្តនៃផលគុណវុិចទ័រ
 **Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
 <br>
-**Maths Prerequisites:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
+**Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ (ភាគទី១)(MoEYS Official)](https://www.youtube.com/watch?v=AI9oj1NXSKc)
     * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ (ភាគទី៣)(MoEYS Official)](https://www.youtube.com/watch?v=aVxhICegKoE)
@@ -109,7 +109,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 ### មេរៀនទី 04 អាំងតេក្រាលមិនកំណត់
 **Topics Covered:**  `ខួប` `ប្រេកង់` `ល្បឿនមុំ` `អំព្លីទុត` `ផាស` `គោលការណ៍តម្រួត` `រលកជញ្ជ្រំ` `រ៉េសូណង់` 
 <br>
-**Maths Prerequisites:** `ត្រីកោណមាត្រ`
+**Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - [Simulation រកតម្លៃខួប ប្រេកង់ និង រលកជញ្ជ្រំ]()
 - បាតុភូតរ៉េសូណង់
     * [Video-1]()
