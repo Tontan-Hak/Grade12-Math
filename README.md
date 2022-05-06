@@ -90,7 +90,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី២ (MoEYS Official)](https://www.youtube.com/watch?v=jehDcFs7niU&t=310s)
     * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី៣ (MoEYS Official)](https://www.youtube.com/watch?v=spEnYhluza8)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1rbt3E4j3O_fwVe70KBoZBbDkaq4VXldg/view?usp=sharing) 
+    * [📚 ឯកសាររៀបររៀងរោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី១៨ (NIE)](https://drive.google.com/file/d/1EeOOCorFyXUc-ri4N9cBmySxvFOz2UaA/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/0B1dv5sqSPsPbUWQ4T29yTHhUZU0/view?usp=sharing&resourcekey=0-HstQXEI9FVH7PxCmkHlixA) 
 
 
 ###       មេរៀនទី ០២ អនុវត្តនៃផលគុណវុិចទ័រ
