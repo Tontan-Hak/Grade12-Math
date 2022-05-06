@@ -26,7 +26,7 @@ Reminding: Do you have a choice not to do it?
     * [L.4\. អាំងតេក្រាលមិនកំណត់](#មេរៀនទី-04-អាំងតេក្រាលមិនកំណត់)
     * [L.5\. អាំងតេក្រាលកំណត់]
     * L.5\. <s> អាំងទែផេរ៉ង់ និង ឌីប្រាក់ស្យុង </s>
-* ជំពូកទី ០៣ \. អគ្គិសនី និង ម៉ាញេទិច 
+* ជំពូកទី ០៣ \. ឌីផេរ៉ងស្យែល 
     * L.6\. ដែន និង កម្លាំងអគ្គិសនី
     * L.7\. អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច
     * L.8\. អូតូអាំងឌុចស្យុង
@@ -90,7 +90,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី២ (MoEYS Official)](https://www.youtube.com/watch?v=jehDcFs7niU&t=310s)
     * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី៣ (MoEYS Official)](https://www.youtube.com/watch?v=spEnYhluza8)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររៀបររៀងរោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី១៨ (NIE)](https://drive.google.com/file/d/1EeOOCorFyXUc-ri4N9cBmySxvFOz2UaA/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី១៨ (NIE)](https://drive.google.com/file/d/1EeOOCorFyXUc-ri4N9cBmySxvFOz2UaA/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/0B1dv5sqSPsPbUWQ4T29yTHhUZU0/view?usp=sharing&resourcekey=0-HstQXEI9FVH7PxCmkHlixA) 
 
 
