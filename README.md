@@ -25,12 +25,11 @@ Reminding: Do you have a choice not to do it?
 * [ជំពូកទី ០២\. អាំងតេក្រាល](#ជំពូក-០២-អាំងតេក្រាល)
     * [L.4\. អាំងតេក្រាលមិនកំណត់](#មេរៀនទី-04-អាំងតេក្រាលមិនកំណត់)
     * [L.5\. អាំងតេក្រាលកំណត់]
-    * L.5\. <s> អាំងទែផេរ៉ង់ និង ឌីប្រាក់ស្យុង </s>
-* ជំពូកទី ០៣ \. ឌីផេរ៉ងស្យែល 
-    * L.6\. ដែន និង កម្លាំងអគ្គិសនី
-    * L.7\. អាំងឌុចស្យុងអេឡិចត្រូម៉ាញេទិច
-    * L.8\. អូតូអាំងឌុចស្យុង
-    * L.9\. សៀគ្វីចរន្តឆ្លាស់
+    * L.5\. <s> មាឌសូលីត </s>
+* ជំពូកទី ០៣ \. សមីការឌីផេរ៉ងស្យែល 
+    * L.6\. សមីការឌីផេរ៉ងស្យែលលំដាប់១
+    * L.7\. សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២
+    
 * [ 🎬 វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ) 🎬](#វីដេអូ-អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់)
     * ឆ្នាំ 2015
     * ឆ្នាំ 2016
@@ -124,7 +123,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1nCTF10afgcVmzFVLDkCRg7v0P1riFzdV/view?usp=sharing)
 
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
-###       មេរៀនទី ០៣ ម៉ាស៊ីន
+###       សមីការឌីផេរ៉ងស្យែលលំដាប់១
 
 **Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
 <br>
@@ -141,6 +140,18 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1Y0btpKE2TUjBosqP90CN9EQARI4u11aP/view?usp=sharing)
 
+###       មេរៀនទី ០២ សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២
+**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+<br>
+**Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=AI9oj1NXSKc)
+    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី៣ (MoEYS Official)](https://www.youtube.com/watch?v=aVxhICegKoE)
+    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី៤ (MoEYS Official)](https://www.youtube.com/watch?v=c-6z5_McW8c)
+   
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
+-----
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
 - **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=FrfD7qShSzQ) && [ភាគទី ០២](https://www.youtube.com/watch?v=tcimn6YR42k) 
