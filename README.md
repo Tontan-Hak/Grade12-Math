@@ -72,7 +72,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [Teaching and learning priciples](https://drive.google.com/file/d/1LS4PAPM9JEN97oc5DphyWT0Ti-y5v5Ai/view?usp=sharing)
     * [Think outside the box](https://youtu.be/Dk6xrhF3zTQ)
     * [The process of reflection](https://docs.google.com/document/d/1KThoPoc2LZmIt1-TykXqt48nVZe7yAfnzzrBi2iDZMM/edit)
-    *      
+         
 -----
 # ជំពូកទី ០១ វុិចទ័រក្នុងលំហ
  > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
@@ -146,8 +146,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - **2018**  [ភាគទី ០១](https://www.youtube.com/watch?v=V5TC-XSadVI) && [ភាគទី ០២](https://www.youtube.com/watch?v=v1j3tnIEMuE) 
 - **2019**  [ភាគទី ០១](https://www.youtube.com/watch?v=V1Xh702GM_g) && [ភាគទី ០២](https://www.youtube.com/watch?v=PcCCWbxExd8) 
 - **វីឌីអូ Playlist** 
-- [អត្រាកំណែវិញ្ញាសារថ្នាក់សង្គមនិងវិទ្យាសាស្រ្ត](https://www.youtube.com/playlist?list=PLDt349AvcEaJPUNekyJzYBrHl1bUTgu1j)
-- [ថ្នាក់ទី១២ គណិតវិទ្យា បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន](https://www.youtube.com/playlist?list=PLDt349AvcEaINeVe_jEqTsiDBW17EPVpZ)
+   * [អត្រាកំណែវិញ្ញាសារថ្នាក់សង្គមនិងវិទ្យាសាស្រ្ត](https://www.youtube.com/playlist?list=PLDt349AvcEaJPUNekyJzYBrHl1bUTgu1j)
+   * [ថ្នាក់ទី១២ គណិតវិទ្យា បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន](https://www.youtube.com/playlist?list=PLDt349AvcEaINeVe_jEqTsiDBW17EPVpZ)
 
 -----
 
