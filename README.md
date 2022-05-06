@@ -103,7 +103,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី៤ (MoEYS Official)](https://www.youtube.com/watch?v=c-6z5_McW8c)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី១៨ (NIE)](https://drive.google.com/file/d/1EeOOCorFyXUc-ri4N9cBmySxvFOz2UaA/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/0B1dv5sqSPsPbUWQ4T29yTHhUZU0/view?usp=sharing&resourcekey=0-HstQXEI9FVH7PxCmkHlixA)
 -----
 # ជំពូក ០២ អាំងតេក្រាល
 
