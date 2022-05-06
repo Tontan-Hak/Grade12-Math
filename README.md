@@ -185,28 +185,101 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
 -----
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
-###      មេរៀនទី ០២ សមីការឌីផេរ៉ងស្យែលលំដាប់១
+###      មេរៀនទី ០១ សមីការឌីផេរ៉ងស្យែលលំដាប់១
 
 **Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១)]()
-    * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX9kbGO0E7OQcjZrpUkpmICB)
+    * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី១ ភាគ១](https://www.youtube.com/watch?v=n8JaEHpNBN8&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=31)
+    * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី១ ភាគបញ្ចប់](https://www.youtube.com/watch?v=WoKV8jrItvw&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=30)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1Y0btpKE2TUjBosqP90CN9EQARI4u11aP/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
 
 ###       មេរៀនទី ០២ សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២
 **Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
 <br>
 **Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=AI9oj1NXSKc)
-    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី៣ (MoEYS Official)](https://www.youtube.com/watch?v=aVxhICegKoE)
-    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី៤ (MoEYS Official)](https://www.youtube.com/watch?v=c-6z5_McW8c)
+    * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ ភាគ១](https://www.youtube.com/watch?v=0k_Np0HStZU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=29)
+    * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=eXJqZtWld7Y&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=28)
+    * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ ភាគ២](https://www.youtube.com/watch?v=sx6UxaoXItc&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=27)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+-----
+# ជំពូក ០៤ កោនិច
+###      មេរៀនទី ០១ ប៉ារ៉ាបូល
+
+**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
+<br>
+**Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 ប៉ារ៉ាបូល](https://www.youtube.com/watch?v=PrWQRG-M2bw&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=45)
+    * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=hev8-YcnZoU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=44)
+    * [🎬 លំហាត់គំរូទី៣](https://www.youtube.com/watch?v=RXAQfkCtYPY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=43)
+    * [🎬 លំហាត់គំរូទី៤](https://www.youtube.com/watch?v=iUgC---eTOs&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=42)
+    * [🎬 លំហាត់គំរូទី៥](https://www.youtube.com/watch?v=CsvErd_uQEY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=41)
+  
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+
+###       មេរៀនទី ០២ អេលីប
+**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+<br>
+**Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 អេលីប](https://www.youtube.com/watch?v=f2stkC7_dKI&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=40)
+    * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=TtVXJEFelo4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=38)
+    * [🎬 លំហាត់គំរូទី៣ និងទី៤](https://www.youtube.com/watch?v=SdlojF5ngyA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=39)
+    * [🎬 លំហាត់គំរូទី៥ និងទី៦](https://www.youtube.com/watch?v=YO6m75zugcM&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=37)
+    
+###       មេរៀនទី ០៣ អុីពែបូល
+**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+<br>
+**Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 អអុីពែបូល](https://www.youtube.com/watch?v=Vlq1pcyejO4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=36)
+    * [🎬 លំហាត់គំរូទី១](https://www.youtube.com/watch?v=Q0dHHI9cK_g&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=35)
+    * [🎬 លំហាត់គំរូទី២](https://www.youtube.com/watch?v=SqLsyen8Avg&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=34)
+    * [🎬 លំហាត់គំរូទី៣](https://www.youtube.com/watch?v=F8mTmMQ0FQw&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=33)
+    * [🎬 លំហាត់គំរូទី៤](https://www.youtube.com/watch?v=YNsL46P8gxY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=32)
+  
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+-----
+# ជំពូក ០៥ ចំនួនកុំផ្លិច
+###      មេរៀនទី ០១ 
+
+**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
+<br>
+**Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ១)](https://www.youtube.com/watch?v=zJZtUDqQp6A&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=20)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ២)](https://www.youtube.com/watch?v=95ujRerY9Ig&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=19)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៣)](https://www.youtube.com/watch?v=8uYy4HkVga4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=18)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៤)](https://www.youtube.com/watch?v=cLrYs9sYKgA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=17)
+    * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)](https://www.youtube.com/watch?v=7p5xnj9XWmY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=16)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+-----
+# ជំពូក ០៦ ប្រូបាប
+###      មេរៀនទី ០១ 
+
+**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
+<br>
+**Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 ប្រូបាប (ភាគ១)](https://www.youtube.com/watch?v=uxjDSketC14&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=26)
+    * [🎬 ប្រូបាប (ភាគ២)](https://www.youtube.com/watch?v=4w4Z-eR8I_o&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=25)
+    * [🎬 ប្រូបាប (ភាគ៣)](https://www.youtube.com/watch?v=dpAD7bB9jkQ&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=24)
+    * [🎬 ប្រូបាប (ភាគ៤)](https://www.youtube.com/watch?v=60I3e-8jQlQ&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=23)
+    * [🎬 ប្រូបាប (ភាគ៥)](https://www.youtube.com/watch?v=vh6RSMokpPk&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=22)
+    * [🎬 ប្រូបាប (ភាគ៦)](https://www.youtube.com/watch?v=2fJSDdHFFQA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=21)
+    
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
 -----
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
