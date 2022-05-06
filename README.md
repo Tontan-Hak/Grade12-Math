@@ -77,9 +77,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 # ជំពូកទី ០១ វុិចទ័រក្នុងលំហ
  > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
-✅ [ The Physics of Randomness](https://www.youtube.com/watch?v=5jBVYvHeG2c) <br>
-✅ [  First Law of Thermodynamics: History of the Concept of Energy](https://www.youtube.com/watch?v=a9c7u-FM-Wc&list=PLepnjl2hm9tHRMTdVyJ8t9HB6TZ63hFdU) <br>
-✅ [ The Story Of Energy With Professor Jim Al-Khalili | Order and Disorder](https://www.youtube.com/watch?v=aeaQpuYPsy8&t=82s) 
+✅ [ Vector](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B) <br>
+✅ [  First Law of Thermodynamics: History of the Concept of Energy]() <br>
+✅ [ The Story Of Energy With Professor Jim Al-Khalili | Order and Disorder]() 
 
 ###      មេរៀនទី ០១ ផលគុណនៃពីរវុិចទ័រក្នុងលំហ
 **Topics Covered:**  `ខួប` `ប្រេកង់` `ល្បឿនមុំ` `អំព្លីទុត` `ផាស` `គោលការណ៍តម្រួត` `រលកជញ្ជ្រំ` `រ៉េសូណង់` 
