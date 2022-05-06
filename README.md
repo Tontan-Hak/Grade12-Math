@@ -82,12 +82,14 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 ✅ [ The Story Of Energy With Professor Jim Al-Khalili | Order and Disorder](https://www.youtube.com/watch?v=aeaQpuYPsy8&t=82s) 
 
 ###      មេរៀនទី ០១ ផលគុណនៃពីរវុិចទ័រក្នុងលំហ
+**Topics Covered:**  `ខួប` `ប្រេកង់` `ល្បឿនមុំ` `អំព្លីទុត` `ផាស` `គោលការណ៍តម្រួត` `រលកជញ្ជ្រំ` `រ៉េសូណង់` 
+<br>
 **Mathematical Fundamentals:** `ទំនាក់ទំនងរវាងមីក្រូស្កុបពិច និង ម៉ាក្រូស្កុបពិច` `ស្ថិតិ` `Assumptions Ideal Gas Law` `សម្ពាធក្នុងទ្រឹស្តីស៊ីនេទិចនៃឧស្ម័ន` `សមីការឧស្ម័នបរិសុទ្ធ`  `តម្លៃមធ្យមនៃថាមពលស៊ីនេទិចម៉ូលេគុលនីមួយៗ` `ថាមពលស៊ីនេទិចសរុប` `ឬសការេនៃការេល្បឿនមធ្យម`
 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ (ភាគទី១)(MoEYS Official)](https://www.youtube.com/watch?v=a2QhkBJuK9M&t=613s)
-    * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ (ភាគទី២)(MoEYS Official)](https://www.youtube.com/watch?v=jehDcFs7niU&t=310s)
-    * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ (ភាគទី៣)(MoEYS Official)](https://www.youtube.com/watch?v=spEnYhluza8)
+    * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=a2QhkBJuK9M&t=613s)
+    * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី២ (MoEYS Official)](https://www.youtube.com/watch?v=jehDcFs7niU&t=310s)
+    * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី៣ (MoEYS Official)](https://www.youtube.com/watch?v=spEnYhluza8)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1rbt3E4j3O_fwVe70KBoZBbDkaq4VXldg/view?usp=sharing) 
 
@@ -97,9 +99,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 <br>
 **Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ (ភាគទី១)(MoEYS Official)](https://www.youtube.com/watch?v=AI9oj1NXSKc)
-    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ (ភាគទី៣)(MoEYS Official)](https://www.youtube.com/watch?v=aVxhICegKoE)
-    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ (ភាគទី៤)(MoEYS Official)](https://www.youtube.com/watch?v=c-6z5_McW8c)
+    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=AI9oj1NXSKc)
+    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី៣ (MoEYS Official)](https://www.youtube.com/watch?v=aVxhICegKoE)
+    * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី៤ (MoEYS Official)](https://www.youtube.com/watch?v=c-6z5_McW8c)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
