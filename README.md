@@ -138,6 +138,21 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី២៤)(MoEYS Official)](https://www.youtube.com/watch?v=aSMkD6965CU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=82)
     * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៥)(MoEYS Official)](https://www.youtube.com/watch?v=pRnzBFUiuwU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=93)
     * [🎬 (MoEYS Official)]()
+- វីដេអូពន្យល់ខ្លឹមសារមេរៀននិងលំហាត់គំរូ ដោយលោកគ្រូ-នាង-បូ ៖
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់](https://www.youtube.com/watch?v=c1yE2sjFEKA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=15)
+    * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=z9ND36_iyKM&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=14)
+    * [🎬 លំហាត់គំរូទី៣ និងទី៤](https://www.youtube.com/watch?v=NEcq-9bOVYo&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=13)
+    * [🎬 លំហាត់គំរូទី៥ និងទី៦](https://www.youtube.com/watch?v=qhBo1RCS9l0&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=12)
+    * [🎬 លំហាត់គំរូទី៧](https://www.youtube.com/watch?v=JbQ6fOcDFIs&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=11)
+    * [🎬 លំហាត់គំរូទី៨](https://www.youtube.com/watch?v=iHg1A4-n-UM&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=10)
+    * [🎬 លំហាត់គំរូទី៩](https://www.youtube.com/watch?v=2_U7YJzy36w&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=9)
+    * [🎬 លំហាត់គំរូទី១០](https://www.youtube.com/watch?v=DZ5pQsdwst0&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=8)
+    * [🎬 លំហាត់ទី១-១០](https://www.youtube.com/watch?v=_zf-DI6G7Cs&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=7)
+    * [🎬 លំហាត់ទី១១-២០](https://www.youtube.com/watch?v=rZnxHTO5xZc&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=6)
+    * [🎬 លំហាត់ទី២១-៣០](https://www.youtube.com/watch?v=DH96lJneGyc&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=5)
+    * [🎬 លំហាត់ទី៣១-៤០](https://www.youtube.com/watch?v=qKqp49ocdEs&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=4)
+    * [🎬 លំហាត់ទី៤១-៥០](https://www.youtube.com/watch?v=wZaEScYMXkk&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=3)
+    * [🎬 លំហាត់ទី៥១-៦០](https://www.youtube.com/watch?v=iSUveK71bYU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=2)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
 
