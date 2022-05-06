@@ -23,12 +23,12 @@ Reminding: Do you have a choice not to do it?
     * [L.1\. ផលគុណនៃពីរវុិចទ័រក្នុងលំហ](#មេរៀនទី-០១-ផលគុណនៃពីរវុិចទ័រក្នុងលំហ)
     * [L.2\. អនុវត្តនៃផលគុណវុិចទ័រ](#មេរៀនទី-០២-ច្បាប់ទី-១-អនុវត្តនៃផលគុណវុិចទ័រ)
 * [ជំពូកទី ០២\. អាំងតេក្រាល](#ជំពូក-០២-អាំងតេក្រាល)
-    * [L.4\. អាំងតេក្រាលមិនកំណត់](#មេរៀនទី-04-អាំងតេក្រាលមិនកំណត់)
+    * [L.4\. ព្រីមីទីវអាំងតេក្រាលមិនកំណត់](#មេរៀនទី-04-អាំងតេក្រាលមិនកំណត់)
     * [L.5\. អាំងតេក្រាលកំណត់]
-    * L.5\. <s> មាឌសូលីត </s>
+    * L.6\. <s> មាឌសូលីតនិងប្រវែងធ្នូ </s>
 * ជំពូកទី ០៣ \. សមីការឌីផេរ៉ងស្យែល 
-    * L.6\. សមីការឌីផេរ៉ងស្យែលលំដាប់១
-    * L.7\. សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២
+    * L.7\. សមីការឌីផេរ៉ងស្យែលលំដាប់១
+    * L.8\. សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២
     
 * [ 🎬 វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ) 🎬](#វីដេអូ-អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់)
     * ឆ្នាំ 2015
@@ -108,35 +108,47 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 -----
 # ជំពូក ០២ អាំងតេក្រាល
 
-### មេរៀនទី 04 អាំងតេក្រាលមិនកំណត់
-**Topics Covered:**  `ខួប` `ប្រេកង់` `ល្បឿនមុំ` `អំព្លីទុត` `ផាស` `គោលការណ៍តម្រួត` `រលកជញ្ជ្រំ` `រ៉េសូណង់` 
+### មេរៀនទី ០១ ព្រីមីទីវនិងអាំងតេក្រាលមិនកំណត់
+**Topics Covered:**  `និយមន័យព្រីមីទីវ` `ប្រេកង់` `ល្បឿនមុំ` `អំព្លីទុត` `ផាស` `គោលការណ៍តម្រួត` `រលកជញ្ជ្រំ` `រ៉េសូណង់` 
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
-- [Simulation រកតម្លៃខួប ប្រេកង់ និង រលកជញ្ជ្រំ]()
-- បាតុភូតរ៉េសូណង់
-    * [Video-1]()
-    * [Video-2]()
-    * [Video-3]()
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 មេរៀន គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWampSwS8OuG3nSRQocemPc7dG)
-    * [🎬 មេរៀន គោលការណ៍តម្រួតនៃរលក និង រលកជញ្ជ្រំ បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX8b4CBqxRnmfa2q1QvhlLyu)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=9jdiT2zcSHc&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=63)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី២ (MoEYS Official)](https://www.youtube.com/watch?v=U-e2bhPaejM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=64)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៣ (MoEYS Official)](https://www.youtube.com/watch?v=ijrMNI3pGco&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=65)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៤ (MoEYS Official)](https://www.youtube.com/watch?v=Xcy5pcHhZro&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=66)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៥ (MoEYS Official)](https://www.youtube.com/watch?v=4BHrfoWCxW8&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=67)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៦ (MoEYS Official)](https://www.youtube.com/watch?v=1mRQbgrctJc&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=68)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៧ (MoEYS Official)](https://www.youtube.com/watch?v=NU_L-jIhfEU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=69)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៨ (MoEYS Official)](https://www.youtube.com/watch?v=IheuGrI8QvM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=70)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៩ (MoEYS Official)](https://www.youtube.com/watch?v=BwCCZ1bs8rE&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=71)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១០ (MoEYS Official)](https://www.youtube.com/watch?v=rGXga7ezM5A&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=72)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១១ (MoEYS Official)](https://www.youtube.com/watch?v=Q6q_1-zA6kg&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=73)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១២ (MoEYS Official)](https://www.youtube.com/watch?v=xEH-GwlFg5Y&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=74)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៣)(MoEYS Official)](https://www.youtube.com/watch?v=_R4m2NKtXDQ&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=91)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៤)(MoEYS Official)](https://www.youtube.com/watch?v=y-Hbp4uR11w&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=92)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៥)(MoEYS Official)](https://www.youtube.com/watch?v=pRnzBFUiuwU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=93)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៦)(MoEYS Official)](https://www.youtube.com/watch?v=3Gs98apTkpQ&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=76)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៧)(MoEYS Official)](https://www.youtube.com/watch?v=kQ69no4Nbh8&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=77)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៨)(MoEYS Official)](https://www.youtube.com/watch?v=yT7HhjRFxak&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=78)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៩)(MoEYS Official)](https://www.youtube.com/watch?v=gm6N9UCRrqc&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=79)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី២០)(MoEYS Official)](https://www.youtube.com/watch?v=5boE3mIawYM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=80)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី២១)(MoEYS Official)](https://www.youtube.com/watch?v=3xu7P40jRXE&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=81)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី២៣ (MoEYS Official)](https://www.youtube.com/watch?v=4Q-nMNciOqw&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=75)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី២៤)(MoEYS Official)](https://www.youtube.com/watch?v=aSMkD6965CU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=82)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៥)(MoEYS Official)](https://www.youtube.com/watch?v=pRnzBFUiuwU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=93)
+    * [🎬 (MoEYS Official)]()
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1nCTF10afgcVmzFVLDkCRg7v0P1riFzdV/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
 
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
 ###       សមីការឌីផេរ៉ងស្យែលលំដាប់១
 
 **Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
 <br>
-- [Simulation វដ្តម៉ាស៊ីនកាកណូ](https://www.compadre.org/Physlets/thermodynamics/illustration21_1.cfm)
-- មូលហេតុដែលម៉ាស៊ីនសាំងប្រើ បូស៊ី ហើយ ម៉ាស៊ីនម៉ាស៊ូតប្រើ ប៉ិច
-     * [ដុតសាំង និង ម៉ាស៊ូតក្នុងខ្យល់](https://www.youtube.com/watch?v=7soVqyGq4i4&t=81s) 
-     * [ភាពខុសគ្នានៃច្រវ៉ាក់អ៊ីដ្រូកាបួ របស់ សាំង និង ម៉ាស៊ូត](https://www.youtube.com/watch?v=rlK7JIAz9WY&t=214s)
-- [ដំណើរការរបស់ម៉ាស៊ីនសាំង](https://www.youtube.com/watch?v=_QXH5MaoKEE&t=1s)
-- [Playlist ដំណើរការរបស់ម៉ាស៊ីនម៉ាស៊ូត](https://www.youtube.com/playlist?list=PLy4d0AptRUmLjsfuuM-cvdwjdSH0qy5jg)
-- [Stirling Engine](https://www.youtube.com/watch?v=PamhI7ZJiFs&t=4s) | [Reading about Stirling Engine](https://en.wikipedia.org/wiki/Stirling_cycle)
+**Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូហាក់ កុសល Full Playlist](https://www.youtube.com/playlist?list=PLH3117ApWamrWn6PHIUqPCSxhPfB8IELI)
+    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១)]()
     * [🎬 មេរៀន ម៉ាស៊ីន បង្រៀនដោយលោកគ្រូ យិន អ៊ាង (MoEYS Official)](https://www.youtube.com/playlist?list=PL2G_O4s8LpX9kbGO0E7OQcjZrpUkpmICB)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1Y0btpKE2TUjBosqP90CN9EQARI4u11aP/view?usp=sharing)
@@ -199,6 +211,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 #  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
 - [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
 - [GeoGebra](https://www.geogebra.org/u/tontanhak97)
+- [Duraseksa](https://www.duraseksa.com/home)
 
 -----
 ## Licence:
