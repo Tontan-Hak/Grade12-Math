@@ -155,9 +155,37 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 លំហាត់ទី៥១-៦០](https://www.youtube.com/watch?v=iSUveK71bYU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=2)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
-
+    
+###       មេរៀនទី ០២ អាំងតេក្រាលកំណត់
+**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+<br>
+**Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី១)(MoEYS Official)](https://www.youtube.com/watch?v=VaiHI3WJqfM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=83)
+    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី២)(MoEYS Official)](https://www.youtube.com/watch?v=06eyE41zZ3A&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=84)
+    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៣)(MoEYS Official)](https://www.youtube.com/watch?v=s8RW0ntrgyU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=85)
+    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៤)(MoEYS Official)](https://www.youtube.com/watch?v=FnfIr1K7I3g&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=86)
+    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៥)(MoEYS Official)](https://www.youtube.com/watch?v=-OibDjnrLgw&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=87)
+    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៦)(MoEYS Official)](https://www.youtube.com/watch?v=gyo7lXr6f4Q&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=88)
+    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៧)(MoEYS Official)](https://www.youtube.com/watch?v=0yH0PDrJ-Z0&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=89)
+    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៨)(MoEYS Official)](https://www.youtube.com/watch?v=CCvwXTNiLX4&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=90)
+    * [🎬 (MoEYS Official)]()
+- វីដេអូពន្យល់ខ្លឹមសារមេរៀននិងលំហាត់គំរូ ដោយលោកគ្រូ-នាង-បូ ៖
+    * [🎬 អាំងតេក្រាលកំណត់](https://www.youtube.com/watch?v=GPxkTemrQ2w&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=1)
+    * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=eNRFBiuHlSk&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=52)
+    * [🎬 លំហាត់គំរូទី៣ និងទី៤](https://www.youtube.com/watch?v=ICtkrQDisyw&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=49)
+    * [🎬 លំហាត់គំរូទី៥ និងទី៦](https://www.youtube.com/watch?v=4pxIP0KUXC4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=47)
+    * [🎬 លំហាត់គំរូទី៧](https://www.youtube.com/watch?v=huzmEZrel2c&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=46)
+    * [🎬 បាក់ឌុប១](https://www.youtube.com/watch?v=8_sqUIo2wtY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=51)
+    * [🎬 បាក់ឌុប២](https://www.youtube.com/watch?v=huzmEZrel2c&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=46)
+    * [🎬 បាក់ឌុប៣](https://www.youtube.com/watch?v=UZesuiC1U9s&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=50)
+    * [🎬 បាក់ឌុប៤](https://www.youtube.com/watch?v=sWpQrjKYN1g&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=48)
+   
+- មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
+-----
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
-###       សមីការឌីផេរ៉ងស្យែលលំដាប់១
+###      មេរៀនទី ០២ សមីការឌីផេរ៉ងស្យែលលំដាប់១
 
 **Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
 <br>
