@@ -23,33 +23,13 @@ Reminding: Do you have a choice not to do it?
     * [L.1\. ផលគុណនៃពីរវុិចទ័រក្នុងលំហ](#មេរៀនទី-០១-ផលគុណនៃពីរវុិចទ័រក្នុងលំហ)
     * [L.2\. អនុវត្តនៃផលគុណវុិចទ័រ](#មេរៀនទី-០២-ច្បាប់ទី-១-អនុវត្តនៃផលគុណវុិចទ័រ)
 * [ជំពូកទី ០២\. អាំងតេក្រាល](#ជំពូក-០២-អាំងតេក្រាល)
-    * [L.1\. ព្រីមីទីវអាំងតេក្រាលមិនកំណត់](#មេរៀនទី-04-អាំងតេក្រាលមិនកំណត់)
-    * [L.2\. អាំងតេក្រាលកំណត់]
-    * L.3\. <s> មាឌសូលីតនិងប្រវែងធ្នូ </s>
+    * [L.4\. ព្រីមីទីវអាំងតេក្រាលមិនកំណត់](#មេរៀនទី-04-អាំងតេក្រាលមិនកំណត់)
+    * [L.5\. អាំងតេក្រាលកំណត់]
+    * L.6\. <s> មាឌសូលីតនិងប្រវែងធ្នូ </s>
 * ជំពូកទី ០៣ \. សមីការឌីផេរ៉ងស្យែល 
-    * L.1\. សមីការឌីផេរ៉ងស្យែលលំដាប់១
-    * L.2\. សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២
-* ជំពូកទី ០៤ \. កោនិច 
-    * L.1\. ប៉ារ៉ាបូល
-    * L.2\. អេលីប
-    * L.3\. អុីពែបូល
-* ជំពូកទី ០៥ \. ចំនួនកុំផ្លិច 
-    * L.1\. 
-    * L.2\. 
-* ជំពូកទី ០៦ \. ប្រូបាប 
-    * L.1\. 
-    * L.2\. 
-* ជំពូកទី ០៧ \. លីមីត 
-    * L.1\. លីមីតនៃអនុគមន៍
-    * L.2\. ភាពជាប់នៃអនុគមន៍
-* ជំពូកទី ០៨ \. ដេរីវេនៃអនុគមន៍ 
-    * L.1\. ដេរីវេនៃអនុគមន៍
-    * L.2\. អនុវត្តន៍ដេរីវេ
-* ជំពូកទី ០៩ \. សិក្សាអថេរភាពនិងសង់ក្រាបនៃអនុគមន៍ 
-    * L.1\. អនុគមន៍សនិទាន
-    * L.2\. អនុគមន៍អិចស្ប៉ូណង់ស្យែល
-    * L.3\. អនុគមន៍លោការីត
-   
+    * L.7\. សមីការឌីផេរ៉ងស្យែលលំដាប់១
+    * L.8\. សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២
+    
 * [ 🎬 វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់ (កែដោយគ្រូក្រសួងអប់រំ) 🎬](#វីដេអូ-អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់)
     * ឆ្នាំ 2015
     * ឆ្នាំ 2016
@@ -129,7 +109,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 # ជំពូក ០២ អាំងតេក្រាល
 
 ### មេរៀនទី ០១ ព្រីមីទីវនិងអាំងតេក្រាលមិនកំណត់
-**Topics Covered:**  `និយមន័យព្រីមីទីវ` `ប្រេកង់` `ល្បឿនមុំ` `អំព្លីទុត` `ផាស` `គោលការណ៍តម្រួត` `រលកជញ្ជ្រំ` `រ៉េសូណង់` 
+**Topics Covered:**  
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -177,9 +157,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
     
 ###       មេរៀនទី ០២ អាំងតេក្រាលកំណត់
-**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+**Topics Covered:**  
 <br>
-**Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
+**Mathematical Fundamentals:**  
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី១)(MoEYS Official)](https://www.youtube.com/watch?v=VaiHI3WJqfM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=83)
     * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី២)(MoEYS Official)](https://www.youtube.com/watch?v=06eyE41zZ3A&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=84)
@@ -202,12 +182,12 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 បាក់ឌុប៤](https://www.youtube.com/watch?v=sWpQrjKYN1g&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=48)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី](https://drive.google.com/file/d/1YCOAvx4y5tCE0av-nHCBAr9ndEzrV1Xz/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ]()
 -----
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
 ###      មេរៀនទី ០១ សមីការឌីផេរ៉ងស្យែលលំដាប់១
 
-**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
+**Topics Covered:** 
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -217,21 +197,21 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
 
 ###       មេរៀនទី ០២ សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២
-**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+**Topics Covered:**  
 <br>
-**Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
+**Mathematical Fundamentals:** 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ ភាគ១](https://www.youtube.com/watch?v=0k_Np0HStZU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=29)
     * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=eXJqZtWld7Y&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=28)
     * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ ភាគ២](https://www.youtube.com/watch?v=sx6UxaoXItc&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=27)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+    * [📚 ឯកសាររបស់លោកគ្រូ]()
 -----
 # ជំពូក ០៤ កោនិច
 ###      មេរៀនទី ០១ ប៉ារ៉ាបូល
 
-**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
+**Topics Covered:** 
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -242,10 +222,10 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 លំហាត់គំរូទី៥](https://www.youtube.com/watch?v=CsvErd_uQEY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=41)
   
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+    * [📚 ឯកសាររបស់លោកគ្រូ]()
 
 ###       មេរៀនទី ០២ អេលីប
-**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+**Topics Covered:** 
 <br>
 **Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -255,7 +235,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 លំហាត់គំរូទី៥ និងទី៦](https://www.youtube.com/watch?v=YO6m75zugcM&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=37)
     
 ###       មេរៀនទី ០៣ អុីពែបូល
-**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+**Topics Covered:**  
 <br>
 **Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -266,12 +246,12 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 លំហាត់គំរូទី៤](https://www.youtube.com/watch?v=YNsL46P8gxY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=32)
   
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+    * [📚 ឯកសាររបស់លោកគ្រូ]()
 -----
 # ជំពូក ០៥ ចំនួនកុំផ្លិច
 ###      មេរៀនទី ០១ 
 
-**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
+**Topics Covered:** 
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -282,12 +262,12 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)](https://www.youtube.com/watch?v=7p5xnj9XWmY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=16)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+    * [📚 ឯកសាររបស់លោកគ្រូ]()
 -----
 # ជំពូក ០៦ ប្រូបាប
 ###      មេរៀនទី ០១ 
 
-**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
+**Topics Covered:** 
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -299,22 +279,22 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ប្រូបាប (ភាគ៦)](https://www.youtube.com/watch?v=2fJSDdHFFQA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=21)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+    * [📚 ឯកសាររបស់លោកគ្រូ]()
 -----
 # ជំពូក ០៧ លីមីត
 ###      មេរៀនទី ០១ លីមីតនៃអនុគមន៍
 
-**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
+**Topics Covered:** 
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ]()
     * [🎬 ]()
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+    * [📚 ឯកសាររបស់លោកគ្រូ]()
 
 ###       មេរៀនទី ០២ ភាពជាប់នៃអនុគមន៍
-**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+**Topics Covered:** 
 <br>
 **Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -323,22 +303,22 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ម]()
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+    * [📚 ឯកសាររបស់លោកគ្រូ]()
 -----
 # ជំពូក ០៨ ដេរីវេនៃអនុគមន៍
 ###      មេរៀនទី ០១ ដេរីវេនៃអនុគមន៍
 
-**Topics Covered:** `អង់ត្រូពី` `ម៉ាស៊ីនកាកណូ` `ម៉ាស៊ីនសាំង` `ម៉ាស៊ីនម៉ាស៊ូត` `Stirling Engine`
+**Topics Covered:** 
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ]()
     * [🎬 ]()
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+    * [📚 ឯកសាររបស់លោកគ្រូ]()
 
 ###       មេរៀនទី ០២ អនុវត្តន៍ដេរីវេ
-**Topics Covered:**  `ប្រព័ន្ធ` `ភាពនៃប្រព័ន្ធ` `ប្រព័ន្ធទែម៉ូឌីណាមិច` `ច្បាប់រក្សាថាមពល` `បម្រែបម្រួលថាមពលក្នុង` `កម្មន្ត` `ថាមពលកម្តៅ` និង `លំនាំផ្សេងៗ`
+**Topics Covered:**  
 <br>
 **Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -347,7 +327,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ]()
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ាង-ពិសី]()
+    * [📚 ឯកសាររបស់លោកគ្រូ]()
 -----
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
