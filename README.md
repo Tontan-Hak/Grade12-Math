@@ -258,7 +258,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 <br>
 **Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 អអុីពែបូល](https://www.youtube.com/watch?v=Vlq1pcyejO4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=36)
+    * [🎬 អុីពែបូល](https://www.youtube.com/watch?v=Vlq1pcyejO4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=36)
     * [🎬 លំហាត់គំរូទី១](https://www.youtube.com/watch?v=Q0dHHI9cK_g&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=35)
     * [🎬 លំហាត់គំរូទី២](https://www.youtube.com/watch?v=SqLsyen8Avg&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=34)
     * [🎬 លំហាត់គំរូទី៣](https://www.youtube.com/watch?v=F8mTmMQ0FQw&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=33)
