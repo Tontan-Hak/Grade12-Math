@@ -220,9 +220,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 <br>
 **Mathematical Fundamentals:** 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ ភាគ១](https://www.youtube.com/watch?v=0k_Np0HStZU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=29)
+    * [🎬 មេរៀនសមីការឌីផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ ភាគ១](https://www.youtube.com/watch?v=0k_Np0HStZU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=29)
     * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=eXJqZtWld7Y&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=28)
-    * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ ភាគ២](https://www.youtube.com/watch?v=sx6UxaoXItc&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=27)
+    * [🎬 មេរៀនសមីការឌីផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ ភាគ២](https://www.youtube.com/watch?v=sx6UxaoXItc&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=27)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ]()
