@@ -418,7 +418,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
  - [វិញ្ញាសារត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ នាង បូ](https://www.youtube.com/playlist?list=PLq_RaQ2nipySdgDr_-nuVnRwPbz03eNBg)
 #### រូបមន្តសង្ខេប-PDF 
 
-- [រូបមន្តសង្ខេប]
+- [រូបមន្តសង្ខេប](https://drive.google.com/file/d/1xbo8rIzV7sQh_vQbzdncoNB3vdJtGOnd/view?usp=sharing)
 
 #### វិញ្ញាសារត្រៀម (optional)
 
