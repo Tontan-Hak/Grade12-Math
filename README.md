@@ -443,8 +443,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
    * [សៀវភៅគណិតថ្នាក់ទី១២ ភាគ២](https://drive.google.com/file/d/12JBN3f2rHgjrFRisgRThDeZb-xf_oMZx/view?usp=sharing)
 -----
 ## Algebra
-- [ ]  ពិជគណិតកម្រិតទី-១  https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg 
-- [x]  ពិជគណិតកម្រិតទី-២  https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu
+- [ ]  [ពិជគណិតកម្រិតទី-១](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
+- [x]  [ពិជគណិតកម្រិតទី-២](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
 
 
 #  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
