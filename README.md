@@ -421,9 +421,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - [រូបមន្តសង្ខេប](https://drive.google.com/file/d/1xbo8rIzV7sQh_vQbzdncoNB3vdJtGOnd/view?usp=sharing)
 
 #### វិញ្ញាសារត្រៀម (optional)
-- [វិញ្ញាសាត្រៀមប្រលងប១]()
-- [វិញ្ញាសាត្រៀមប្រលងប២]()
-- [វិញ្ញាសាត្រៀមប្រលងប៣]()
+- [វិញ្ញាសាត្រៀមប្រលងប១](https://drive.google.com/file/d/1lKsZTTR1yccRI5HSrsn_7eYSFzyFUKtd/view?usp=sharing)
+- [វិញ្ញាសាត្រៀមប្រលងប២](https://drive.google.com/file/d/13o6wGlodd7fjlfwO58e3zZ0KOVeIwDNz/view?usp=sharing)
+- [វិញ្ញាសាត្រៀមប្រលងប៣](https://drive.google.com/file/d/1S6OyuWcxATkW4YFxX3t5MOjSqcMUU-FF/view?usp=sharing)
 
 
 #### លំហាត់ចំរុះ (optional)
