@@ -443,6 +443,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 
 
 #  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
+- [Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
 - [GeoGebra](https://www.geogebra.org/u/tontanhak97)
 - [Duraseksa](https://www.duraseksa.com/home)
