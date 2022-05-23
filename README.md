@@ -419,6 +419,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 #### រូបមន្តសង្ខេប-PDF 
 
 - [រូបមន្តសង្ខេប](https://drive.google.com/file/d/1xbo8rIzV7sQh_vQbzdncoNB3vdJtGOnd/view?usp=sharing)
+- [វិធីសាស្រ្តមួយចំនួនសម្រាប់ដោះស្រាយលំហាត់](https://drive.google.com/file/d/1UX1BONWVUGz5YhaGZKngahgcjBoICs8d/view?usp=sharing)
+- [មេរៀនសង្ខេបនិងលំហាត់គំរូ](https://drive.google.com/file/d/1jxATk61IDHgCfOKtQjG9Fce4g8kPQXkz/view?usp=sharing)
 
 #### វិញ្ញាសារត្រៀម (optional)
 - [វិញ្ញាសាត្រៀមប្រលងប១](https://drive.google.com/file/d/1lKsZTTR1yccRI5HSrsn_7eYSFzyFUKtd/view?usp=sharing)
