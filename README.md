@@ -130,7 +130,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 ### មេរៀនទី ០១ ព្រីមីទីវនិងអាំងតេក្រាលមិនកំណត់
 **Topics Covered:**  
 <br>
-**Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
+**Mathematical Fundamentals:** `អនុគមន៍ត្រីកោណមាត្រ` `Basic algebra` `ដេរីវេ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=9jdiT2zcSHc&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=63)
     * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី២ (MoEYS Official)](https://www.youtube.com/watch?v=U-e2bhPaejM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=64)
@@ -173,7 +173,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 លំហាត់ទី៤១-៥០](https://www.youtube.com/watch?v=wZaEScYMXkk&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=3)
     * [🎬 លំហាត់ទី៥១-៦០](https://www.youtube.com/watch?v=iSUveK71bYU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=2)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសារកិច្ចការស្រាវជ្រាវរបស់គរុសិស្សNIE](https://drive.google.com/file/d/1CCfzcokLUZGm9SgVwGZ8unggHGxCarf-/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-ឌីង-យៀង](https://drive.google.com/file/d/175Zm6qzhHW8V25MEOCHWFLGmgXG2MCyZ/view?usp=sharing)
     
 ###       មេរៀនទី ០២ អាំងតេក្រាលកំណត់
 **Topics Covered:**  
