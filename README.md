@@ -126,6 +126,12 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/0B1dv5sqSPsPbUWQ4T29yTHhUZU0/view?usp=sharing&resourcekey=0-HstQXEI9FVH7PxCmkHlixA)
 -----
 # ជំពូក ០២ អាំងតេក្រាល
+> ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
+ 
+✅ [ Introduction to Calculus](https://www.youtube.com/watch?v=rBVi_9qAKTU&list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M)<br>
+✅ [Integration and the fundamental theorem of calculus](https://www.youtube.com/watch?v=rfG8ce4nNh0) <br>
+✅ [Why Calculus?](https://www.youtube.com/watch?v=IBoAm4mZNxc) 
+✅ [Basic Calculus](https://www.youtube.com/watch?v=mRCXh__pexQ)
 
 ### មេរៀនទី ០១ ព្រីមីទីវនិងអាំងតេក្រាលមិនកំណត់
 **Topics Covered:**  
