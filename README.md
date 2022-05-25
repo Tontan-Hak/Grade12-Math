@@ -136,7 +136,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 ### មេរៀនទី ០១ ព្រីមីទីវនិងអាំងតេក្រាលមិនកំណត់
 **Topics Covered:**  
 <br>
-**Mathematical Fundamentals:** `អនុគមន៍ត្រីកោណមាត្រ` `Basic algebra` `ដេរីវេ`
+**Mathematical Fundamentals:** `Basic algebra` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `ដេរីវេ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=9jdiT2zcSHc&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=63)
     * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី២ (MoEYS Official)](https://www.youtube.com/watch?v=U-e2bhPaejM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=64)
