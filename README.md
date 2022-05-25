@@ -34,11 +34,14 @@ Reminding: Do you have a choice not to do it?
     * [L.2\. អេលីប](#មេរៀនទី-០២-អេលីប)
     * [L.3\. អុីពែបូល](#មេរៀនទី-០៣-អុីពែបូល)
 * [ជំពូកទី ០៥ \. ចំនួនកុំផ្លិច](#ជំពូក-០៥-ចំនួនកុំផ្លិច) 
-    * L.1\. 
-    * L.2\. 
+    * L.1\. ចំនួនកុំផ្លិចទម្រង់ពិជគណិត
+    * L.2\. ចំនួនកុំផ្លិចទម្រង់ត្រីកោណមាត្រ
+    * L.3\. ស្វ័យគុណទីnនិងឬសទីnនៃចំនួនកុំផ្លិច
+    * L.4\. អនុវត្តន៍ចំនួនកុំផ្លិចក្នុងធរណីមាត្រ
 * [ជំពូកទី ០៦ \. ប្រូបាប](#ជំពូក-០៦-ប្រូបាប)
-    * L.1\. 
-    * L.2\. 
+    * L.1\. ចម្លាស់
+    * L.2\. បន្សំ
+    * L.3\. ប្រូបាប
 * [ជំពូកទី ០៧ \. លីមីត](#ជំពូក-០៧-លីមីត) 
     * [L.1\. លីមីតនៃអនុគមន៍](#មេរៀនទី-០១-លីមីតនៃអនុគមន៍)
     * [L.2\. ភាពជាប់នៃអនុគមន៍](#មេរៀនទី-០២-ភាពជាប់នៃអនុគមន៍)
@@ -134,9 +137,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 ✅ [Basic Calculus](https://www.youtube.com/watch?v=mRCXh__pexQ)
 
 ### មេរៀនទី ០១ ព្រីមីទីវនិងអាំងតេក្រាលមិនកំណត់
-**Topics Covered:**  
+**Topics Covered:**  `ព្រីមីទីវ` `អាំងតេក្រាលមិនកំណត់` `អនុវត្តន៍`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `ដេរីវេ`
+**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `ដេរីវេ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=9jdiT2zcSHc&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=63)
     * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី២ (MoEYS Official)](https://www.youtube.com/watch?v=U-e2bhPaejM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=64)
@@ -184,9 +187,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-ឌីង-យៀង](https://drive.google.com/file/d/175Zm6qzhHW8V25MEOCHWFLGmgXG2MCyZ/view?usp=sharing)
     
 ###       មេរៀនទី ០២ អាំងតេក្រាលកំណត់
-**Topics Covered:**  
+**Topics Covered:**  `អាំងតេក្រាលកំណត់` `ផ្ទៃក្រឡានៃផ្នែកប្លង់`
 <br>
-**Mathematical Fundamentals:**  
+**Mathematical Fundamentals:**  `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `ដេរីវេ` `អាំងតេក្រាលមិនកំណត់`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី១)(MoEYS Official)](https://www.youtube.com/watch?v=VaiHI3WJqfM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=83)
     * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី២)(MoEYS Official)](https://www.youtube.com/watch?v=06eyE41zZ3A&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=84)
@@ -209,7 +212,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 បាក់ឌុប៤](https://www.youtube.com/watch?v=sWpQrjKYN1g&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=48)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-អោ-មណីចន្ទ្រា](https://drive.google.com/file/d/1jWijgPUj4VJ77yqnRU3ff89f4uVTuZMR/view?usp=sharing)
 -----
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
 ###      មេរៀនទី ០១ សមីការឌីផេរ៉ងស្យែលលំដាប់១
