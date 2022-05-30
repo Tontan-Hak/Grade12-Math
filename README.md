@@ -185,7 +185,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-ហុីង-វុទ្ធី](https://drive.google.com/file/d/1fReMetHXhaQp2nk2Nwpf8qco5Tb7nEXn/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ួច-ប៊ុនថន](https://drive.google.com/file/d/1Ve_2oUi0Eu86iUGYlrh7dh43YUle4zSW/view?usp=sharing)
-    * [📚 ឯកសារកិច្ចការស្រាវជ្រាវរបស់គរុសិស្សNIE](https://drive.google.com/file/d/1CCfzcokLUZGm9SgVwGZ8unggHGxCarf-/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-ឌីង-យៀង](https://drive.google.com/file/d/175Zm6qzhHW8V25MEOCHWFLGmgXG2MCyZ/view?usp=sharing)
     
 ###       មេរៀនទី ០២ អាំងតេក្រាលកំណត់
@@ -214,6 +213,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 បាក់ឌុប៤](https://www.youtube.com/watch?v=sWpQrjKYN1g&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=48)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសារកិច្ចការស្រាវជ្រាវរបស់គរុសិស្សNIE](https://drive.google.com/file/d/1CCfzcokLUZGm9SgVwGZ8unggHGxCarf-/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-អោ-មណីចន្ទ្រា](https://drive.google.com/file/d/1jWijgPUj4VJ77yqnRU3ff89f4uVTuZMR/view?usp=sharing)
 -----
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
