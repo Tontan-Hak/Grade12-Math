@@ -182,6 +182,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 លំហាត់ទី៤១-៥០](https://www.youtube.com/watch?v=wZaEScYMXkk&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=3)
     * [🎬 លំហាត់ទី៥១-៦០](https://www.youtube.com/watch?v=iSUveK71bYU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=2)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-ហុីង-វុទ្ធី](https://drive.google.com/file/d/1fReMetHXhaQp2nk2Nwpf8qco5Tb7nEXn/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ួច-ប៊ុនថន](https://drive.google.com/file/d/1Ve_2oUi0Eu86iUGYlrh7dh43YUle4zSW/view?usp=sharing)
     * [📚 ឯកសារកិច្ចការស្រាវជ្រាវរបស់គរុសិស្សNIE](https://drive.google.com/file/d/1CCfzcokLUZGm9SgVwGZ8unggHGxCarf-/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-ឌីង-យៀង](https://drive.google.com/file/d/175Zm6qzhHW8V25MEOCHWFLGmgXG2MCyZ/view?usp=sharing)
