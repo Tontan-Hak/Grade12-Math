@@ -112,7 +112,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី៣ (MoEYS Official)](https://www.youtube.com/watch?v=spEnYhluza8)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 គន្លឹះថ្នាក់ទី១១](https://drive.google.com/file/d/1FGlxHR4pjNRwhYSXvAMCGnHWDK-j4p6B/view?usp=sharing)
-    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី១៨ (NIE)](https://drive.google.com/file/d/1EeOOCorFyXUc-ri4N9cBmySxvFOz2UaA/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយលោកគ្រូ-ថុល-សីហា](https://drive.google.com/file/d/1SXADb8fV-WdeuOiyByU2HWd4OAZ7UXBe/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/0B1dv5sqSPsPbUWQ4T29yTHhUZU0/view?usp=sharing&resourcekey=0-HstQXEI9FVH7PxCmkHlixA) 
 
 
@@ -312,7 +312,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ប្រូបាប (ភាគ៦)](https://www.youtube.com/watch?v=2fJSDdHFFQA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=21)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសាររៀបរាងរបស់លោកគ្រូ-ជាង-វណ្ណៈ](https://drive.google.com/file/d/1yuQdmuoMTfdB6SNFvosRU8TPa8YUf3DD/view?usp=sharing)
 -----
 # ជំពូក ០៧ លីមីត
 ###      មេរៀនទី ០១ លីមីតនៃអនុគមន៍
