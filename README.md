@@ -367,7 +367,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ១ អនុវត្តន៍ការគណនាតម្លៃបរមា](https://www.youtube.com/watch?v=UDthMDQa3zU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=17)
     * [🎬 ២ ល្បឿន និង សំទុះនៃចលនា](https://www.youtube.com/watch?v=jAzhb-O0Kl4&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=18)
-    * [🎬 ]()
+    * [🎬 ៣ វិមសភាពកំណើនមានកំណត់ និង ឌីផេរ៉ង់ស្យែល](https://www.youtube.com/watch?v=oD4Qyhue9TM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=21)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-ស៊ាម-សំណាង](https://drive.google.com/file/d/1WH5c-tDQBSOymfgkMnGidnpT2RTQPRgH/view?usp=sharing)
@@ -380,33 +380,43 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ]()
-    * [🎬 ]()
+    * [🎬 ១ អនុគមន៍សនិទាន ១ អាស៊ីមតូតនៃអនុគមន៍](https://www.youtube.com/watch?v=bbinZIha7nM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=20)
+    * [🎬 ២ សិក្សាអនុគមន៍សនិទានទម្រង់ទី១](https://www.youtube.com/watch?v=YHT3eDMD9BQ&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=21)
+    * [🎬 ៣ សិក្សាអនុគមន៍សនិទានទម្រង់ទី១](https://www.youtube.com/watch?v=uN0BNQnIj8s&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=22)
+    * [🎬 ៤ លំហាត់ និង ដំណោះស្រាយអនុគមន៍សនិទាន](https://www.youtube.com/watch?v=QwBl0WTdt0Y&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=23)
+    * [🎬 ៥ លំហាត់ និង ដំណោះស្រាយអនុគមន៍សនិទាន](https://www.youtube.com/watch?v=w_nXoJqUgmM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=24)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1Yp0QDY0-OSiUrU4fFhI5HWWdkoS3HA6q/view?usp=sharing)
 
 ###       មេរៀនទី ០២ អនុគមន៍អិចស្ប៉ូណង់ស្យែល
 **Topics Covered:**  
 <br>
 **Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ]()
-    * [🎬 ]()
-    * [🎬 ]()
+    * [🎬 ១ និយមន័យ លក្ខណៈ និង លីមីត](https://www.youtube.com/watch?v=P8Y8l1kmrEU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=25)
+    * [🎬 ២ ដេរីវេនៃអនុគមន៍អិចស្ប៉ូណង់ស្យែល](https://www.youtube.com/watch?v=hZr6BLLsapE&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=26)
+    * [🎬 ៣ សិក្សាអថេរភាព និង សង់ក្រាបនៃអនុគមន៍អិចស្ប៉ូណង់ស្យែល](https://www.youtube.com/watch?v=qTkc7ekzH20&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=27)
+    * [🎬 ៤ អនុវត្តន៍](https://www.youtube.com/watch?v=g0Tnh4jdWK0&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=28)
+    * [🎬 ៥ លំហាត់បន្ថែមអនុគមន៍អិចស្ប៉ូណង់ស្យែល](https://www.youtube.com/watch?v=dlVMEesxCiU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=29)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/15OxvNoy-oIskQleK9A86A8Py9j8uAEch/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
 ###       មេរៀនទី ០៣ អនុគមន៍លោការីត
 **Topics Covered:**  
 <br>
 **Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ]()
-    * [🎬 ]()
-    * [🎬 ]()
+    * [🎬 ១ និយមន័យ និង លក្ខណៈ](https://www.youtube.com/watch?v=r36nYl8t1fY&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=30)
+    * [🎬 ២ ដេរីវេនៃអនុគមន៍លោការីតនេពែ](https://www.youtube.com/watch?v=sbPB6JC959s&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=31)
+    * [🎬 ៣ ដោះស្រាយសមីការ និង វិសមីការ](https://www.youtube.com/watch?v=k2oiypdTvlg&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=32)
+    * [🎬 ៤ សិក្សាអថេរភាព និង សង់ក្រាបនៃអនុគមន័លោកការីតនេពែ](https://www.youtube.com/watch?v=0bcd3hVpUM8&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=33)
+    * [🎬 ៥ លំហាត់បន្ថែមលើអនុគមន៍លោកការីតនេពែ](https://www.youtube.com/watch?v=1W5fLCnFwT0&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=34)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ដំណោះស្រាយ សិក្សាអថេរភាពនិងសង់ក្រាប](https://drive.google.com/file/d/1lTqJyRE_1A9FvBIJlgFDFLDrSyn1UBBa/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
 -----
 # វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
