@@ -254,7 +254,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 លំហាត់គំរូទី៥](https://www.youtube.com/watch?v=CsvErd_uQEY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=41)
   
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី21 (NIE)](https://drive.google.com/file/d/1iwt9V_WD9YFVVZ9ZczLQmXzg_IQAZfUi/view?usp=sharing)
 
 ###       មេរៀនទី ០២ អេលីប
 **Topics Covered:** 
@@ -265,7 +265,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=TtVXJEFelo4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=38)
     * [🎬 លំហាត់គំរូទី៣ និងទី៤](https://www.youtube.com/watch?v=SdlojF5ngyA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=39)
     * [🎬 លំហាត់គំរូទី៥ និងទី៦](https://www.youtube.com/watch?v=YO6m75zugcM&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=37)
-    
+ - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 ឯកសាររបស់លោកគ្រូ-អោ-មណីចន្ទ្រា](https://drive.google.com/file/d/1PmCOfr4W6q-LGBVcTivg2UOV1rzKsVTR/view?usp=sharing)
+     
 ###       មេរៀនទី ០៣ អុីពែបូល
 **Topics Covered:**  
 <br>
@@ -278,7 +280,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 លំហាត់គំរូទី៤](https://www.youtube.com/watch?v=YNsL46P8gxY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=32)
   
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសារបន្ថែម](https://drive.google.com/file/d/1j_qU8bf1WRJ6v0OraqdVIjTji8lawf3Q/view?usp=sharing)
 -----
 # ជំពូក ០៥ ចំនួនកុំផ្លិច
 ###      មេរៀនទី ០១ 
