@@ -333,7 +333,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ៣.៣ លីមីតនៃអនុគមន៍លោការីតនេពែ](https://www.youtube.com/watch?v=ynhOd9yeHXY&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=7)
     * [🎬 កំណែលំហាត់បន្ថែម](https://www.youtube.com/watch?v=HPpFlRMrO0g&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=8)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ួច-ប៊ុនថន](https://drive.google.com/file/d/1MoHS7-hx6lo7tc7rzkrb980CEzZQoRDk/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1VjQKNDlWOfWixup4n8yatm2RMrvnMumm/view?usp=sharing)
 
 ###       មេរៀនទី ០២ ភាពជាប់នៃអនុគមន៍
 **Topics Covered:** 
