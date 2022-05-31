@@ -226,7 +226,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី១ ភាគ១](https://www.youtube.com/watch?v=n8JaEHpNBN8&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=31)
     * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី១ ភាគបញ្ចប់](https://www.youtube.com/watch?v=WoKV8jrItvw&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=30)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1TFC_I8n95qKonot1nuX9V1-DNLQrBlMN/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី20 ក្រុមទី1 (NIE)](https://drive.google.com/file/d/1mhLIx1WP31daDTyH60gn074B_JQC4Apc/view?usp=sharing)
 
 ###       មេរៀនទី ០២ សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២
 **Topics Covered:**  
@@ -238,7 +239,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 មេរៀនសមីការឌីផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ ភាគ២](https://www.youtube.com/watch?v=sx6UxaoXItc&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=27)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសាររៀបរាងដោយលោកគ្រូ-គឹម-សុគន្ធ](https://drive.google.com/file/d/1oBKjdosp91OWLitoZk_ruDlds2LOXv8n/view?usp=sharing)
 -----
 # ជំពូក ០៤ កោនិច
 ###      មេរៀនទី ០១ ប៉ារ៉ាបូល
