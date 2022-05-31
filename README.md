@@ -321,8 +321,14 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ]()
-    * [🎬 ]()
+    * [🎬 ១.១ លីមីតនៃអនុគមន៍សនិទាន រាងសូន្យលើសូន្យ](https://www.youtube.com/watch?v=gYa6bk4ESj0&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c)
+    * [🎬 ១.២ លីមីតនៃអនុគមន៍សនិទាន រាងអនន្តលើអនន្ត](https://www.youtube.com/watch?v=zrmo5zl9R7A&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=2)
+    * [🎬 ២.១ លីមីតនៃអនុគមន៍អសនិទានរាងសូន្យលើសូន្យ](https://www.youtube.com/watch?v=JH2IqI33uO4&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=3)
+    * [🎬 ២.២ លីមីតនៃអនុគមន៍អសនិទានរាងបូកអនន្តដកអនន្ត](https://www.youtube.com/watch?v=zVcsjUhCVb0&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=4)
+    * [🎬 ៣.១ លីមីតនៃអនុគមន៍ត្រីកោណមាត្រ](https://www.youtube.com/watch?v=Xhz8oqlzO5Q&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=5)
+    * [🎬 ៣.២ លីមីតនៃអនុគមន៍អ៊ិចស្ប៉ូណង់ស្យែល](https://www.youtube.com/watch?v=SfOaGWaKAxg&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=6)
+    * [🎬 ៣.៣ លីមីតនៃអនុគមន៍លោការីតនេពែ](https://www.youtube.com/watch?v=ynhOd9yeHXY&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=7)
+    * [🎬 កំណែលំហាត់បន្ថែម](https://www.youtube.com/watch?v=HPpFlRMrO0g&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=8)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ]()
 
@@ -331,12 +337,13 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 <br>
 **Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ]()
-    * [🎬 ]()
-    * [🎬 ]()
+    * [🎬 ១ ភាពជាប់នៃអនុគមន៍](https://www.youtube.com/watch?v=wVkdQ9ywMNA&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=9)
+    * [🎬 ២ លក្ខណៈនៃអនុគមន៍ជាប់](https://www.youtube.com/watch?v=_Gf_I7bvGpM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=10)
+    * [🎬 ៣ អនុគមន៍បន្លាយតាមភាពជាប់](https://www.youtube.com/watch?v=G7PHyLNzsmQ&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=11)
+    * [🎬 ៤ ទ្រឹស្ដីបទតម្លៃកណ្ដាល](https://www.youtube.com/watch?v=TUzf495lZbE&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=12)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1saqw3QLgBNkus-UxlGTX0IrZsbwd2vuB/view?usp=sharing)
 -----
 # ជំពូក ០៨ ដេរីវេនៃអនុគមន៍
 ###      មេរៀនទី ០១ ដេរីវេនៃអនុគមន៍
@@ -345,22 +352,26 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 <br>
 **Mathematical Fundamentals:** `ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ]()
-    * [🎬 ]()
+    * [🎬 ១ ដេរីវេនៃអនុគមន៍ត្រង់មួយចំណុច](https://www.youtube.com/watch?v=u4dJeS0sJhM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=13)
+    * [🎬 ២ ដេរីវេនៃអនុគមន៍ត្រីកោណមាត្រ](https://www.youtube.com/watch?v=K8OH8XuHKRU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=14)
+    * [🎬 ៣ ដេរីវេលំដាប់ខ្ពស់លំដាប់២](https://www.youtube.com/watch?v=KCS9t-Q2QeI&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=15)
+    * [🎬 ៣.១ ដេរីវេលំដាប់ខ្ពស់លំដាប់n](https://www.youtube.com/watch?v=L9RpTmZc9kc&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=16)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី5ជំនាន់ទី18 (NIE)](https://drive.google.com/file/d/15sYxUTnYmndJffr5gYQzKuOxq6PWpn78/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី19 (NIE)](https://drive.google.com/file/d/1iijWdzEs-wfaPF4TRXrvA_nWiXsdd4Bc/view?usp=sharing)
 
 ###       មេរៀនទី ០២ អនុវត្តន៍ដេរីវេ
 **Topics Covered:**  
 <br>
 **Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ដេទែមីណង់` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ]()
-    * [🎬 ]()
+    * [🎬 ១ អនុវត្តន៍ការគណនាតម្លៃបរមា](https://www.youtube.com/watch?v=UDthMDQa3zU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=17)
+    * [🎬 ២ ល្បឿន និង សំទុះនៃចលនា](https://www.youtube.com/watch?v=jAzhb-O0Kl4&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=18)
     * [🎬 ]()
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-ស៊ាម-សំណាង](https://drive.google.com/file/d/1WH5c-tDQBSOymfgkMnGidnpT2RTQPRgH/view?usp=sharing)
+    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី4ជំនាន់ទី20 (NIE)](https://drive.google.com/file/d/1gccmKm39ap_ltV6PboKxjdxRDpeglJjk/view?usp=sharing)
 -----
 # ជំពូក ០៩ សិក្សាអថេរភាពនិងសង់ក្រាប
 ###      មេរៀនទី ០១ អនុគមន៍សនិទាន
