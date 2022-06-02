@@ -221,7 +221,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
 ###      មេរៀនទី ០១ សមីការឌីផេរ៉ងស្យែលលំដាប់១
 
-**Topics Covered:** 
+**Topics Covered:** `សញ្ញាណនៃសមីការឌីផេរ៉ង់ស្យែលលំដាប់ទី១` `ដំណោះស្រាយសមីការឌីផេរ៉ង់ស្យែលលំដាប់ទី១` `អនុវត្តន៍នៃសមីការឌីផេរ៉ង់ស្យែលក្នុងវិទ្យាសាស្រ្ត`
 <br>
 **Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -232,7 +232,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី20 ក្រុមទី1 (NIE)](https://drive.google.com/file/d/1mhLIx1WP31daDTyH60gn074B_JQC4Apc/view?usp=sharing)
 
 ###       មេរៀនទី ០២ សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២
-**Topics Covered:**  
+**Topics Covered:** `សមីការឌីផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២` `ដំណោះស្រាយសមីការឌីផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ អូម៉ូសែននិងមានមេគុណថេរ` `ដំណោះស្រាយសមីការឌីផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ មិនអូម៉ូសែននិងមានមេគុណថេរ` `អនុវត្តន៍នៃសមីការឌីផេរ៉ង់ស្យែលក្នុងវិទ្យាសាស្រ្ត`
 <br>
 **Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -246,9 +246,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 # ជំពូក ០៤ កោនិច
 ###      មេរៀនទី ០១ ប៉ារ៉ាបូល
 
-**Topics Covered:** 
+**Topics Covered:** `សេចក្តីផ្តើម` `និយមន័យប៉ារ៉ាបូល` `សមីការនៃប៉ារ៉ាបូល` `លក្ខណៈអុបទិចនៃប៉ារ៉ាបូល` 
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `សង់ក្រាប`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ប៉ារ៉ាបូល](https://www.youtube.com/watch?v=PrWQRG-M2bw&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=45)
     * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=hev8-YcnZoU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=44)
@@ -260,9 +260,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី21 (NIE)](https://drive.google.com/file/d/1iwt9V_WD9YFVVZ9ZczLQmXzg_IQAZfUi/view?usp=sharing)
 
 ###       មេរៀនទី ០២ អេលីប
-**Topics Covered:** 
+**Topics Covered:** `សេចក្តីផ្តើម` `និយមន័យអេលីប` `សមីការនៃអេលីប` `អុិចសង់ទ្រីសុីតេ`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` 
+**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `គូសរូប` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 អេលីប](https://www.youtube.com/watch?v=f2stkC7_dKI&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=40)
     * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=TtVXJEFelo4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=38)
@@ -272,7 +272,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-អោ-មណីចន្ទ្រា](https://drive.google.com/file/d/1PmCOfr4W6q-LGBVcTivg2UOV1rzKsVTR/view?usp=sharing)
      
 ###       មេរៀនទី ០៣ អុីពែបូល
-**Topics Covered:**  
+**Topics Covered:**  `សេចក្តីផ្តើម` `និយមន័យនៃអុីពែបូល` `សមីការនៃអុីពែបូល` `អុិចសង់ទ្រីសុីតេ`
 <br>
 **Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
@@ -382,9 +382,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 # ជំពូក ០៩ សិក្សាអថេរភាពនិងសង់ក្រាប
 ###      មេរៀនទី ០១ អនុគមន៍សនិទាន
 
-**Topics Covered:** អនុគមន៍ $y= \dfrac{ax^2+bx+c}{px+q}$  សិក្សាអនុគមន៍$y= \dfrac{ax^2+bx+c}{px^2+qx+r}$  `អនុវត្តន៍`
+**Topics Covered:** អនុគមន៍ $y= \dfrac{ax^2+bx+c}{px+q}$ , សិក្សាអនុគមន៍$y= \dfrac{ax^2+bx+c}{px^2+qx+r}$ , `អនុវត្តន៍`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `អនុគមន៍សនិទាននិងអសនិទាន` `សង់ក្រាប`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ១ អនុគមន៍សនិទាន ១ អាស៊ីមតូតនៃអនុគមន៍](https://www.youtube.com/watch?v=bbinZIha7nM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=20)
     * [🎬 ២ សិក្សាអនុគមន៍សនិទានទម្រង់ទី១](https://www.youtube.com/watch?v=YHT3eDMD9BQ&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=21)
@@ -396,9 +396,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1Yp0QDY0-OSiUrU4fFhI5HWWdkoS3HA6q/view?usp=sharing)
 
 ###       មេរៀនទី ០២ អនុគមន៍អិចស្ប៉ូណង់ស្យែល
-**Topics Covered:**  
+**Topics Covered:** `ចំនួន e` `អនុគមន៍អិចស្ប៉ូណង់ស្យែល` `អនុវត្តន៍`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` 
+**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍អិចស្ប៉ូណង់ស្យែល` `អនុគមន៍ត្រីកោណមាត្រ` `សង់ក្រាប`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ១ និយមន័យ លក្ខណៈ និង លីមីត](https://www.youtube.com/watch?v=P8Y8l1kmrEU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=25)
     * [🎬 ២ ដេរីវេនៃអនុគមន៍អិចស្ប៉ូណង់ស្យែល](https://www.youtube.com/watch?v=hZr6BLLsapE&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=26)
@@ -410,7 +410,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/15OxvNoy-oIskQleK9A86A8Py9j8uAEch/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
 ###       មេរៀនទី ០៣ អនុគមន៍លោការីត
-**Topics Covered:**  
+**Topics Covered:**  `លោការីតនេពែ` `អនុគមន៍លោការីតនេពែ` `សមីការនិងវិសមីការលោការីតនេពែ` `សិក្សាអនុគមន៍ដែលទាក់ទងនិងអនុគមន៍លោការីតនេពែ` `អនុវត្តន៍`
 <br>
 **Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
