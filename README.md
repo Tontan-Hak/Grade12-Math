@@ -302,10 +302,14 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 -----
 # ជំពូក ០៦ ប្រូបាប
 
-**Topics Covered:** 
+**Topics Covered:** `សំណុំ` `របាប` `ចម្លាស់` `បន្សំ` `លំហសំណាក់និងព្រឹត្តិការណ៍` `ប្រូបាប` `គណនាប្រូបាបដោយប្រើចម្លាស់និងបន្សំ`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `logic` `សំណុំ` `របាប`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 គោលការណ៍របាប](https://www.youtube.com/watch?v=0Bhiu6_Ru3I)
+    * [🎬 ចម្លាស់](https://www.youtube.com/watch?v=Qd_ZlPQ-9cM&t=1233s)
+    * [🎬 បន្សំ](https://www.youtube.com/watch?v=UoUlMpX_hgc&list=PLHIDhoWPChfVvkhIqL7eUSXxLRtE65B3o&index=3)
+    * [🎬 ប្រៀបធៀបចម្លាស់ និងបន្សំ](https://www.youtube.com/watch?v=ujmUgjV4TT8&t=66s)
     * [🎬 ប្រូបាប (ភាគ១)](https://www.youtube.com/watch?v=uxjDSketC14&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=26)
     * [🎬 ប្រូបាប (ភាគ២)](https://www.youtube.com/watch?v=4w4Z-eR8I_o&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=25)
     * [🎬 ប្រូបាប (ភាគ៣)](https://www.youtube.com/watch?v=dpAD7bB9jkQ&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=24)
