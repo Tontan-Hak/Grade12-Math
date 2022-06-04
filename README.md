@@ -1,9 +1,8 @@
 ![Blue Virtual Google Classroom Header (1)](https://user-images.githubusercontent.com/85992213/171326122-c1f975c5-d1f6-485b-9000-abfd59515124.png)
 
-
+-----
 # 🚀 Lets get started   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 Reminding: Do you have a choice not to do it?
------
 "Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.
 -----
 
