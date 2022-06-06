@@ -186,6 +186,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររបស់លោកគ្រូ-ហុីង-វុទ្ធី](https://drive.google.com/file/d/1fReMetHXhaQp2nk2Nwpf8qco5Tb7nEXn/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ួច-ប៊ុនថន](https://drive.google.com/file/d/1Ve_2oUi0Eu86iUGYlrh7dh43YUle4zSW/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-ឌីង-យៀង](https://drive.google.com/file/d/175Zm6qzhHW8V25MEOCHWFLGmgXG2MCyZ/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1EhER10yFPXmh6ZofSH_OyKisWpXewo4V/view?usp=sharing)
     
 ###       មេរៀនទី ០២ អាំងតេក្រាលកំណត់
 **Topics Covered:**  `អាំងតេក្រាលកំណត់` `ផ្ទៃក្រឡានៃផ្នែកប្លង់`
@@ -215,6 +216,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសារកិច្ចការស្រាវជ្រាវរបស់គរុសិស្សNIE](https://drive.google.com/file/d/1CCfzcokLUZGm9SgVwGZ8unggHGxCarf-/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-អោ-មណីចន្ទ្រា](https://drive.google.com/file/d/1jWijgPUj4VJ77yqnRU3ff89f4uVTuZMR/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1Hl1W7dBhppRS1a5j3qDBxtMLItirw2cm/view?usp=sharing)
 -----
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
 ###      មេរៀនទី ០១ សមីការឌីផេរ៉ងស្យែលលំដាប់១
