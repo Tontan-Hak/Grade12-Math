@@ -371,7 +371,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី5ជំនាន់ទី18 (NIE)](https://drive.google.com/file/d/15sYxUTnYmndJffr5gYQzKuOxq6PWpn78/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី19 (NIE)](https://drive.google.com/file/d/1iijWdzEs-wfaPF4TRXrvA_nWiXsdd4Bc/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1LErb89tIw7EYJNKLVVloEmOTl1c9IoN_/view?usp=sharing)
 
 ###       មេរៀនទី ០២ អនុវត្តន៍ដេរីវេ
 **Topics Covered:**  `អនុវត្តន៍ក្នុងការគណនាតម្លៃបរមា` `ល្បឿនសំទុះនៃចលនា`
