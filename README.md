@@ -284,6 +284,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
   
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសារបន្ថែម](https://drive.google.com/file/d/1j_qU8bf1WRJ6v0OraqdVIjTji8lawf3Q/view?usp=sharing)
+    * [📚 សំណួរ - ចម្លើយ](https://drive.google.com/file/d/12Ax-1is5KgW0Kb4VBb92OeQTXTZTTy0W/view?usp=sharing)
 -----
 # ជំពូក ០៥ ចំនួនកុំផ្លិច
 **Topics Covered:** `ចំនួនកុំផ្លិចទម្រង់ពីជគណិត` `ចំនួនកុំផ្លិចទម្រង់ត្រីកោណមាត្រ` `ស្វ័យគុណគុណទីn នៃចំនួនកុំផ្លិច` `អនុវត្តន៍ចំនួនកុំផ្លិចក្នុងធរណីមាត្រ`
@@ -299,6 +300,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-ថុល-សីហា](https://drive.google.com/file/d/1FzUVX4bEgfmdRcLJm9_qL3WWoTxQCQtq/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/1cWrbeW4HVStE-h_sri8DoXE_zsq_zRWD/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1UvfkO2NBXl009CJN_pV_yzA1nPwLWwMZ/view?usp=sharing)
 -----
 # ជំពូក ០៦ ប្រូបាប
 
@@ -319,6 +321,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបរាងរបស់លោកគ្រូ-ជាង-វណ្ណៈ](https://drive.google.com/file/d/1yuQdmuoMTfdB6SNFvosRU8TPa8YUf3DD/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1EX7OQVwv2ttbwhDtMHxDxhXSPkfzwxjU/view?usp=sharing)
 -----
 # ជំពូក ០៧ លីមីត
 ###      មេរៀនទី ០១ លីមីតនៃអនុគមន៍
@@ -338,6 +341,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ួច-ប៊ុនថន](https://drive.google.com/file/d/1MoHS7-hx6lo7tc7rzkrb980CEzZQoRDk/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1VjQKNDlWOfWixup4n8yatm2RMrvnMumm/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1MkDzu8X5FQsEDzVROskCBXfqxok65gDU/view?usp=sharing)
 
 ###       មេរៀនទី ០២ ភាពជាប់នៃអនុគមន៍
 **Topics Covered:** `សញ្ញាណនៃអនុគមន៍ជាប់` `ភាពជាប់នៃអនុគមន៍` `លក្ខណៈនៃអនុគមន៍ជាប់` `ភាពជាប់លើចន្លោះ` `ភាពជាប់នៃអនុគមន៍បណ្តាក់` `អនុវត្តន៍ ៖អនុគមន៍បន្លាយតាមភាពជាប់` `ទ្រឹស្តីបទតម្លៃកណ្តាល`
@@ -366,6 +370,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី5ជំនាន់ទី18 (NIE)](https://drive.google.com/file/d/15sYxUTnYmndJffr5gYQzKuOxq6PWpn78/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី19 (NIE)](https://drive.google.com/file/d/1iijWdzEs-wfaPF4TRXrvA_nWiXsdd4Bc/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន]()
 
 ###       មេរៀនទី ០២ អនុវត្តន៍ដេរីវេ
 **Topics Covered:**  `អនុវត្តន៍ក្នុងការគណនាតម្លៃបរមា` `ល្បឿនសំទុះនៃចលនា`
@@ -379,6 +384,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-ស៊ាម-សំណាង](https://drive.google.com/file/d/1WH5c-tDQBSOymfgkMnGidnpT2RTQPRgH/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី4ជំនាន់ទី20 (NIE)](https://drive.google.com/file/d/1gccmKm39ap_ltV6PboKxjdxRDpeglJjk/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1LErb89tIw7EYJNKLVVloEmOTl1c9IoN_/view?usp=sharing)
 -----
 # ជំពូក ០៩ សិក្សាអថេរភាពនិងសង់ក្រាប
 ###      មេរៀនទី ០១ អនុគមន៍សនិទាន
