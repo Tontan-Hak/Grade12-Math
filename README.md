@@ -355,6 +355,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1saqw3QLgBNkus-UxlGTX0IrZsbwd2vuB/view?usp=sharing)
+    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1rlE0dFdPptVtjj2ba3r5oz6iPb_vGKSk/view?usp=sharing)
 -----
 # ជំពូក ០៨ ដេរីវេនៃអនុគមន៍
 ###      មេរៀនទី ០១ ដេរីវេនៃអនុគមន៍
