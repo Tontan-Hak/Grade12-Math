@@ -115,7 +115,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររៀបររៀងរៀងដោយលោកគ្រូ-ថុល-សីហា](https://drive.google.com/file/d/1SXADb8fV-WdeuOiyByU2HWd4OAZ7UXBe/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/0B1dv5sqSPsPbUWQ4T29yTHhUZU0/view?usp=sharing&resourcekey=0-HstQXEI9FVH7PxCmkHlixA) 
 
-
 ###       មេរៀនទី ០២ អនុវត្តនៃផលគុណវុិចទ័រ
 **Topics Covered:**  `1.បន្ទាត់និងប្លង់ក្នុងលំហ` `2.សមីការស្វែ៊រ` `3.ចម្ងាយពីរចំណុចមួយទៅប្លង់មួយនិងចម្ងាយពីចំណុចមួយទៅបន្ទាត់មួយក្នុងលំហ`
 <br>
