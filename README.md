@@ -350,8 +350,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ៤ ទ្រឹស្ដីបទតម្លៃកណ្ដាល](https://www.youtube.com/watch?v=TUzf495lZbE&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=12)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1saqw3QLgBNkus-UxlGTX0IrZsbwd2vuB/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1rlE0dFdPptVtjj2ba3r5oz6iPb_vGKSk/view?usp=sharing)
+    * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1saqw3QLgBNkus-UxlGTX0IrZsbwd2vuB/view?usp=sharing)
+    * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1rlE0dFdPptVtjj2ba3r5oz6iPb_vGKSk/view?usp=sharing)
 -----
 # ជំពូក ០៨ ដេរីវេនៃអនុគមន៍
 ###      មេរៀនទី ០១ ដេរីវេនៃអនុគមន៍
@@ -379,9 +379,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ៣ វិមសភាពកំណើនមានកំណត់ និង ឌីផេរ៉ង់ស្យែល](https://www.youtube.com/watch?v=oD4Qyhue9TM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=21)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-ស៊ាម-សំណាង](https://drive.google.com/file/d/1WH5c-tDQBSOymfgkMnGidnpT2RTQPRgH/view?usp=sharing)
-    * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី4ជំនាន់ទី20 (NIE)](https://drive.google.com/file/d/1gccmKm39ap_ltV6PboKxjdxRDpeglJjk/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1LErb89tIw7EYJNKLVVloEmOTl1c9IoN_/view?usp=sharing)
+    * [📚 ឯកសារបស់លោកគ្រូ-ស៊ាម-សំណាង](https://drive.google.com/file/d/1WH5c-tDQBSOymfgkMnGidnpT2RTQPRgH/view?usp=sharing)
+    * [📚 ឯកសារៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី4ជំនាន់ទី20 (NIE)](https://drive.google.com/file/d/1gccmKm39ap_ltV6PboKxjdxRDpeglJjk/view?usp=sharing)
+    * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1LErb89tIw7EYJNKLVVloEmOTl1c9IoN_/view?usp=sharing)
 -----
 # ជំពូក ០៩ សិក្សាអថេរភាពនិងសង់ក្រាប
 ###      មេរៀនទី ០១ អនុគមន៍សនិទាន
@@ -397,8 +397,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ៥ លំហាត់ និង ដំណោះស្រាយអនុគមន៍សនិទាន](https://www.youtube.com/watch?v=w_nXoJqUgmM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=24)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1Yp0QDY0-OSiUrU4fFhI5HWWdkoS3HA6q/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1c1ooInJN1imKfo51h1wJL3CdfZdRmVoT/view?usp=sharing)
+    * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1Yp0QDY0-OSiUrU4fFhI5HWWdkoS3HA6q/view?usp=sharing)
+    * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1c1ooInJN1imKfo51h1wJL3CdfZdRmVoT/view?usp=sharing)
 
 ###       មេរៀនទី ០២ អនុគមន៍អិចស្ប៉ូណង់ស្យែល
 **Topics Covered:** `ចំនួន e` `អនុគមន៍អិចស្ប៉ូណង់ស្យែល` `អនុវត្តន៍`
@@ -412,9 +412,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ៥ លំហាត់បន្ថែមអនុគមន៍អិចស្ប៉ូណង់ស្យែល](https://www.youtube.com/watch?v=dlVMEesxCiU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=29)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/15OxvNoy-oIskQleK9A86A8Py9j8uAEch/view?usp=sharing)
+    * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/15OxvNoy-oIskQleK9A86A8Py9j8uAEch/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1zgLJ2MsD1SPUju2BYiT4KDyaCfs3C8KS/view?usp=sharing)
+    * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1zgLJ2MsD1SPUju2BYiT4KDyaCfs3C8KS/view?usp=sharing)
 ###       មេរៀនទី ០៣ អនុគមន៍លោការីត
 **Topics Covered:**  `លោការីតនេពែ` `អនុគមន៍លោការីតនេពែ` `សមីការនិងវិសមីការលោការីតនេពែ` `សិក្សាអនុគមន៍ដែលទាក់ទងនិងអនុគមន៍លោការីតនេពែ` `អនុវត្តន៍`
 <br>
@@ -429,7 +429,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ដំណោះស្រាយ សិក្សាអថេរភាពនិងសង់ក្រាប](https://drive.google.com/file/d/1lTqJyRE_1A9FvBIJlgFDFLDrSyn1UBBa/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
-    * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1FU7WIhkYCWvAeDQYwWUE4yZBHOZVIm7W/view?usp=sharing)
+    * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1FU7WIhkYCWvAeDQYwWUE4yZBHOZVIm7W/view?usp=sharing)
 -----
 # វីដេអូ អត្រាកំណែវិញ្ញាសាឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
@@ -453,7 +453,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 
 - [📚 កម្រងវិញ្ញាសា និងអត្រាកំណែថ្នាក់ទី១២(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម)2014-2019](https://drive.google.com/file/d/1gfwLvnefDOGVMEdnsoYBT4xJ1ATdtK-f/view?usp=sharing)
 
-#### វិញ្ញាសារបាក់ឌុប និង អត្រាកំណែគ្រប់មុខ រៀបចំដោយក្រសួងអប់រំ ឆ្នាំ 2014-2019 (File-PDF)
+#### វិញ្ញាសាបាក់ឌុប និង អត្រាកំណែគ្រប់មុខ រៀបចំដោយក្រសួងអប់រំ ឆ្នាំ 2014-2019 (File-PDF)
 
 - [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2014 ដល់ 2017](https://drive.google.com/file/d/1son8XwOmQLvyRfVgKl0p5r9rndBC2SH4/view?usp=sharing)
 - [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2017](https://drive.google.com/file/d/1xGNrYTf_Ycgc5sLIeeABivjRJ3flVeQe/view?usp=sharing)
