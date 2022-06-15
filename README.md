@@ -431,14 +431,14 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1FU7WIhkYCWvAeDQYwWUE4yZBHOZVIm7W/view?usp=sharing)
 -----
-# វីដេអូ អត្រាកំណែវិញ្ញាសារឆ្នាំចាស់
+# វីដេអូ អត្រាកំណែវិញ្ញាសាឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
 - **2016**  [ភាគទី ០១](https://www.youtube.com/watch?v=FrfD7qShSzQ) && [ភាគទី ០២](https://www.youtube.com/watch?v=tcimn6YR42k) 
 - **2017**  [ភាគទី ០១](https://www.youtube.com/watch?v=WfE1acm9iao) && [ភាគទី ០២](https://www.youtube.com/watch?v=7qEKhBd2IPk) 
 - **2018**  [ភាគទី ០១](https://www.youtube.com/watch?v=V5TC-XSadVI) && [ភាគទី ០២](https://www.youtube.com/watch?v=v1j3tnIEMuE) 
 - **2019**  [ភាគទី ០១](https://www.youtube.com/watch?v=V1Xh702GM_g) && [ភាគទី ០២](https://www.youtube.com/watch?v=PcCCWbxExd8) 
 - **វីឌីអូ Playlist** 
-   * [អត្រាកំណែវិញ្ញាសារថ្នាក់សង្គមនិងវិទ្យាសាស្រ្ត](https://www.youtube.com/playlist?list=PLDt349AvcEaJPUNekyJzYBrHl1bUTgu1j)
+   * [អត្រាកំណែវិញ្ញាសាថ្នាក់សង្គមនិងវិទ្យាសាស្រ្ត](https://www.youtube.com/playlist?list=PLDt349AvcEaJPUNekyJzYBrHl1bUTgu1j)
    * [ថ្នាក់ទី១២ គណិតវិទ្យា បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន](https://www.youtube.com/playlist?list=PLDt349AvcEaINeVe_jEqTsiDBW17EPVpZ)
 
 -----
@@ -449,21 +449,21 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 
 - [👉 មេរៀនសង្ខេបនិងលំហាត់គំរូ សម្រាប់ជ៉នួយដល់សិស្សថ្នាក់ទី១២](https://drive.google.com/file/d/1cCakSBR-mwg74inXGUupHQRFKBefXQBE/view?usp=sharing)
 
-#### វិញ្ញាសារបាក់ឌុប ឆ្នាំ 2014 - 2019
+#### វិញ្ញាសាបាក់ឌុប ឆ្នាំ 2014 - 2019
 
 - [📚 កម្រងវិញ្ញាសា និងអត្រាកំណែថ្នាក់ទី១២(ថ្នាក់វិទ្យាសាស្ត្រពិត-សង្គម)2014-2019](https://drive.google.com/file/d/1gfwLvnefDOGVMEdnsoYBT4xJ1ATdtK-f/view?usp=sharing)
 
 #### វិញ្ញាសារបាក់ឌុប និង អត្រាកំណែគ្រប់មុខ រៀបចំដោយក្រសួងអប់រំ ឆ្នាំ 2014-2019 (File-PDF)
 
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2014 ដល់ 2017](https://drive.google.com/file/d/1son8XwOmQLvyRfVgKl0p5r9rndBC2SH4/view?usp=sharing)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2017](https://drive.google.com/file/d/1xGNrYTf_Ycgc5sLIeeABivjRJ3flVeQe/view?usp=sharing)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2018](https://drive.google.com/file/d/1CmU8UqySMzTNyrzIKn2i5Xb83la0QcxG/view?usp=sharing)
-- [វិញ្ញាសារ និង អត្រាកំណែ ឆ្នាំ 2019](https://drive.google.com/file/d/1JGv5d-AA5cTfhpzssMpnf9VxGH3SBbpX/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2014 ដល់ 2017](https://drive.google.com/file/d/1son8XwOmQLvyRfVgKl0p5r9rndBC2SH4/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2017](https://drive.google.com/file/d/1xGNrYTf_Ycgc5sLIeeABivjRJ3flVeQe/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2018](https://drive.google.com/file/d/1CmU8UqySMzTNyrzIKn2i5Xb83la0QcxG/view?usp=sharing)
+- [វិញ្ញាសា និង អត្រាកំណែ ឆ្នាំ 2019](https://drive.google.com/file/d/1JGv5d-AA5cTfhpzssMpnf9VxGH3SBbpX/view?usp=sharing)
 
 
 #### វីដេអូត្រៀមប្រលង
- - [វិញ្ញាសារត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ លី ស្រួច (ប្រធានដេប៉ាតឺម៉ង់គណិតវិទ្យានៅសាកលវិទ្យាល័យភូមិន្តភ្នំពេញ)](https://www.youtube.com/playlist?list=PLDt349AvcEaI1NMnGBwBBGeAt6iXXQB64)
- - [វិញ្ញាសារត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ នាង បូ](https://www.youtube.com/playlist?list=PLq_RaQ2nipySdgDr_-nuVnRwPbz03eNBg)
+ - [វិញ្ញាសាត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ លី ស្រួច (ប្រធានដេប៉ាតឺម៉ង់គណិតវិទ្យានៅសាកលវិទ្យាល័យភូមិន្តភ្នំពេញ)](https://www.youtube.com/playlist?list=PLDt349AvcEaI1NMnGBwBBGeAt6iXXQB64)
+ - [វិញ្ញាសាត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ នាង បូ](https://www.youtube.com/playlist?list=PLq_RaQ2nipySdgDr_-nuVnRwPbz03eNBg)
 #### រូបមន្តសង្ខេប-PDF 
 
 - [រូបមន្តសង្ខេប](https://drive.google.com/file/d/1xbo8rIzV7sQh_vQbzdncoNB3vdJtGOnd/view?usp=sharing)
@@ -477,7 +477,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 
 
 #### លំហាត់ចំរុះ (optional)
-- [វិញ្ញាសារត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1d6r10mmjRQejrFJPJLAmrKXLkVaxRLjS/view?usp=sharing)
+- [វិញ្ញាសាត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1d6r10mmjRQejrFJPJLAmrKXLkVaxRLjS/view?usp=sharing)
 
 #### សៀវភៅពុម្ភគណិតវិទ្យារបស់ក្រសួងអប់រំ
    * [សៀវភៅគណិតថ្នាក់ទី៧](https://drive.google.com/file/d/1gnRBakNnpeUIzxUK3PhBW9_34uZo4znK/view?usp=sharing)
