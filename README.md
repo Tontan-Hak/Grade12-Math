@@ -490,6 +490,11 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
    * [សៀវភៅគណិតថ្នាក់ទី១២ ភាគ១](https://drive.google.com/file/d/1Zjm-waR6q8W0lofVXeE1TZ3OV95W-LWb/view?usp=sharing)
    * [សៀវភៅគណិតថ្នាក់ទី១២ ភាគ២](https://drive.google.com/file/d/12JBN3f2rHgjrFRisgRThDeZb-xf_oMZx/view?usp=sharing)
 -----
+## ស្រាវជ្រាវបន្ថែម
+   - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
+   - [ ]  []()
+   - [ ]  []()
+   
 ## Algebra
 - [ ]  [ពិជគណិតកម្រិតទី-១](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
 - [x]  [ពិជគណិតកម្រិតទី-២](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
