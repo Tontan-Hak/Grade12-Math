@@ -415,6 +415,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/15OxvNoy-oIskQleK9A86A8Py9j8uAEch/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1zgLJ2MsD1SPUju2BYiT4KDyaCfs3C8KS/view?usp=sharing)
+    * [📚 ឯកសារបស់លោកគ្រូ-](https://drive.google.com/file/d/1C4MIZ7Xgq01O3VU4pwW1astY-5qqdSq9/view?usp=sharing)
 ###       មេរៀនទី ០៣ អនុគមន៍លោការីត
 **Topics Covered:**  `លោការីតនេពែ` `អនុគមន៍លោការីតនេពែ` `សមីការនិងវិសមីការលោការីតនេពែ` `សិក្សាអនុគមន៍ដែលទាក់ទងនិងអនុគមន៍លោការីតនេពែ` `អនុវត្តន៍`
 <br>
@@ -430,6 +431,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ដំណោះស្រាយ សិក្សាអថេរភាពនិងសង់ក្រាប](https://drive.google.com/file/d/1lTqJyRE_1A9FvBIJlgFDFLDrSyn1UBBa/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1FU7WIhkYCWvAeDQYwWUE4yZBHOZVIm7W/view?usp=sharing)
+    * [📚 ឯកសារបស់លោកគ្រូ-](https://drive.google.com/file/d/130-fY3OF3Fe3deK_23eheKOfdXcRseSH/view?usp=sharing)
 -----
 # វីដេអូ អត្រាកំណែវិញ្ញាសាឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
@@ -492,7 +494,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 -----
 ## ស្រាវជ្រាវបន្ថែម
    - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
-   - [ ]  []()
+   - [x]  [Sequence](https://drive.google.com/file/d/1rbR_y5Wmoh1VkB99WNFnRcerZjwzp8xg/view?usp=sharing)
+   - [x]  [Exponential and Logarithms](https://drive.google.com/file/d/1JzYQTeR5BgwNqCT8sDjVSNWyoDHPM0DB/view?usp=sharing)
    - [ ]  []()
    
 ## Algebra
@@ -504,7 +507,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
    * [Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
    * [Pre-Calculus](https://www.youtube.com/watch?v=eI4an8aSsgw&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=2)
    * [Calculus book](https://drive.google.com/file/d/1ZgpXmsO6gJPQuz-b3jCEARz7_eUodmmF/view?usp=sharing)
-   * [Sequence](https://drive.google.com/file/d/1rbR_y5Wmoh1VkB99WNFnRcerZjwzp8xg/view?usp=sharing)
+   * 
    * [Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
 
 
