@@ -179,7 +179,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 លំហាត់ទី៤១-៥០](https://www.youtube.com/watch?v=wZaEScYMXkk&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=3)
     * [🎬 លំហាត់ទី៥១-៦០](https://www.youtube.com/watch?v=iSUveK71bYU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=2)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-ហុីង-វុទ្ធី](https://drive.google.com/file/d/1fReMetHXhaQp2nk2Nwpf8qco5Tb7nEXn/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ួច-ប៊ុនថន](https://drive.google.com/file/d/1Ve_2oUi0Eu86iUGYlrh7dh43YUle4zSW/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-ឌីង-យៀង](https://drive.google.com/file/d/175Zm6qzhHW8V25MEOCHWFLGmgXG2MCyZ/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1EhER10yFPXmh6ZofSH_OyKisWpXewo4V/view?usp=sharing)
@@ -294,7 +293,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)](https://www.youtube.com/watch?v=7p5xnj9XWmY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=16)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររបស់លោកគ្រូ-ថុល-សីហា](https://drive.google.com/file/d/1FzUVX4bEgfmdRcLJm9_qL3WWoTxQCQtq/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/1cWrbeW4HVStE-h_sri8DoXE_zsq_zRWD/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1UvfkO2NBXl009CJN_pV_yzA1nPwLWwMZ/view?usp=sharing)
 -----
@@ -316,7 +314,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ប្រូបាប (ភាគ៦)](https://www.youtube.com/watch?v=2fJSDdHFFQA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=21)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * [📚 ឯកសាររៀបរាងរបស់លោកគ្រូ-ជាង-វណ្ណៈ](https://drive.google.com/file/d/1yuQdmuoMTfdB6SNFvosRU8TPa8YUf3DD/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1EX7OQVwv2ttbwhDtMHxDxhXSPkfzwxjU/view?usp=sharing)
 -----
 # ជំពូក ០៧ លីមីត
@@ -415,7 +412,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/15OxvNoy-oIskQleK9A86A8Py9j8uAEch/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1zgLJ2MsD1SPUju2BYiT4KDyaCfs3C8KS/view?usp=sharing)
-    * [📚 ឯកសារបស់លោកគ្រូ-](https://drive.google.com/file/d/1C4MIZ7Xgq01O3VU4pwW1astY-5qqdSq9/view?usp=sharing)
 ###       មេរៀនទី ០៣ អនុគមន៍លោការីត
 **Topics Covered:**  `លោការីតនេពែ` `អនុគមន៍លោការីតនេពែ` `សមីការនិងវិសមីការលោការីតនេពែ` `សិក្សាអនុគមន៍ដែលទាក់ទងនិងអនុគមន៍លោការីតនេពែ` `អនុវត្តន៍`
 <br>
@@ -431,7 +427,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ដំណោះស្រាយ សិក្សាអថេរភាពនិងសង់ក្រាប](https://drive.google.com/file/d/1lTqJyRE_1A9FvBIJlgFDFLDrSyn1UBBa/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1FU7WIhkYCWvAeDQYwWUE4yZBHOZVIm7W/view?usp=sharing)
-    * [📚 ឯកសារបស់លោកគ្រូ-](https://drive.google.com/file/d/130-fY3OF3Fe3deK_23eheKOfdXcRseSH/view?usp=sharing)
 -----
 # វីដេអូ អត្រាកំណែវិញ្ញាសាឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
@@ -494,9 +489,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 -----
 ## ស្រាវជ្រាវបន្ថែម
    - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
-   - [x]  [Sequence](https://drive.google.com/file/d/1rbR_y5Wmoh1VkB99WNFnRcerZjwzp8xg/view?usp=sharing)
-   - [x]  [Exponential and Logarithms](https://drive.google.com/file/d/1JzYQTeR5BgwNqCT8sDjVSNWyoDHPM0DB/view?usp=sharing)
-   - [ ]  [Workbook grade 11](https://drive.google.com/file/d/1KWMLRxMmIK2JvELNKXlx04coohjCZi9H/view?usp=sharing)
    
 ## Algebra
 - [ ]  [ពិជគណិតកម្រិតទី-១](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
