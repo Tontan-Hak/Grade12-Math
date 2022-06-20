@@ -498,6 +498,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
    * [Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
    * [Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
    * [Pre-Calculus](https://www.youtube.com/watch?v=eI4an8aSsgw&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=2)
+   * [Calculus tutorial](https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M)
    * [Calculus book](https://drive.google.com/file/d/1ZgpXmsO6gJPQuz-b3jCEARz7_eUodmmF/view?usp=sharing)
    * [Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
 
