@@ -207,12 +207,23 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 បាក់ឌុប២](https://www.youtube.com/watch?v=huzmEZrel2c&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=46)
     * [🎬 បាក់ឌុប៣](https://www.youtube.com/watch?v=UZesuiC1U9s&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=50)
     * [🎬 បាក់ឌុប៤](https://www.youtube.com/watch?v=sWpQrjKYN1g&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=48)
-    * [📚 អនុវត្តន៍អាំងតេក្រាលមិនកំណត់](https://docs.google.com/presentation/d/11VgDNhNb_RUI9pZE6A3ko4kOM83ucb6pPeh133yXKQU/edit#slide=id.gc73c85e0e3_0_124)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសារកិច្ចការស្រាវជ្រាវរបស់គរុសិស្សNIE](https://drive.google.com/file/d/1CCfzcokLUZGm9SgVwGZ8unggHGxCarf-/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-អោ-មណីចន្ទ្រា](https://drive.google.com/file/d/1jWijgPUj4VJ77yqnRU3ff89f4uVTuZMR/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1Hl1W7dBhppRS1a5j3qDBxtMLItirw2cm/view?usp=sharing)
+###       មេរៀនទី ០3 អនុវត្តន៍អាំងតេក្រោល
+**Topics Covered:** `សេចក្តីផ្តើម` `` `` `េ`
+<br>
+**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `គូសរូប` 
+- វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
+    * [🎬 ]()
+    * [🎬 លំហាត់គំរូទី១ និងទី២]()
+    * [🎬 លំហាត់គំរូទី៣ និងទី៤]()
+    * [🎬 លំហាត់គំរូទី៥ និងទី៦]()
+ - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * * [📚 អនុវត្តន៍អាំងតេក្រាលមិនកំណត់slide](https://docs.google.com/presentation/d/11VgDNhNb_RUI9pZE6A3ko4kOM83ucb6pPeh133yXKQU/edit#slide=id.gc73c85e0e3_0_124)
+    * [📚 ឯកសាររបស់លោកគ្រូ-]()
 -----
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
 ###      មេរៀនទី ០១ សមីការឌីផេរ៉ងស្យែលលំដាប់១
