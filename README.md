@@ -207,6 +207,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 បាក់ឌុប២](https://www.youtube.com/watch?v=huzmEZrel2c&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=46)
     * [🎬 បាក់ឌុប៣](https://www.youtube.com/watch?v=UZesuiC1U9s&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=50)
     * [🎬 បាក់ឌុប៤](https://www.youtube.com/watch?v=sWpQrjKYN1g&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=48)
+    * [📚 អនុវត្តន៍អាំងតេក្រាលមិនកំណត់](https://docs.google.com/presentation/d/11VgDNhNb_RUI9pZE6A3ko4kOM83ucb6pPeh133yXKQU/edit#slide=id.gc73c85e0e3_0_124)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសារកិច្ចការស្រាវជ្រាវរបស់គរុសិស្សNIE](https://drive.google.com/file/d/1CCfzcokLUZGm9SgVwGZ8unggHGxCarf-/view?usp=sharing)
