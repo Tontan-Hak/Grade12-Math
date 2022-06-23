@@ -221,11 +221,14 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 **Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `គូសរូប` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 គណនាផ្ទៃក្រឡាតាមអាំងតេក្រាលកំណត់](https://www.youtube.com/watch?v=1b18QFIwYWc)
-    * [🎬 ផ្ទៃក្រាល និង មាឌ (Video playlist](https://www.youtube.com/playlist?list=PLDt349AvcEaKtlzrbd3CTp3qVPAFd1P_n)
-    * [🎬 លំហាត់គំរូ]()
-    * [🎬 លំហាត់គំរូទី]()
+    * [🎬 លំហាត់គំរូទី១](https://www.youtube.com/watch?v=F04bKz9-iRo&list=PL8V_wsHWwP5_kXcSQFe83t_LKZ-aFlcjO)
+    * [🎬 លំហាត់គំរូទី២](https://www.youtube.com/watch?v=PFbaDUyPOcY&list=PL8V_wsHWwP5_kXcSQFe83t_LKZ-aFlcjO&index=3)
+    * [🎬 លំហាត់គំរូទី៣](https://www.youtube.com/watch?v=Fol3SSxwA_w&list=PL8V_wsHWwP5_kXcSQFe83t_LKZ-aFlcjO&index=5)
+    * [🎬 លំហាត់គំរូទី៤](https://www.youtube.com/watch?v=XuFIIJtxVgg&list=PL8V_wsHWwP5_kXcSQFe83t_LKZ-aFlcjO&index=5)
+    * [🎬 លំហាត់គំរូទី៥](https://www.youtube.com/watch?v=MG9KSDrjNkI&list=PL8V_wsHWwP5_kXcSQFe83t_LKZ-aFlcjO&index=6)
+ - [🎬 ផ្ទៃក្រាល និង មាឌ (Video playlist](https://www.youtube.com/playlist?list=PLDt349AvcEaKtlzrbd3CTp3qVPAFd1P_n)
  - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
-    * * [📚 អនុវត្តន៍អាំងតេក្រាលមិនកំណត់slide](https://docs.google.com/presentation/d/11VgDNhNb_RUI9pZE6A3ko4kOM83ucb6pPeh133yXKQU/edit#slide=id.gc73c85e0e3_0_124)
+    * [📚 អនុវត្តន៍អាំងតេក្រាលមិនកំណត់slide](https://docs.google.com/presentation/d/11VgDNhNb_RUI9pZE6A3ko4kOM83ucb6pPeh133yXKQU/edit#slide=id.gc73c85e0e3_0_124)
     * [📚 ឯកសាររបស់លោកគ្រូ-]()
 -----
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
