@@ -217,10 +217,10 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 <br>
 **Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `គូសរូប` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ]()
-    * [🎬 លំហាត់គំរូទី១ និងទី២]()
-    * [🎬 លំហាត់គំរូទី៣ និងទី៤]()
-    * [🎬 លំហាត់គំរូទី៥ និងទី៦]()
+    * [🎬 គណនាផ្ទៃក្រឡាតាមអាំងតេក្រាលកំណត់](https://www.youtube.com/watch?v=1b18QFIwYWc)
+    * [🎬 ផ្ទៃក្រាល និង មាឌ (Video playlist](https://www.youtube.com/playlist?list=PLDt349AvcEaKtlzrbd3CTp3qVPAFd1P_n)
+    * [🎬 លំហាត់គំរូ]()
+    * [🎬 លំហាត់គំរូទី]()
  - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * * [📚 អនុវត្តន៍អាំងតេក្រាលមិនកំណត់slide](https://docs.google.com/presentation/d/11VgDNhNb_RUI9pZE6A3ko4kOM83ucb6pPeh133yXKQU/edit#slide=id.gc73c85e0e3_0_124)
     * [📚 ឯកសាររបស់លោកគ្រូ-]()
