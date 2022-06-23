@@ -98,6 +98,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 ✅ [ What is Vector?](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B) && [What is a vector? - David Huynh](https://www.youtube.com/watch?v=ml4NSzCQobk)<br>
 ✅ [  Vectors - The Mechanical Universe](https://www.youtube.com/watch?v=MWrOozSSdW8) <br>
 ✅ [ The Vector Algebra War](https://www.youtube.com/watch?v=_AaOFCl2ihc) 
+- [🎬 ធរណីមាត្រ (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaK4mg4rUpySJq1iFV2BiE7D)
 
 ###      មេរៀនទី ០១ ផលគុណនៃពីរវុិចទ័រក្នុងលំហ
 **Topics Covered:**  `1.និយមន័យផលគុណពីរវុិចទ័រ` `2.លក្ខណផលគុណពីរវុិចទ័រ` `3.បំណកស្រាយផលគុណនៃពីរវុិចទ័រតាមបែបធរណីមាត្រ` `4.អនុវត្តន៍ផលគុណនៃពីរវុិចទ័រនៅក្នុងរូបវិទ្យា:ម៉ូម៉ង់Mនៃកម្លាំងចំពោះចំណុចP` `5.ផលគុណចម្រុះនៃបីវុិចទ័រក្នុងលំហ`  <br>
@@ -178,6 +179,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 លំហាត់ទី៣១-៤០](https://www.youtube.com/watch?v=qKqp49ocdEs&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=4)
     * [🎬 លំហាត់ទី៤១-៥០](https://www.youtube.com/watch?v=wZaEScYMXkk&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=3)
     * [🎬 លំហាត់ទី៥១-៦០](https://www.youtube.com/watch?v=iSUveK71bYU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=2)
+
+- [🎬 អាំងតេក្រាល (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaJw6Y-r-k5mQ9mctXOheVK_)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ួច-ប៊ុនថន](https://drive.google.com/file/d/1Ve_2oUi0Eu86iUGYlrh7dh43YUle4zSW/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-ឌីង-យៀង](https://drive.google.com/file/d/175Zm6qzhHW8V25MEOCHWFLGmgXG2MCyZ/view?usp=sharing)
@@ -234,6 +237,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី១ ភាគ១](https://www.youtube.com/watch?v=n8JaEHpNBN8&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=31)
     * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី១ ភាគបញ្ចប់](https://www.youtube.com/watch?v=WoKV8jrItvw&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=30)
+    * [🎬 សមីការឌីផេរ៉ង់ស្យែល (Video playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaJNadA-nySU_qifDOq2PsKF)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1TFC_I8n95qKonot1nuX9V1-DNLQrBlMN/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី20 ក្រុមទី1 (NIE)](https://drive.google.com/file/d/1mhLIx1WP31daDTyH60gn074B_JQC4Apc/view?usp=sharing)
@@ -303,6 +307,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ចំនួនកុំផ្លិច (ភាគ៣)](https://www.youtube.com/watch?v=8uYy4HkVga4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=18)
     * [🎬 ចំនួនកុំផ្លិច (ភាគ៤)](https://www.youtube.com/watch?v=cLrYs9sYKgA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=17)
     * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)](https://www.youtube.com/watch?v=7p5xnj9XWmY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=16)
+    * [🎬 ចំនួនកុំផ្លិច (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIKbiEjuBsdhJ9Xe44yEfDC)
+    * [🎬 ចំនួនកុំផ្លិច (Vedio playlist)]()
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/1cWrbeW4HVStE-h_sri8DoXE_zsq_zRWD/view?usp=sharing)
@@ -324,6 +330,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ប្រូបាប (ភាគ៤)](https://www.youtube.com/watch?v=60I3e-8jQlQ&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=23)
     * [🎬 ប្រូបាប (ភាគ៥)](https://www.youtube.com/watch?v=vh6RSMokpPk&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=22)
     * [🎬 ប្រូបាប (ភាគ៦)](https://www.youtube.com/watch?v=2fJSDdHFFQA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=21)
+    * [🎬 ចម្លាស់និងបន្សំ (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaJInfzsP07icegmE_7bsnJt)
+    * [🎬 ប្រូបាប (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIta6Yi1Kv2_jEFeBKm9ifZ)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1EX7OQVwv2ttbwhDtMHxDxhXSPkfzwxjU/view?usp=sharing)
@@ -343,6 +351,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ៣.២ លីមីតនៃអនុគមន៍អ៊ិចស្ប៉ូណង់ស្យែល](https://www.youtube.com/watch?v=SfOaGWaKAxg&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=6)
     * [🎬 ៣.៣ លីមីតនៃអនុគមន៍លោការីតនេពែ](https://www.youtube.com/watch?v=ynhOd9yeHXY&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=7)
     * [🎬 កំណែលំហាត់បន្ថែម](https://www.youtube.com/watch?v=HPpFlRMrO0g&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=8)
+    * [🎬 លីមីត (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLB30veeyYND7YH2d1zFA57)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ួច-ប៊ុនថន](https://drive.google.com/file/d/1MoHS7-hx6lo7tc7rzkrb980CEzZQoRDk/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1VjQKNDlWOfWixup4n8yatm2RMrvnMumm/view?usp=sharing)
@@ -373,6 +382,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ២ ដេរីវេនៃអនុគមន៍ត្រីកោណមាត្រ](https://www.youtube.com/watch?v=K8OH8XuHKRU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=14)
     * [🎬 ៣ ដេរីវេលំដាប់ខ្ពស់លំដាប់២](https://www.youtube.com/watch?v=KCS9t-Q2QeI&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=15)
     * [🎬 ៣.១ ដេរីវេលំដាប់ខ្ពស់លំដាប់n](https://www.youtube.com/watch?v=L9RpTmZc9kc&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=16)
+    * [🎬 ដេរីវរ (Video playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLytmaLRM_ZgH9L9tW2Wv74)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី5ជំនាន់ទី18 (NIE)](https://drive.google.com/file/d/15sYxUTnYmndJffr5gYQzKuOxq6PWpn78/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី19 (NIE)](https://drive.google.com/file/d/1iijWdzEs-wfaPF4TRXrvA_nWiXsdd4Bc/view?usp=sharing)
