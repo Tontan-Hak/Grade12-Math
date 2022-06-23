@@ -26,7 +26,7 @@ Reminding: Do you have a choice not to do it?
 * [ជំពូកទី ០៣ \. សមីការឌីផេរ៉ងស្យែល](#ជំពូក-០៣-ឌីផេរ៉ងស្យែល) 
     * [L.1\. សមីការឌីផេរ៉ងស្យែលលំដាប់១](#មេរៀនទី-០១-សមីការឌីផេរ៉ងស្យែលលំដាប់១)
     * [L.2\. សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២](#មេរៀនទី-០២-សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២)
-* [ជំពូកទី ០៤ \. កោនិច](#ជំពូក-០៤-កោនិច) 
+* [ជំពូកទី ០៤ \. កោណិច](#ជំពូក-០៤-កោណិច) 
     * [L.1\. ប៉ារ៉ាបូល](#មេរៀនទី-០១-ប៉ារ៉ាបូល)
     * [L.2\. អេលីប](#មេរៀនទី-០២-អេលីប)
     * [L.3\. អុីពែបូល](#មេរៀនទី-០៣-អុីពែបូល)
@@ -254,7 +254,8 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបរាងដោយលោកគ្រូ-គឹម-សុគន្ធ](https://drive.google.com/file/d/1oBKjdosp91OWLitoZk_ruDlds2LOXv8n/view?usp=sharing)
 -----
-# ជំពូក ០៤ កោនិច
+# ជំពូក ០៤ កោណិច
+- [🎬 កោណិច (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaKvT6BvsD_-UAnsmUHrH5-G)
 ###      មេរៀនទី ០១ ប៉ារ៉ាបូល
 
 **Topics Covered:** `សេចក្តីផ្តើម` `និយមន័យប៉ារ៉ាបូល` `សមីការនៃប៉ារ៉ាបូល` `លក្ខណៈអុបទិចនៃប៉ារ៉ាបូល` 
@@ -459,7 +460,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - **វីឌីអូ Playlist** 
    * [អត្រាកំណែវិញ្ញាសាថ្នាក់សង្គមនិងវិទ្យាសាស្រ្ត](https://www.youtube.com/playlist?list=PLDt349AvcEaJPUNekyJzYBrHl1bUTgu1j)
    * [ថ្នាក់ទី១២ គណិតវិទ្យា បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន](https://www.youtube.com/playlist?list=PLDt349AvcEaINeVe_jEqTsiDBW17EPVpZ)
-
+- [🎬 សិក្សាអនុគមន៍ (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLsn39joEbqKrGk8y593Sir)
 -----
 
 # ebook
