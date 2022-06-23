@@ -450,6 +450,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [📚 ដំណោះស្រាយ សិក្សាអថេរភាពនិងសង់ក្រាប](https://drive.google.com/file/d/1lTqJyRE_1A9FvBIJlgFDFLDrSyn1UBBa/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1FU7WIhkYCWvAeDQYwWUE4yZBHOZVIm7W/view?usp=sharing)
+- [🎬 សិក្សាអនុគមន៍ (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLsn39joEbqKrGk8y593Sir)
 -----
 # វីដេអូ អត្រាកំណែវិញ្ញាសាឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
@@ -460,7 +461,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - **វីឌីអូ Playlist** 
    * [អត្រាកំណែវិញ្ញាសាថ្នាក់សង្គមនិងវិទ្យាសាស្រ្ត](https://www.youtube.com/playlist?list=PLDt349AvcEaJPUNekyJzYBrHl1bUTgu1j)
    * [ថ្នាក់ទី១២ គណិតវិទ្យា បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន](https://www.youtube.com/playlist?list=PLDt349AvcEaINeVe_jEqTsiDBW17EPVpZ)
-- [🎬 សិក្សាអនុគមន៍ (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLsn39joEbqKrGk8y593Sir)
 -----
 
 # ebook
