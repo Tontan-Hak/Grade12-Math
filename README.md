@@ -199,7 +199,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៦)(MoEYS Official)](https://www.youtube.com/watch?v=gyo7lXr6f4Q&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=88)
     * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៧)(MoEYS Official)](https://www.youtube.com/watch?v=0yH0PDrJ-Z0&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=89)
     * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៨)(MoEYS Official)](https://www.youtube.com/watch?v=CCvwXTNiLX4&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=90)
-    * [🎬 (MoEYS Official)]()
+- [🎬 អាំងតេក្រាល (Video playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaJw6Y-r-k5mQ9mctXOheVK_)
 - វីដេអូពន្យល់ខ្លឹមសារមេរៀននិងលំហាត់គំរូ ដោយលោកគ្រូ-នាង-បូ ៖
     * [🎬 អាំងតេក្រាលកំណត់](https://www.youtube.com/watch?v=GPxkTemrQ2w&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=1)
     * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=eNRFBiuHlSk&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=52)
@@ -240,7 +240,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី១ ភាគ១](https://www.youtube.com/watch?v=n8JaEHpNBN8&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=31)
     * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី១ ភាគបញ្ចប់](https://www.youtube.com/watch?v=WoKV8jrItvw&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=30)
-    * [🎬 សមីការឌីផេរ៉ង់ស្យែល (Video playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaJNadA-nySU_qifDOq2PsKF)
+- [🎬 សមីការឌីផេរ៉ង់ស្យែល (Video playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaJNadA-nySU_qifDOq2PsKF)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1TFC_I8n95qKonot1nuX9V1-DNLQrBlMN/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាជំនាន់ទី20 ក្រុមទី1 (NIE)](https://drive.google.com/file/d/1mhLIx1WP31daDTyH60gn074B_JQC4Apc/view?usp=sharing)
@@ -311,7 +311,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ចំនួនកុំផ្លិច (ភាគ៣)](https://www.youtube.com/watch?v=8uYy4HkVga4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=18)
     * [🎬 ចំនួនកុំផ្លិច (ភាគ៤)](https://www.youtube.com/watch?v=cLrYs9sYKgA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=17)
     * [🎬 ចំនួនកុំផ្លិច (ភាគ៥)](https://www.youtube.com/watch?v=7p5xnj9XWmY&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=16)
-    * [🎬 ចំនួនកុំផ្លិច (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIKbiEjuBsdhJ9Xe44yEfDC)
+- [🎬 ចំនួនកុំផ្លិច (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIKbiEjuBsdhJ9Xe44yEfDC)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/1cWrbeW4HVStE-h_sri8DoXE_zsq_zRWD/view?usp=sharing)
@@ -334,7 +334,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ប្រូបាប (ភាគ៥)](https://www.youtube.com/watch?v=vh6RSMokpPk&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=22)
     * [🎬 ប្រូបាប (ភាគ៦)](https://www.youtube.com/watch?v=2fJSDdHFFQA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=21)
     * [🎬 ចម្លាស់និងបន្សំ (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaJInfzsP07icegmE_7bsnJt)
-    * [🎬 ប្រូបាប (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIta6Yi1Kv2_jEFeBKm9ifZ)
+- [🎬 ប្រូបាប (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaIta6Yi1Kv2_jEFeBKm9ifZ)
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1EX7OQVwv2ttbwhDtMHxDxhXSPkfzwxjU/view?usp=sharing)
@@ -354,7 +354,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ៣.២ លីមីតនៃអនុគមន៍អ៊ិចស្ប៉ូណង់ស្យែល](https://www.youtube.com/watch?v=SfOaGWaKAxg&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=6)
     * [🎬 ៣.៣ លីមីតនៃអនុគមន៍លោការីតនេពែ](https://www.youtube.com/watch?v=ynhOd9yeHXY&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=7)
     * [🎬 កំណែលំហាត់បន្ថែម](https://www.youtube.com/watch?v=HPpFlRMrO0g&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=8)
-    * [🎬 លីមីត (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLB30veeyYND7YH2d1zFA57)
+- [🎬 លីមីត (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLB30veeyYND7YH2d1zFA57)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ួច-ប៊ុនថន](https://drive.google.com/file/d/1MoHS7-hx6lo7tc7rzkrb980CEzZQoRDk/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1VjQKNDlWOfWixup4n8yatm2RMrvnMumm/view?usp=sharing)
@@ -385,7 +385,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
     * [🎬 ២ ដេរីវេនៃអនុគមន៍ត្រីកោណមាត្រ](https://www.youtube.com/watch?v=K8OH8XuHKRU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=14)
     * [🎬 ៣ ដេរីវេលំដាប់ខ្ពស់លំដាប់២](https://www.youtube.com/watch?v=KCS9t-Q2QeI&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=15)
     * [🎬 ៣.១ ដេរីវេលំដាប់ខ្ពស់លំដាប់n](https://www.youtube.com/watch?v=L9RpTmZc9kc&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=16)
-    * [🎬 ដេរីវរ (Video playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLytmaLRM_ZgH9L9tW2Wv74)
+- [🎬 ដេរីវរ (Video playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLytmaLRM_ZgH9L9tW2Wv74)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី5ជំនាន់ទី18 (NIE)](https://drive.google.com/file/d/15sYxUTnYmndJffr5gYQzKuOxq6PWpn78/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី19 (NIE)](https://drive.google.com/file/d/1iijWdzEs-wfaPF4TRXrvA_nWiXsdd4Bc/view?usp=sharing)
