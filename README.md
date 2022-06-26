@@ -22,7 +22,6 @@ Reminding: Do you have a choice not to do it?
 * [ជំពូកទី ០២\. អាំងតេក្រាល](#ជំពូក-០២-អាំងតេក្រាល)
     * [L.1\. ព្រីមីទីវអាំងតេក្រាលមិនកំណត់](#មេរៀនទី-០១-ព្រីមីទីវនិងអាំងតេក្រាលមិនកំណត់)
     * [L.2\. អាំងតេក្រាលកំណត់](#មេរៀនទី-០២-អាំងតេក្រាលកំណត់)
-    * L.3\. <s> មាឌសូលីតនិងប្រវែងធ្នូ </s>
 * [ជំពូកទី ០៣ \. សមីការឌីផេរ៉ងស្យែល](#ជំពូក-០៣-ឌីផេរ៉ងស្យែល) 
     * [L.1\. សមីការឌីផេរ៉ងស្យែលលំដាប់១](#មេរៀនទី-០១-សមីការឌីផេរ៉ងស្យែលលំដាប់១)
     * [L.2\. សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២](#មេរៀនទី-០២-សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២)
@@ -516,9 +515,9 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
    - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
    
 ## Algebra
-- [ ]  [ពិជគណិតកម្រិតទី-១](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
+- [x]  [ពិជគណិតកម្រិតទី-១](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
 - [x]  [ពិជគណិតកម្រិតទី-២](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
-- [ ]  [Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
+- [x]  [Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
 ## Calculus
    * [Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
    * [Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
