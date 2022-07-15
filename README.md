@@ -4,6 +4,7 @@ Reminding: Do you have a choice not to do it?
 -----
 
 # 🎓 Grade12 Math Learning resources
+![](https://komarev.com/ghpvc/?username=Grade12-Math&color=brightgreen&label=VISITORS)
 
 សារបណ្ណ
 
