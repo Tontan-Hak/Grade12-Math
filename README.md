@@ -535,8 +535,6 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 - [Duraseksa](https://www.duraseksa.com/home)
 
 -----
-## Licence:
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## Inspired to do this repo by:
 - [Developer-Y](https://github.com/Developer-Y/cs-video-courses?fbclid=IwAR3QxFbHeX6eIiHBNUySctbXmaCjFK1UoBRboZ7qkfC7GV_UaHP-zsZvmFE)
@@ -546,4 +544,16 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 ## សេចក្តីថ្លែងអំណរគុណ
 Thanks to all the contributors who shared resources in building this repo.
 
+-----
+
+## License 
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+<a href="https://github.com/Tontan-Hak/Grade12-Math/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Grade12-Math" alt="Stars Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Grade12-Math/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Grade12-Math" alt="Forks Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Grade12-Math/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/Grade12-Math" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Grade12-Math/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Grade12-Math" alt="Issues Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Grade12-Math/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Grade12-Math?color=2b9348"></a>
+<a href="https://github.com/Tontan-Hak/Grade12-Math/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Grade12-Math?color=2b9348" alt="License Badge"/></a>
 -----
