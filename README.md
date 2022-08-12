@@ -1,7 +1,7 @@
 # 🚀 Lets get started   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
-      Reminding: Do you have a choice not to do it?
+      Reminding Yourself: Do you have a choice not to do it?
        "Do I have a choice of doing this task which I am procrastination?" 
-       IF no > DO IT NOW: It costs me more by doing it the last minute.
+       IF no --> DO IT NOW: It costs me more by doing it the last minute.
 -----
 
 # 🎓 Grade12 Math Learning resources
