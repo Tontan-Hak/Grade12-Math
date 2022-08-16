@@ -88,6 +88,13 @@
 - [🎥 Learn like a pro: Science-Based Tools to Become Better at Anything](https://www.youtube.com/playlist?list=PLquUE84HehPSLPUTOZEOWCB2DAsjVsQjl)
 - [🎥 How to Learn Spanish in a Month - Language Learning Documentary](https://www.youtube.com/watch?v=aZke6Va7kJU&t=157s)
 
+# 🚩 Recommended Course 
+- [🔖 Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) 
+- [🔖 Learning how to learn for youth](https://www.coursera.org/learn/learning-how-to-learn-youth)  
+- [🔖 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
+- [🔖 Learn like a Pro: Science-Based Tools to Become Better at Anything](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
+- [🔖 How to learn math: For students](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/home)
+
 # 📌 Self-awareness 📌
 - [KEY IMPORTANT POINTS]()
     * [procrastination]() | [Lazy]() | [Unmotivation]()
