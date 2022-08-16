@@ -409,7 +409,7 @@ Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?
 # ជំពូក ០៩ សិក្សាអថេរភាពនិងសង់ក្រាប
 ###      មេរៀនទី ០១ អនុគមន៍សនិទាន
 
-**Topics Covered:** អនុគមន៍ $y= \dfrac{ax^2+bx+c}{px+q}$ , សិក្សាអនុគមន៍$y= \dfrac{ax^2+bx+c}{px^2+qx+r}$ , `អនុវត្តន៍`
+**Topics Covered:** អនុគមន៍ $y= \dfrac{ax^2+bx+c}{px+q}$ , សិក្សាអនុគមន៍ $y=\dfrac{ax^2+bx+c}{px^2+qx+r}$ , `អនុវត្តន៍`
 <br>
 **Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `អនុគមន៍សនិទាននិងអសនិទាន` `សង់ក្រាប`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
