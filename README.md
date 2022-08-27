@@ -510,6 +510,7 @@
 - [វិញ្ញាសាត្រៀមប្រលងប១](https://drive.google.com/file/d/1lKsZTTR1yccRI5HSrsn_7eYSFzyFUKtd/view?usp=sharing)
 - [វិញ្ញាសាត្រៀមប្រលងប២](https://drive.google.com/file/d/13o6wGlodd7fjlfwO58e3zZ0KOVeIwDNz/view?usp=sharing)
 - [វិញ្ញាសាត្រៀមប្រលងប៣](https://drive.google.com/file/d/1S6OyuWcxATkW4YFxX3t5MOjSqcMUU-FF/view?usp=sharing)
+- [វិញ្ញាសាត្រៀមប្រលងប៤](https://drive.google.com/file/d/1vrUxAx8bWtC6xc7qG0cW_RMS5iNVslXF/view?usp=sharing)
 
 
 #### លំហាត់ចំរុះ (optional)
