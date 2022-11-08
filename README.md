@@ -574,4 +574,3 @@ Thanks to all the contributors who shared resources in building this repo.
 <a href="https://github.com/Tontan-Hak/Grade12-Math/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Grade12-Math?color=2b9348"></a>
 <a href="https://github.com/Tontan-Hak/Grade12-Math/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Grade12-Math?color=2b9348" alt="License Badge"/></a>
 -----
-
