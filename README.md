@@ -65,6 +65,7 @@
 # Learning How to Learn
 🎥 Do 1% effort for 100 days - [Prof Ryan O'Donnell](https://www.youtube.com/watch?v=YFUIPg8P2sY&t=332s)
 - [🎥 How to Get the Most Out of Studying](https://www.youtube.com/playlist?list=PL85708E6EA236E3DB)
+- [🎥 Richard Hamming: "Learning to Learn"](https://www.youtube.com/playlist?list=PL2FF649D0C4407B30)
 - [📄 How to Study Math](https://tutorial.math.lamar.edu/Extras/StudyMath/HowToStudyMath.aspx)
      * [📄 General Tips For Studying Mathematics](https://tutorial.math.lamar.edu/Extras/StudyMath/GeneralTips.aspx)
      * [📄 Taking Notes](https://tutorial.math.lamar.edu/Extras/StudyMath/TakingNotes.aspx)
