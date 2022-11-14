@@ -115,7 +115,7 @@
 
 ###      មេរៀនទី ០១ ផលគុណនៃពីរវុិចទ័រក្នុងលំហ
 **Topics Covered:**  `1.និយមន័យផលគុណពីរវុិចទ័រ` `2.លក្ខណផលគុណពីរវុិចទ័រ` `3.បំណកស្រាយផលគុណនៃពីរវុិចទ័រតាមបែបធរណីមាត្រ` `4.អនុវត្តន៍ផលគុណនៃពីរវុិចទ័រនៅក្នុងរូបវិទ្យា:ម៉ូម៉ង់Mនៃកម្លាំងចំពោះចំណុចP` `5.ផលគុណចម្រុះនៃបីវុិចទ័រក្នុងលំហ`  <br>
-**Mathematical Fundamentals:** `បន្ទាត់ស្រប និងបន្ទាត់កែង` `មុំ` `ប្លង់កូអរដោនេនិងក្រាប` `ចម្ងាយរវាងពីចំណុច` `ធរណិមាត្រក្នុងប្លង់`  `កូអរដោនេនៃចំណុច` `វុិចទ័រនិងប្រមាណវិធីលើវុិចទ័រ` `ការអនុវត្តន៍នៃវុិចទ័រ` `វុិចទ័រក្នុងលំហ` `សមីការបន្ទាត់និងសមីការប្លង់ក្នុងលំហ` `ម៉ាទ្រីស` `ដេទែមីណង់`
+**Prerequisites:** `បន្ទាត់ស្រប និងបន្ទាត់កែង` `មុំ` `ប្លង់កូអរដោនេនិងក្រាប` `ចម្ងាយរវាងពីចំណុច` `ធរណិមាត្រក្នុងប្លង់`  `កូអរដោនេនៃចំណុច` `វុិចទ័រនិងប្រមាណវិធីលើវុិចទ័រ` `ការអនុវត្តន៍នៃវុិចទ័រ` `វុិចទ័រក្នុងលំហ` `សមីការបន្ទាត់និងសមីការប្លង់ក្នុងលំហ` `ម៉ាទ្រីស` `ដេទែមីណង់`
 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=a2QhkBJuK9M&t=613s)
@@ -129,7 +129,7 @@
 ###       មេរៀនទី ០២ អនុវត្តនៃផលគុណវុិចទ័រ
 **Topics Covered:**  `1.បន្ទាត់និងប្លង់ក្នុងលំហ` `2.សមីការស្វែ៊រ` `3.ចម្ងាយពីរចំណុចមួយទៅប្លង់មួយនិងចម្ងាយពីចំណុចមួយទៅបន្ទាត់មួយក្នុងលំហ`
 <br>
-**Mathematical Fundamentals:** `ផលគុណស្កាលែ` `ម៉ាទ្រីស` `ដេទែមីណង់` `កូអរដោនេនៃពីរវុិចទ័រ` `សមីការប៉ារ៉ាមែត្រ` `សមីការឆ្លុះ` `ចម្ងាយរវាងពីរចំនុច` `សមីការរង្វង់`
+**Prerequisites:** `ផលគុណស្កាលែ` `ម៉ាទ្រីស` `ដេទែមីណង់` `កូអរដោនេនៃពីរវុិចទ័រ` `សមីការប៉ារ៉ាមែត្រ` `សមីការឆ្លុះ` `ចម្ងាយរវាងពីរចំនុច` `សមីការរង្វង់`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=AI9oj1NXSKc)
     * [🎬 គណិតវិទ្យា ថ្នាក់ទី១២ មេរៀនទី២៖ អនុវត្តនៃផលគុណវ៉ិចទ័រ ភាគទី៣ (MoEYS Official)](https://www.youtube.com/watch?v=aVxhICegKoE)
@@ -150,7 +150,7 @@
 ### មេរៀនទី ០១ ព្រីមីទីវនិងអាំងតេក្រាលមិនកំណត់
 **Topics Covered:**  `ព្រីមីទីវ` `អាំងតេក្រាលមិនកំណត់` `អនុវត្តន៍`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `លីមីត`  `ដេរីវេ`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `លីមីត`  `ដេរីវេ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=9jdiT2zcSHc&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=63)
     * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី២ (MoEYS Official)](https://www.youtube.com/watch?v=U-e2bhPaejM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=64)
@@ -202,7 +202,7 @@
 ###       មេរៀនទី ០២ អាំងតេក្រាលកំណត់
 **Topics Covered:**  `អាំងតេក្រាលកំណត់` `ផ្ទៃក្រឡានៃផ្នែកប្លង់`
 <br>
-**Mathematical Fundamentals:**  `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `ដេរីវេ` `អាំងតេក្រាលមិនកំណត់`
+**Prerequisites:**  `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `ដេរីវេ` `អាំងតេក្រាលមិនកំណត់`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី១)(MoEYS Official)](https://www.youtube.com/watch?v=VaiHI3WJqfM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=83)
     * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី២)(MoEYS Official)](https://www.youtube.com/watch?v=06eyE41zZ3A&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=84)
@@ -231,7 +231,7 @@
 ###       មេរៀនទី ០3 អនុវត្តន៍អាំងតេក្រោល
 **Topics Covered:** `សេចក្តីផ្តើម` `` `` `េ`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `គូសរូប` 
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `គូសរូប` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 គណនាផ្ទៃក្រឡាតាមអាំងតេក្រាលកំណត់](https://www.youtube.com/watch?v=1b18QFIwYWc)
     * [🎬 លំហាត់គំរូទី១](https://www.youtube.com/watch?v=F04bKz9-iRo&list=PL8V_wsHWwP5_kXcSQFe83t_LKZ-aFlcjO)
@@ -249,7 +249,7 @@
 
 **Topics Covered:** `សញ្ញាណនៃសមីការឌីផេរ៉ង់ស្យែលលំដាប់ទី១` `ដំណោះស្រាយសមីការឌីផេរ៉ង់ស្យែលលំដាប់ទី១` `អនុវត្តន៍នៃសមីការឌីផេរ៉ង់ស្យែលក្នុងវិទ្យាសាស្រ្ត`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី១ ភាគ១](https://www.youtube.com/watch?v=n8JaEHpNBN8&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=31)
     * [🎬 មេរៀនសមីការផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី១ ភាគបញ្ចប់](https://www.youtube.com/watch?v=WoKV8jrItvw&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=30)
@@ -261,7 +261,7 @@
 ###       មេរៀនទី ០២ សមីការឌីផេរ៉ងស្យែលលីនេអែ៊រលំដាប់២
 **Topics Covered:** `សមីការឌីផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២` `ដំណោះស្រាយសមីការឌីផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ អូម៉ូសែននិងមានមេគុណថេរ` `ដំណោះស្រាយសមីការឌីផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ មិនអូម៉ូសែននិងមានមេគុណថេរ` `អនុវត្តន៍នៃសមីការឌីផេរ៉ង់ស្យែលក្នុងវិទ្យាសាស្រ្ត`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 មេរៀនសមីការឌីផេរ៉ង់ស្យែលលីនេអ៊ែលំដាប់ទី២ ភាគ១](https://www.youtube.com/watch?v=0k_Np0HStZU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=29)
     * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=eXJqZtWld7Y&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=28)
@@ -276,7 +276,7 @@
 
 **Topics Covered:** `សេចក្តីផ្តើម` `និយមន័យប៉ារ៉ាបូល` `សមីការនៃប៉ារ៉ាបូល` `លក្ខណៈអុបទិចនៃប៉ារ៉ាបូល` 
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `សង់ក្រាប`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `សង់ក្រាប`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ប៉ារ៉ាបូល](https://www.youtube.com/watch?v=PrWQRG-M2bw&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=45)
     * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=hev8-YcnZoU&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=44)
@@ -290,7 +290,7 @@
 ###       មេរៀនទី ០២ អេលីប
 **Topics Covered:** `សេចក្តីផ្តើម` `និយមន័យអេលីប` `សមីការនៃអេលីប` `អុិចសង់ទ្រីសុីតេ`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `គូសរូប` 
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `គូសរូប` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 អេលីប](https://www.youtube.com/watch?v=f2stkC7_dKI&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=40)
     * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=TtVXJEFelo4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=38)
@@ -302,7 +302,7 @@
 ###       មេរៀនទី ០៣ អុីពែបូល
 **Topics Covered:**  `សេចក្តីផ្តើម` `និយមន័យនៃអុីពែបូល` `សមីការនៃអុីពែបូល` `អុិចសង់ទ្រីសុីតេ`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` 
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 អុីពែបូល](https://www.youtube.com/watch?v=Vlq1pcyejO4&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=36)
     * [🎬 លំហាត់គំរូទី១](https://www.youtube.com/watch?v=Q0dHHI9cK_g&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=35)
@@ -317,7 +317,7 @@
 # ជំពូក ០៥ ចំនួនកុំផ្លិច
 **Topics Covered:** `ចំនួនកុំផ្លិចទម្រង់ពីជគណិត` `ចំនួនកុំផ្លិចទម្រង់ត្រីកោណមាត្រ` `ស្វ័យគុណគុណទីn នៃចំនួនកុំផ្លិច` `អនុវត្តន៍ចំនួនកុំផ្លិចក្នុងធរណីមាត្រ`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ចំនួនកុំផ្លិច (ភាគ១)](https://www.youtube.com/watch?v=zJZtUDqQp6A&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=20)
     * [🎬 ចំនួនកុំផ្លិច (ភាគ២)](https://www.youtube.com/watch?v=95ujRerY9Ig&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=19)
@@ -334,7 +334,7 @@
 
 **Topics Covered:** `សំណុំ` `របាប` `ចម្លាស់` `បន្សំ` `លំហសំណាក់និងព្រឹត្តិការណ៍` `ប្រូបាប` `គណនាប្រូបាបដោយប្រើចម្លាស់និងបន្សំ`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `logic` `សំណុំ` `របាប`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `logic` `សំណុំ` `របាប`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 គោលការណ៍របាប](https://www.youtube.com/watch?v=0Bhiu6_Ru3I)
     * [🎬 ចម្លាស់](https://www.youtube.com/watch?v=Qd_ZlPQ-9cM&t=1233s)
@@ -357,7 +357,7 @@
 
 **Topics Covered:** `លីមីតនៃអនុគមន៍ត្រង់ចំនួនកំណត់និងអនន្ត` `ប្រមាណវិធីលើលីមីត` `លីមីតនៃអនុគមន៍អសនិទាន` `លីមីតនៃអនុគមន៍បណ្តាក់` `លីមីតរាងមិនកំណត់` `លីមីតនៃអនុគមន៍មិនពិជគណិត`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ១.១ លីមីតនៃអនុគមន៍សនិទាន រាងសូន្យលើសូន្យ](https://www.youtube.com/watch?v=gYa6bk4ESj0&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c)
     * [🎬 ១.២ លីមីតនៃអនុគមន៍សនិទាន រាងអនន្តលើអនន្ត](https://www.youtube.com/watch?v=zrmo5zl9R7A&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=2)
@@ -376,7 +376,7 @@
 ###       មេរៀនទី ០២ ភាពជាប់នៃអនុគមន៍
 **Topics Covered:** `សញ្ញាណនៃអនុគមន៍ជាប់` `ភាពជាប់នៃអនុគមន៍` `លក្ខណៈនៃអនុគមន៍ជាប់` `ភាពជាប់លើចន្លោះ` `ភាពជាប់នៃអនុគមន៍បណ្តាក់` `អនុវត្តន៍ ៖អនុគមន៍បន្លាយតាមភាពជាប់` `ទ្រឹស្តីបទតម្លៃកណ្តាល`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` 
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` 
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ១ ភាពជាប់នៃអនុគមន៍](https://www.youtube.com/watch?v=wVkdQ9ywMNA&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=9)
     * [🎬 ២ លក្ខណៈនៃអនុគមន៍ជាប់](https://www.youtube.com/watch?v=_Gf_I7bvGpM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=10)
@@ -392,7 +392,7 @@
 
 **Topics Covered:** `ដេរីវេនៃអនុគមន៍ត្រង់ x០` `ដេរីវេនៃអនុគមន៍បណ្តាក់` `ដេរីវេនៃអនុគមន៍ត្រីកោណមាត្រ` `ដេរីវេលំដាប់ខ្ពស់`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ១ ដេរីវេនៃអនុគមន៍ត្រង់មួយចំណុច](https://www.youtube.com/watch?v=u4dJeS0sJhM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=13)
     * [🎬 ២ ដេរីវេនៃអនុគមន៍ត្រីកោណមាត្រ](https://www.youtube.com/watch?v=K8OH8XuHKRU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=14)
@@ -407,7 +407,7 @@
 ###       មេរៀនទី ០២ អនុវត្តន៍ដេរីវេ
 **Topics Covered:**  `អនុវត្តន៍ក្នុងការគណនាតម្លៃបរមា` `ល្បឿនសំទុះនៃចលនា`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ១ អនុវត្តន៍ការគណនាតម្លៃបរមា](https://www.youtube.com/watch?v=UDthMDQa3zU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=17)
     * [🎬 ២ ល្បឿន និង សំទុះនៃចលនា](https://www.youtube.com/watch?v=jAzhb-O0Kl4&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=18)
@@ -423,7 +423,7 @@
 
 **Topics Covered:** អនុគមន៍ $y= \dfrac{ax^2+bx+c}{px+q}$ , សិក្សាអនុគមន៍ $y=\dfrac{ax^2+bx+c}{px^2+qx+r}$ , `អនុវត្តន៍`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `អនុគមន៍សនិទាននិងអសនិទាន` `សង់ក្រាប`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `អនុគមន៍សនិទាននិងអសនិទាន` `សង់ក្រាប`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ១ អនុគមន៍សនិទាន ១ អាស៊ីមតូតនៃអនុគមន៍](https://www.youtube.com/watch?v=bbinZIha7nM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=20)
     * [🎬 ២ សិក្សាអនុគមន៍សនិទានទម្រង់ទី១](https://www.youtube.com/watch?v=YHT3eDMD9BQ&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=21)
@@ -438,7 +438,7 @@
 ###       មេរៀនទី ០២ អនុគមន៍អិចស្ប៉ូណង់ស្យែល
 **Topics Covered:** `ចំនួន e` `អនុគមន៍អិចស្ប៉ូណង់ស្យែល` `អនុវត្តន៍`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍អិចស្ប៉ូណង់ស្យែល` `អនុគមន៍ត្រីកោណមាត្រ` `សង់ក្រាប`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍អិចស្ប៉ូណង់ស្យែល` `អនុគមន៍ត្រីកោណមាត្រ` `សង់ក្រាប`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ១ និយមន័យ លក្ខណៈ និង លីមីត](https://www.youtube.com/watch?v=P8Y8l1kmrEU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=25)
     * [🎬 ២ ដេរីវេនៃអនុគមន៍អិចស្ប៉ូណង់ស្យែល](https://www.youtube.com/watch?v=hZr6BLLsapE&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=26)
@@ -453,7 +453,7 @@
 ###       មេរៀនទី ០៣ អនុគមន៍លោការីត
 **Topics Covered:**  `លោការីតនេពែ` `អនុគមន៍លោការីតនេពែ` `សមីការនិងវិសមីការលោការីតនេពែ` `សិក្សាអនុគមន៍ដែលទាក់ទងនិងអនុគមន៍លោការីតនេពែ` `អនុវត្តន៍`
 <br>
-**Mathematical Fundamentals:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
+**Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
     * [🎬 ១ និយមន័យ និង លក្ខណៈ](https://www.youtube.com/watch?v=r36nYl8t1fY&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=30)
     * [🎬 ២ ដេរីវេនៃអនុគមន៍លោការីតនេពែ](https://www.youtube.com/watch?v=sbPB6JC959s&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=31)
