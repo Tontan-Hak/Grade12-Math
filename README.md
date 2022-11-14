@@ -1,5 +1,5 @@
 # 🚀 Lets get started   [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
-      Reminding Yourself: Staying consistent and beating procrastination
+      There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.” – Richard Feynman*
 -----
 
 # 🎓 Grade12 Math Learning resources
