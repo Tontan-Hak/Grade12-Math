@@ -106,7 +106,7 @@
 ##
 <div align="right">
 	
-[Go to the top](https://github.com/Tontan-Hak/Grade12-Math#Content-summary)
+[Go to the top](#Content-summary)
 	
 </div>
 
