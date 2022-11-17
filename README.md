@@ -346,6 +346,7 @@
 [Go to the top](#Content-summary)
 	
 </div>
+
 -----
 # ជំពូក ០៥ ចំនួនកុំផ្លិច
 **Topics Covered:** `ចំនួនកុំផ្លិចទម្រង់ពីជគណិត` `ចំនួនកុំផ្លិចទម្រង់ត្រីកោណមាត្រ` `ស្វ័យគុណគុណទីn នៃចំនួនកុំផ្លិច` `អនុវត្តន៍ចំនួនកុំផ្លិចក្នុងធរណីមាត្រ`
@@ -362,6 +363,13 @@
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/1cWrbeW4HVStE-h_sri8DoXE_zsq_zRWD/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1UvfkO2NBXl009CJN_pV_yzA1nPwLWwMZ/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
 -----
 # ជំពូក ០៦ ប្រូបាប
 
@@ -390,6 +398,7 @@
 [Go to the top](#Content-summary)
 	
 </div>
+
 -----
 # ជំពូក ០៧ លីមីត
 ###      មេរៀនទី ០១ លីមីតនៃអនុគមន៍
@@ -431,6 +440,7 @@
 [Go to the top](#Content-summary)
 	
 </div>
+
 -----
 # ជំពូក ០៨ ដេរីវេនៃអនុគមន៍
 ###      មេរៀនទី ០១ ដេរីវេនៃអនុគមន៍
@@ -468,6 +478,7 @@
 [Go to the top](#Content-summary)
 	
 </div>
+
 -----
 # ជំពូក ០៩ សិក្សាអថេរភាពនិងសង់ក្រាប
 ###      មេរៀនទី ០១ អនុគមន៍សនិទាន
@@ -523,6 +534,7 @@
 [Go to the top](#Content-summary)
 	
 </div>
+
 -----
 # វីដេអូ អត្រាកំណែវិញ្ញាសាឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
@@ -539,6 +551,7 @@
 [Go to the top](#Content-summary)
 	
 </div>
+
 -----
 
 # ebook
@@ -594,6 +607,7 @@
 [Go to the top](#Content-summary)
 	
 </div>
+
 -----
 #### MOEYS Course Book
    * [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
@@ -625,6 +639,7 @@
 [Go to the top](#Content-summary)
 	
 </div>
+
 -----
 
 ## សេចក្តីថ្លែងអំណរគុណ
