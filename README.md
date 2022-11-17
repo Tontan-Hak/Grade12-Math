@@ -144,6 +144,13 @@
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី២ជំនាន់ទី១៨ (NIE)](https://drive.google.com/file/d/1EeOOCorFyXUc-ri4N9cBmySxvFOz2UaA/view?usp=sharing)
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/0B1dv5sqSPsPbUWQ4T29yTHhUZU0/view?usp=sharing&resourcekey=0-HstQXEI9FVH7PxCmkHlixA)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
 -----
 # ជំពូក ០២ អាំងតេក្រាល
 > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
@@ -249,6 +256,13 @@
  - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 អនុវត្តន៍អាំងតេក្រាលមិនកំណត់slide](https://docs.google.com/presentation/d/11VgDNhNb_RUI9pZE6A3ko4kOM83ucb6pPeh133yXKQU/edit#slide=id.gc73c85e0e3_0_124)
     * [📚 ឯកសាររបស់លោកគ្រូ-]()
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
 -----
 # ជំពូក ០៣ ឌីផេរ៉ងស្យែល
 ###      មេរៀនទី ០១ សមីការឌីផេរ៉ងស្យែលលំដាប់១
@@ -275,6 +289,13 @@
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបរាងដោយលោកគ្រូ-គឹម-សុគន្ធ](https://drive.google.com/file/d/1oBKjdosp91OWLitoZk_ruDlds2LOXv8n/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
+
 -----
 # ជំពូក ០៤ កោណិច
 - [🎬 កោណិច (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaKvT6BvsD_-UAnsmUHrH5-G)
@@ -319,6 +340,12 @@
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសារបន្ថែម](https://drive.google.com/file/d/1j_qU8bf1WRJ6v0OraqdVIjTji8lawf3Q/view?usp=sharing)
     * [📚 សំណួរ - ចម្លើយ](https://drive.google.com/file/d/12Ax-1is5KgW0Kb4VBb92OeQTXTZTTy0W/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 -----
 # ជំពូក ០៥ ចំនួនកុំផ្លិច
 **Topics Covered:** `ចំនួនកុំផ្លិចទម្រង់ពីជគណិត` `ចំនួនកុំផ្លិចទម្រង់ត្រីកោណមាត្រ` `ស្វ័យគុណគុណទីn នៃចំនួនកុំផ្លិច` `អនុវត្តន៍ចំនួនកុំផ្លិចក្នុងធរណីមាត្រ`
@@ -357,6 +384,12 @@
     
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1EX7OQVwv2ttbwhDtMHxDxhXSPkfzwxjU/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 -----
 # ជំពូក ០៧ លីមីត
 ###      មេរៀនទី ០១ លីមីតនៃអនុគមន៍
@@ -392,6 +425,12 @@
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1saqw3QLgBNkus-UxlGTX0IrZsbwd2vuB/view?usp=sharing)
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1rlE0dFdPptVtjj2ba3r5oz6iPb_vGKSk/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 -----
 # ជំពូក ០៨ ដេរីវេនៃអនុគមន៍
 ###      មេរៀនទី ០១ ដេរីវេនៃអនុគមន៍
@@ -423,6 +462,12 @@
     * [📚 ឯកសារបស់លោកគ្រូ-ស៊ាម-សំណាង](https://drive.google.com/file/d/1WH5c-tDQBSOymfgkMnGidnpT2RTQPRgH/view?usp=sharing)
     * [📚 ឯកសារៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី4ជំនាន់ទី20 (NIE)](https://drive.google.com/file/d/1gccmKm39ap_ltV6PboKxjdxRDpeglJjk/view?usp=sharing)
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1LErb89tIw7EYJNKLVVloEmOTl1c9IoN_/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 -----
 # ជំពូក ០៩ សិក្សាអថេរភាពនិងសង់ក្រាប
 ###      មេរៀនទី ០១ អនុគមន៍សនិទាន
@@ -472,6 +517,12 @@
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី24 (NIE)](https://drive.google.com/file/d/16vEq93Gwyf0WPivwjacWzXrInAkqAnwS/view?usp=sharing)
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1FU7WIhkYCWvAeDQYwWUE4yZBHOZVIm7W/view?usp=sharing)
 - [🎬 សិក្សាអនុគមន៍ (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLsn39joEbqKrGk8y593Sir)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 -----
 # វីដេអូ អត្រាកំណែវិញ្ញាសាឆ្នាំចាស់
 - **2015**  [ភាគទី ០១](https://www.youtube.com/watch?v=YXftZmZ7oPE&list=RDCMUChj-XAo5wFRjZtXgTExKwQQ&start_radio=1&rv=YXftZmZ7oPE&t=14) && [ភាគទី ០២](https://www.youtube.com/watch?v=v6-0-Uyoho4)  
@@ -482,6 +533,12 @@
 - **វីឌីអូ Playlist** 
    * [អត្រាកំណែវិញ្ញាសាថ្នាក់សង្គមនិងវិទ្យាសាស្រ្ត](https://www.youtube.com/playlist?list=PLDt349AvcEaJPUNekyJzYBrHl1bUTgu1j)
    * [ថ្នាក់ទី១២ គណិតវិទ្យា បង្រៀនដោយ ឯកឧត្តមបណ្ឌិតសភាចារ្យរដ្ឋមន្ត្រី ហង់ជួន ណារ៉ុន](https://www.youtube.com/playlist?list=PLDt349AvcEaINeVe_jEqTsiDBW17EPVpZ)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 -----
 
 # ebook
@@ -531,6 +588,12 @@
    * [សៀវភៅគណិតថ្នាក់ទី១១ ភាគ២](https://drive.google.com/file/d/1luFBvb8Aq2VI9bYhBbUIbNIgXVANzHwd/view?usp=sharing)
    * [សៀវភៅគណិតថ្នាក់ទី១២ ភាគ១](https://drive.google.com/file/d/1Zjm-waR6q8W0lofVXeE1TZ3OV95W-LWb/view?usp=sharing)
    * [សៀវភៅគណិតថ្នាក់ទី១២ ភាគ២](https://drive.google.com/file/d/12JBN3f2rHgjrFRisgRThDeZb-xf_oMZx/view?usp=sharing)
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 -----
 #### MOEYS Course Book
    * [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
@@ -556,7 +619,12 @@
 - [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
 - [GeoGebra](https://www.geogebra.org/u/tontanhak97)
 - [Duraseksa](https://www.duraseksa.com/home)
-
+##
+<div align="right">
+	
+[Go to the top](#Content-summary)
+	
+</div>
 -----
 
 ## សេចក្តីថ្លែងអំណរគុណ
