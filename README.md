@@ -108,18 +108,9 @@
 
 <div align="right">
 	
-[Go to the top](https://github.com/Tontan-Hak/Grade12-Math#សារបណ្ណ)
+[Go to the top](https://github.com/Tontan-Hak/Grade12-Math# 🎓 Grade12 Math Learning resources)
 	
 </div>
-<!-- 
-
-
-
-Espaço para organização pessoal u.u
-
-
-
--->
 
 ---
 # ជំពូកទី ០១ វុិចទ័រក្នុងលំហ
