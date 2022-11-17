@@ -105,12 +105,23 @@
     * [Think outside the box](https://youtu.be/Dk6xrhF3zTQ)
     * [The process of reflection](https://docs.google.com/document/d/1RYcLEyuPdxp8mdO1YywazflUrywhhn84zheDUeLa15w/edit)
          
------
+
 <div align="right">
 	
 [Go to the top](https://github.com/Tontan-Hak/Grade12-Math#សារបណ្ណ)
 	
 </div>
+<!-- 
+
+
+
+Espaço para organização pessoal u.u
+
+
+
+-->
+
+---
 # ជំពូកទី ០១ វុិចទ័រក្នុងលំហ
  > ខាងក្រោមនេះជា វីដេអូភាសាអង់គ្លេស សម្រាប់ Engage កូនសិស្ស ដោយប្រាប់ពីហេតុផល ដើមចម ថាតើ ហេតុអ្វីបានជាអ្នកប្រាជ្ញមានគំនិតទាក់ទងនឹង ទ្រឹស្តី គោលការណ៍ ក្នុងជំពូកនេះ? ពួកគាត់គិតយ៉ាងម៉េចបានចេញរូបមន្តហ្នឹងមក? <br>
  
