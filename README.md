@@ -56,7 +56,7 @@
     * រូបមន្តសង្ខេប
       
 -----
-# Learning How to Learn 🔎
+# Learning How to Learn
 > <details>
 >  <summary> How to Get the Most Out of Studying</summary>
 >  <br/>
