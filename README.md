@@ -6,7 +6,7 @@
 # 🎓 Grade12 Math Learning resources
 ![](https://komarev.com/ghpvc/?username=Grade12-Math&color=brightgreen&label=VISITORS)
 
-សារបណ្ណ
+## Content summary
 
 -----
 
@@ -108,7 +108,7 @@
 
 <div align="right">
 	
-[Go to the top](https://github.com/Tontan-Hak/Grade12-Math# 🎓 Grade12 Math Learning resources)
+[Go to the top](https://github.com/Tontan-Hak/Grade12-Math#Content-summary)
 	
 </div>
 
