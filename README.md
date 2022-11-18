@@ -159,15 +159,6 @@
 - [🔖 Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential](https://www.coursera.org/learn/mindshift)
 - [🔖 Learn like a Pro: Science-Based Tools to Become Better at Anything](https://www.edx.org/course/llap?index=product&queryID=ec48b54cc22431a39eb1e7136358ec48&position=1)
 - [🔖 How to learn math: For students](https://learning.edx.org/course/course-v1:StanfordOnline+GSE-YEDUC115-S+1T2020/home)
-
-# 📌 Self-awareness 📌
-- [KEY IMPORTANT POINTS]()
-    * [procrastination]() | [Lazy]() | [Unmotivation]()
-    * ["Do I have a choice of doing this task which I am procrastination?" IF no > DO IT NOW: It costs me more by doing it the last minute.]()
-    * [Time management](https://docs.google.com/document/d/1rasGsY4p3krFH_Yj7ADcarizARBhCTF7/edit?usp=sharing&ouid=114771463770519365710&rtpof=true&sd=true)
-    * [Teaching and learning priciples](https://drive.google.com/file/d/1LS4PAPM9JEN97oc5DphyWT0Ti-y5v5Ai/view?usp=sharing)
-    * [Think outside the box](https://youtu.be/Dk6xrhF3zTQ)
-    * [The process of reflection](https://docs.google.com/document/d/1RYcLEyuPdxp8mdO1YywazflUrywhhn84zheDUeLa15w/edit)
          
 ##
 <div align="right">
