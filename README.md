@@ -658,6 +658,13 @@
    * [សៀវភៅគណិតថ្នាក់ទី១១ ភាគ២](https://drive.google.com/file/d/1luFBvb8Aq2VI9bYhBbUIbNIgXVANzHwd/view?usp=sharing)
    * [សៀវភៅគណិតថ្នាក់ទី១២ ភាគ១](https://drive.google.com/file/d/1Zjm-waR6q8W0lofVXeE1TZ3OV95W-LWb/view?usp=sharing)
    * [សៀវភៅគណិតថ្នាក់ទី១២ ភាគ២](https://drive.google.com/file/d/12JBN3f2rHgjrFRisgRThDeZb-xf_oMZx/view?usp=sharing)
+
+## MOEYS Course Book
+   * [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
+
+## ស្រាវជ្រាវបន្ថែម
+   - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
+
 ##
 <div align="right">
 	
@@ -666,17 +673,13 @@
 </div>
 
 -----
-#### MOEYS Course Book
-   * [Moeys course book](https://drive.google.com/drive/folders/10H3RfRpm1moUw9n3Q1rEwR1frC9rotlv?usp=sharing)
-
-## ស្រាវជ្រាវបន្ថែម
-   - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
-   
-## Algebra
+## Miscellaneous
+Just a few sites that don't fit into any of the other areas above   
+### Algebra
 - [x]  [ពិជគណិតកម្រិតទី-១](https://www.youtube.com/playlist?list=PLSQl0a2vh4HDdl6PcjwZH2CkM5OoV6spg) 
 - [x]  [ពិជគណិតកម្រិតទី-២](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCI6_FsC0_7Us0IwsZHQ7Tu)
 - [x]  [Algebra](https://www.youtube.com/watch?v=LwCRRUa8yTU&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=1)
-## Calculus
+### Calculus
    * [Calculus 1](https://www.youtube.com/watch?v=HfACrKJ_Y2w)
    * [Calculus 2](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=RDLVHfACrKJ_Y2w&index=2)
    * [Pre-Calculus](https://www.youtube.com/watch?v=eI4an8aSsgw&list=PLWKjhJtqVAbl5SlE6aBHzUVZ1e6q1Wz0v&index=2)
@@ -685,7 +688,7 @@
    * [Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
 
 
-#  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
+##  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
 - [Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
 - [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
 - [GeoGebra](https://www.geogebra.org/u/tontanhak97)
@@ -704,14 +707,29 @@ Thanks to all the contributors who shared resources in building this repo.
 
 -----
 
-## License 
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+<a href="https://github.com/Tontan-Hak/Self-Taught/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Self-Taught" alt="Stars Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Self-Taught/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Self-Taught" alt="Forks Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Self-Taught/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/Self-Taught" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Self-Taught/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Self-Taught" alt="Issues Badge"/></a>
+<a href="https://github.com/Tontan-Hak/Self-Taught/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Self-Taught?color=2b9348"></a>
+<a href="https://github.com/Tontan-Hak/Self-Taught/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Self-Taught?color=2b9348" alt="License Badge"/></a>
 
-<a href="https://github.com/Tontan-Hak/Grade12-Math/stargazers"><img src="https://img.shields.io/github/stars/Tontan-Hak/Grade12-Math" alt="Stars Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Grade12-Math/network/members"><img src="https://img.shields.io/github/forks/Tontan-Hak/Grade12-Math" alt="Forks Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Grade12-Math/pulls"><img src="https://img.shields.io/github/issues-pr/Tontan-Hak/Grade12-Math" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Grade12-Math/issues"><img src="https://img.shields.io/github/issues/Tontan-Hak/Grade12-Math" alt="Issues Badge"/></a>
-<a href="https://github.com/Tontan-Hak/Grade12-Math/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Tontan-Hak/Grade12-Math?color=2b9348"></a>
-<a href="https://github.com/Tontan-Hak/Grade12-Math/blob/main/license"><img src="https://img.shields.io/github/license/Tontan-Hak/Grade12-Math?color=2b9348" alt="License Badge"/></a>
------
+--- 
+<details>
+  <summary>⏳ My mission</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+	To provide a Self-taught education 
+<!--END_SECTION:activity-->
+</details>
+
+	💪 It should be one of our mission to improve everyday for the better
+	I am happy when I can improve myself just 1% everyday
+| **"There’s no miracle people. It just happens they got interested in this thing and they learned all this stuff. There’s just people.”** `Richard Feynman` |
+|:------------:|
+
+
