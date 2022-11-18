@@ -664,7 +664,11 @@
 
 ## ស្រាវជ្រាវបន្ថែម
    - [x]  [សៀវភៅលំហាត់សម្រាប់គ្រូនិងសិស្ស មធ្យមសិក្សាទុតិយភូមិ](https://drive.google.com/file/d/1_D0rKYarZx0re1fysvCf7ICSnLhKClJA/view?usp=sharing)
-
+##  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
+- [Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
+- [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
+- [GeoGebra](https://www.geogebra.org/u/tontanhak97)
+- [Duraseksa](https://www.duraseksa.com/home)
 ##
 <div align="right">
 	
@@ -686,13 +690,6 @@ Just a few sites that don't fit into any of the other areas above
    * [Calculus tutorial](https://www.youtube.com/playlist?list=PLybg94GvOJ9ELZEe9s2NXTKr41Yedbw7M)
    * [Calculus book](https://drive.google.com/file/d/1ZgpXmsO6gJPQuz-b3jCEARz7_eUodmmF/view?usp=sharing)
    * [Introduction to Linear Algebra (Gilbert Strang)](https://drive.google.com/file/d/1SyLbvevTwhbOVGVFRJEZfOJiBZhfARa3/view?usp=sharing)
-
-
-##  Simulations ជំនួយដល់ការបង្រៀន និង រៀន: 
-- [Phet Stimulation](https://phet.colorado.edu/en/simulations/filter?subjects=math&type=html,prototype)
-- [Khan Academy](https://www.khanacademy.org/teacher/dashboard)
-- [GeoGebra](https://www.geogebra.org/u/tontanhak97)
-- [Duraseksa](https://www.duraseksa.com/home)
 ##
 <div align="right">
 	
