@@ -170,11 +170,11 @@
 
 ---
 # ជំពូកទី ០ រំលឹក
-**Topics Covered:**
+**Topics Covered:** `ចំនួន` `សមីការ` `វិសមីការ` `ប្រពន្ធសមីការ` `ពហុធា` `សំណុំ` `សំណើ` `ត្រីកោណមាត្រ`
 
-**Prerequisites:**
+**Prerequisites:** `ប្រភាគ` `ប` `ប` `ប`
 
-- [Video lesson](https://docs.google.com/document/d/10T0v0OB4hnzT_hSMm3pzdDiz4nO31YpdavvqLTr8BzQ/edit)
+- [Review lesson](https://docs.google.com/document/d/10T0v0OB4hnzT_hSMm3pzdDiz4nO31YpdavvqLTr8BzQ/edit)
 
 ##
 <div align="right">
