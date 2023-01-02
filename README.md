@@ -454,6 +454,7 @@
     * [🎬 ចម្លាស់](https://www.youtube.com/watch?v=Qd_ZlPQ-9cM&t=1233s)
     * [🎬 បន្សំ](https://www.youtube.com/watch?v=UoUlMpX_hgc&list=PLHIDhoWPChfVvkhIqL7eUSXxLRtE65B3o&index=3)
     * [🎬 ប្រៀបធៀបចម្លាស់ និងបន្សំ](https://www.youtube.com/watch?v=ujmUgjV4TT8&t=66s)
+    * [Probability](https://www.youtube.com/watch?v=lhgoNHnJguc&list=PLlfPK5sIGAzamEiGuAVVqZvB0_ll30a0W&index=8)
     * [🎬 ប្រូបាប (ភាគ១)](https://www.youtube.com/watch?v=uxjDSketC14&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=26)
     * [🎬 ប្រូបាប (ភាគ២)](https://www.youtube.com/watch?v=4w4Z-eR8I_o&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=25)
     * [🎬 ប្រូបាប (ភាគ៣)](https://www.youtube.com/watch?v=dpAD7bB9jkQ&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=24)
