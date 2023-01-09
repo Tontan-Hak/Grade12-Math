@@ -627,6 +627,10 @@
 </div>
 
 -----
+# លំហាត់ត្រៀមប្រលង
+- [វិញ្ញាសាត្រៀម I](https://drive.google.com/file/d/1MY_0SlmrondEYhZsFKxm7fSq0mssuLOM/view?usp=share_link)
+- [វិញ្ញាសាត្រៀម II](https://drive.google.com/file/d/1grocRcm3ZUzEAOUstLEY-CZchVeZYYay/view?usp=share_link)
+- [វិញ្ញាសាត្រៀម III](https://drive.google.com/drive/folders/1l5ZQYlFN3yoIWdeQ-bC49Opp0K-Nr6pH?usp=share_link)
 
 # ebook
 
@@ -660,7 +664,6 @@
 - [វិញ្ញាសាត្រៀមប្រលងប២](https://drive.google.com/file/d/13o6wGlodd7fjlfwO58e3zZ0KOVeIwDNz/view?usp=sharing)
 - [វិញ្ញាសាត្រៀមប្រលងប៣](https://drive.google.com/file/d/1S6OyuWcxATkW4YFxX3t5MOjSqcMUU-FF/view?usp=sharing)
 - [វិញ្ញាសាត្រៀមប្រលងប៤](https://drive.google.com/file/d/1vrUxAx8bWtC6xc7qG0cW_RMS5iNVslXF/view?usp=sharing)
-
 
 #### លំហាត់ចំរុះ (optional)
 - [វិញ្ញាសាត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1d6r10mmjRQejrFJPJLAmrKXLkVaxRLjS/view?usp=sharing)
