@@ -367,32 +367,6 @@
 <br>
 **Prerequisites:** `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `លីមីត`  `ដេរីវេ`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=9jdiT2zcSHc&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=63)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី២ (MoEYS Official)](https://www.youtube.com/watch?v=U-e2bhPaejM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=64)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៣ (MoEYS Official)](https://www.youtube.com/watch?v=ijrMNI3pGco&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=65)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៤ (MoEYS Official)](https://www.youtube.com/watch?v=Xcy5pcHhZro&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=66)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៥ (MoEYS Official)](https://www.youtube.com/watch?v=4BHrfoWCxW8&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=67)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៦ (MoEYS Official)](https://www.youtube.com/watch?v=1mRQbgrctJc&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=68)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៧ (MoEYS Official)](https://www.youtube.com/watch?v=NU_L-jIhfEU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=69)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៨ (MoEYS Official)](https://www.youtube.com/watch?v=IheuGrI8QvM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=70)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី៩ (MoEYS Official)](https://www.youtube.com/watch?v=BwCCZ1bs8rE&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=71)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១០ (MoEYS Official)](https://www.youtube.com/watch?v=rGXga7ezM5A&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=72)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១១ (MoEYS Official)](https://www.youtube.com/watch?v=Q6q_1-zA6kg&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=73)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី១២ (MoEYS Official)](https://www.youtube.com/watch?v=xEH-GwlFg5Y&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=74)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៣)(MoEYS Official)](https://www.youtube.com/watch?v=_R4m2NKtXDQ&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=91)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៤)(MoEYS Official)](https://www.youtube.com/watch?v=y-Hbp4uR11w&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=92)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៥)(MoEYS Official)](https://www.youtube.com/watch?v=pRnzBFUiuwU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=93)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៦)(MoEYS Official)](https://www.youtube.com/watch?v=3Gs98apTkpQ&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=76)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៧)(MoEYS Official)](https://www.youtube.com/watch?v=kQ69no4Nbh8&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=77)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៨)(MoEYS Official)](https://www.youtube.com/watch?v=yT7HhjRFxak&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=78)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៩)(MoEYS Official)](https://www.youtube.com/watch?v=gm6N9UCRrqc&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=79)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី២០)(MoEYS Official)](https://www.youtube.com/watch?v=5boE3mIawYM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=80)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី២១)(MoEYS Official)](https://www.youtube.com/watch?v=3xu7P40jRXE&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=81)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ ភាគទី២៣ (MoEYS Official)](https://www.youtube.com/watch?v=4Q-nMNciOqw&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=75)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី២៤)(MoEYS Official)](https://www.youtube.com/watch?v=aSMkD6965CU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=82)
-    * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់ (ភាគទី១៥)(MoEYS Official)](https://www.youtube.com/watch?v=pRnzBFUiuwU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=93)
-   
-- វីដេអូពន្យល់ខ្លឹមសារមេរៀននិងលំហាត់គំរូ ដោយលោកគ្រូ-នាង-បូ ៖
     * [🎬 ព្រីមីទីវអាំងតេក្រាលមិនកំណត់](https://www.youtube.com/watch?v=c1yE2sjFEKA&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=15)
     * [🎬 លំហាត់គំរូទី១ និងទី២](https://www.youtube.com/watch?v=z9ND36_iyKM&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=14)
     * [🎬 លំហាត់គំរូទី៣ និងទី៤](https://www.youtube.com/watch?v=NEcq-9bOVYo&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=13)
@@ -419,14 +393,6 @@
 <br>
 **Prerequisites:**  `Basic algebra` `ពហុធា` `កន្សោមពិជគណិត` `រូបមន្តសមភាពសំខាន់ៗ` `អនុគមន៍` `អនុគមន៍ត្រីកោណមាត្រ` `ដេរីវេ` `អាំងតេក្រាលមិនកំណត់`
 - វីដេអូ ពន្យល់ ខ្លឹមសារមេរៀន ៖
-    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី១)(MoEYS Official)](https://www.youtube.com/watch?v=VaiHI3WJqfM&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=83)
-    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី២)(MoEYS Official)](https://www.youtube.com/watch?v=06eyE41zZ3A&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=84)
-    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៣)(MoEYS Official)](https://www.youtube.com/watch?v=s8RW0ntrgyU&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=85)
-    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៤)(MoEYS Official)](https://www.youtube.com/watch?v=FnfIr1K7I3g&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=86)
-    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៥)(MoEYS Official)](https://www.youtube.com/watch?v=-OibDjnrLgw&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=87)
-    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៦)(MoEYS Official)](https://www.youtube.com/watch?v=gyo7lXr6f4Q&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=88)
-    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៧)(MoEYS Official)](https://www.youtube.com/watch?v=0yH0PDrJ-Z0&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=89)
-    * [🎬 អាំងតេក្រាលកំណត់ (ភាគទី៨)(MoEYS Official)](https://www.youtube.com/watch?v=CCvwXTNiLX4&list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX&index=90)
 - [🎬 អាំងតេក្រាល (Video playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaJw6Y-r-k5mQ9mctXOheVK_)
 - វីដេអូពន្យល់ខ្លឹមសារមេរៀននិងលំហាត់គំរូ ដោយលោកគ្រូ-នាង-បូ ៖
     * [🎬 អាំងតេក្រាលកំណត់](https://www.youtube.com/watch?v=GPxkTemrQ2w&list=PLDt349AvcEaKltQ1qGUBXHAXyNWy68pFw&index=1)
