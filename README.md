@@ -572,6 +572,8 @@
 </div>
 
 -----
+# វីឌីអូមេរៀនគណិតវិទ្យាថ្នាក់ទី១២ ទាំងអស់
+- [ថ្នាក់ទី១២ គណិតវិទ្យា](https://www.youtube.com/playlist?list=PLDt349AvcEaLJcISr1TS00GJyGK-JeFBX)
 # លំហាត់ត្រៀមប្រលង
 - [វិញ្ញាសាត្រៀម I](https://drive.google.com/file/d/1MY_0SlmrondEYhZsFKxm7fSq0mssuLOM/view?usp=share_link)
 - [វិញ្ញាសាត្រៀម II](https://drive.google.com/file/d/1grocRcm3ZUzEAOUstLEY-CZchVeZYYay/view?usp=share_link)
