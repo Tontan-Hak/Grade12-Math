@@ -304,7 +304,7 @@
     * [🎬 ១ អនុវត្តន៍ការគណនាតម្លៃបរមា](https://www.youtube.com/watch?v=UDthMDQa3zU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=17)
     * [🎬 ២ ល្បឿន និង សំទុះនៃចលនា](https://www.youtube.com/watch?v=jAzhb-O0Kl4&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=18)
     * [🎬 ៣ វិមសភាពកំណើនមានកំណត់ និង ឌីផេរ៉ង់ស្យែល](https://www.youtube.com/watch?v=oD4Qyhue9TM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=21)
- - [🎬 អនុវត្តន៍ដេរីវរ (Video playlist)](https://www.youtube.com/playlist?list=PLnX_cP4XqoPOGIu__BS5udCPpdYUF9041)  
+- [🎬 អនុវត្តន៍ដេរីវរ (Video playlist)](https://www.youtube.com/playlist?list=PLnX_cP4XqoPOGIu__BS5udCPpdYUF9041)  
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសារបស់លោកគ្រូ-ស៊ាម-សំណាង](https://drive.google.com/file/d/1WH5c-tDQBSOymfgkMnGidnpT2RTQPRgH/view?usp=sharing)
     * [📚 ឯកសារៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី4ជំនាន់ទី20 (NIE)](https://drive.google.com/file/d/1gccmKm39ap_ltV6PboKxjdxRDpeglJjk/view?usp=sharing)
@@ -333,6 +333,7 @@
     * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី១ (MoEYS Official)](https://www.youtube.com/watch?v=a2QhkBJuK9M&t=613s)
     * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី២ (MoEYS Official)](https://www.youtube.com/watch?v=jehDcFs7niU&t=310s)
     * [🎬 ផលគុណនៃពីរវ៉ិចទ័រក្នុងលំហ ភាគទី៣ (MoEYS Official)](https://www.youtube.com/watch?v=spEnYhluza8)
+- [🎬 វុិចទ័រក្នុងលំហ (Video playlist)](https://www.youtube.com/playlist?list=PLnX_cP4XqoPMuj1YQYZ1cfSPbpG0Z8d3y)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 គន្លឹះថ្នាក់ទី១១](https://drive.google.com/file/d/1FGlxHR4pjNRwhYSXvAMCGnHWDK-j4p6B/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយលោកគ្រូ-ថុល-សីហា](https://drive.google.com/file/d/1SXADb8fV-WdeuOiyByU2HWd4OAZ7UXBe/view?usp=sharing)
@@ -521,6 +522,7 @@
 
 -----
 # ជំពូក ០៩ សិក្សាអថេរភាពនិងសង់ក្រាប
+- [🎬 សិក្សាអថេរភាព និងសង់ក្រាបនៃអនុគមន៍ (Video playlist](https://www.youtube.com/playlist?list=PLnX_cP4XqoPMYUzhmebTI8G85dQByri1S)
 ###      មេរៀនទី ០១ អនុគមន៍សនិទាន
 
 **Topics Covered:** អនុគមន៍ $y= \dfrac{ax^2+bx+c}{px+q}$ , សិក្សាអនុគមន៍ $y=\dfrac{ax^2+bx+c}{px^2+qx+r}$ , `អនុវត្តន៍`
