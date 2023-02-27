@@ -522,7 +522,7 @@
 
 -----
 # ជំពូក ០៩ សិក្សាអថេរភាពនិងសង់ក្រាប
-- [🎬 សិក្សាអថេរភាព និងសង់ក្រាបនៃអនុគមន៍ (Video playlist](https://www.youtube.com/playlist?list=PLnX_cP4XqoPMYUzhmebTI8G85dQByri1S)
+- [🎬 សិក្សាអថេរភាព និងសង់ក្រាបនៃអនុគមន៍ (Video playlist)](https://www.youtube.com/playlist?list=PLnX_cP4XqoPMYUzhmebTI8G85dQByri1S)
 ###      មេរៀនទី ០១ អនុគមន៍សនិទាន
 
 **Topics Covered:** អនុគមន៍ $y= \dfrac{ax^2+bx+c}{px+q}$ , សិក្សាអនុគមន៍ $y=\dfrac{ax^2+bx+c}{px^2+qx+r}$ , `អនុវត្តន៍`
