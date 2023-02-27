@@ -264,6 +264,7 @@
     * [🎬 ២ លក្ខណៈនៃអនុគមន៍ជាប់](https://www.youtube.com/watch?v=_Gf_I7bvGpM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=10)
     * [🎬 ៣ អនុគមន៍បន្លាយតាមភាពជាប់](https://www.youtube.com/watch?v=G7PHyLNzsmQ&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=11)
     * [🎬 ៤ ទ្រឹស្ដីបទតម្លៃកណ្ដាល](https://www.youtube.com/watch?v=TUzf495lZbE&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=12)
+- [🎬 ភាពជាប់នៃអនុគមន៍ (Vedio playlist)](https://www.youtube.com/playlist?list=PLnX_cP4XqoPOQSnkEJEpd4m51u7dRKlzW)
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសារបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1saqw3QLgBNkus-UxlGTX0IrZsbwd2vuB/view?usp=sharing)
