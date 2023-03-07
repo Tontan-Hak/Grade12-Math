@@ -304,7 +304,8 @@
     * [🎬 ១ អនុវត្តន៍ការគណនាតម្លៃបរមា](https://www.youtube.com/watch?v=UDthMDQa3zU&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=17)
     * [🎬 ២ ល្បឿន និង សំទុះនៃចលនា](https://www.youtube.com/watch?v=jAzhb-O0Kl4&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=18)
     * [🎬 ៣ វិមសភាពកំណើនមានកំណត់ និង ឌីផេរ៉ង់ស្យែល](https://www.youtube.com/watch?v=oD4Qyhue9TM&list=PLJaM0qi-PbjtFW1EID7Wbgv3WTg1T8e_c&index=21)
-- [🎬 អនុវត្តន៍ដេរីវរ (Video playlist)](https://www.youtube.com/playlist?list=PLnX_cP4XqoPOGIu__BS5udCPpdYUF9041)  
+- [🎬 លំហាត់អនុវត្តន៍ដេរីវេ ១ (Video playlist)](https://www.youtube.com/playlist?list=PLnX_cP4XqoPOGIu__BS5udCPpdYUF9041) 
+- [🎬 លំហាត់អនុវត្តន៍ដេរីវេ ២ (Video playlist)](https://www.youtube.com/playlist?list=PL8V_wsHWwP58qtg6MJPOEUY3Fvt-0EEfs) 
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសារបស់លោកគ្រូ-ស៊ាម-សំណាង](https://drive.google.com/file/d/1WH5c-tDQBSOymfgkMnGidnpT2RTQPRgH/view?usp=sharing)
     * [📚 ឯកសារៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី4ជំនាន់ទី20 (NIE)](https://drive.google.com/file/d/1gccmKm39ap_ltV6PboKxjdxRDpeglJjk/view?usp=sharing)
