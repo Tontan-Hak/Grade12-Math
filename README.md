@@ -252,6 +252,7 @@
 - [🎬 លីមីត (Vedio playlist)](https://www.youtube.com/playlist?list=PLnX_cP4XqoPMjgHmpUgT1OJ1iXs1HIawK)
 - [🎬 លីមីត (Vedio playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLB30veeyYND7YH2d1zFA57)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 លំហាត់លីមីត](https://drive.google.com/file/d/1G6bwa1ZCu2hN1kyO3YtTQJUnkIqkn5ro/view?usp=share_link)
     * [📚 ឯកសាររបស់លោកគ្រូ-អ៊ួច-ប៊ុនថន](https://drive.google.com/file/d/1MoHS7-hx6lo7tc7rzkrb980CEzZQoRDk/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1VjQKNDlWOfWixup4n8yatm2RMrvnMumm/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1MkDzu8X5FQsEDzVROskCBXfqxok65gDU/view?usp=sharing)
@@ -292,6 +293,7 @@
 - [🎬 ដេរីវរ (Video playlist)](https://www.youtube.com/playlist?list=PLnX_cP4XqoPNysBJdXGbUXnFTTTdI8-3a)
 - [🎬 ដេរីវរ (Video playlist)](https://www.youtube.com/playlist?list=PLDt349AvcEaLytmaLRM_ZgH9L9tW2Wv74)
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
+    * [📚 លំហាត់ដេរីវេ](https://drive.google.com/file/d/1QD6oFtTTNu7TMYU7K8eiveJmDu_UNR0L/view?usp=share_link)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី5ជំនាន់ទី18 (NIE)](https://drive.google.com/file/d/15sYxUTnYmndJffr5gYQzKuOxq6PWpn78/view?usp=sharing)
     * [📚 ឯកសាររៀបររៀងរៀងដោយៈគរុនិស្សតិគណិតវិទ្យាក្រុមទី3ជំនាន់ទី19 (NIE)](https://drive.google.com/file/d/1iijWdzEs-wfaPF4TRXrvA_nWiXsdd4Bc/view?usp=sharing)
     * [📚 ឯកសាររបស់លោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1LErb89tIw7EYJNKLVVloEmOTl1c9IoN_/view?usp=sharing)
