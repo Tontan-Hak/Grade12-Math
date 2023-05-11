@@ -646,7 +646,6 @@
 - [វិញ្ញាសាត្រៀមប្រលងប៤](https://drive.google.com/file/d/1vrUxAx8bWtC6xc7qG0cW_RMS5iNVslXF/view?usp=sharing)
 
 #### លំហាត់ចំរុះ (optional)
-- [វិញ្ញាសាត្រៀមប្រលងបាក់ឌុបដោយលោកគ្រូ-លឹម-ផល្គុន](https://drive.google.com/file/d/1d6r10mmjRQejrFJPJLAmrKXLkVaxRLjS/view?usp=sharing)
 
 #### សៀវភៅពុម្ភគណិតវិទ្យារបស់ក្រសួងអប់រំ
    * [សៀវភៅគណិតថ្នាក់ទី៧](https://drive.google.com/file/d/1gnRBakNnpeUIzxUK3PhBW9_34uZo4znK/view?usp=sharing)
