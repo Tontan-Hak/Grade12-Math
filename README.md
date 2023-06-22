@@ -465,6 +465,7 @@
    
 - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 ឯកសាររៀបរាងដោយលោកគ្រូ-គឹម-សុគន្ធ](https://drive.google.com/file/d/1oBKjdosp91OWLitoZk_ruDlds2LOXv8n/view?usp=sharing)
+    * [📚 ឯកសាររៀបរាងដោយលោកគ្រូ-អ៊ាង-ប៊ុនរឿង](https://drive.google.com/file/d/1zLpaUbKxvhOhZjupkVd4fP9If5eq3o7b/view?usp=sharing)
 ##
 <div align="right">
 	
