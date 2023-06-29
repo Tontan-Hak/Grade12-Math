@@ -431,7 +431,7 @@
  - [🎬 ផ្ទៃក្រាល និង មាឌ (Video playlist](https://www.youtube.com/playlist?list=PLDt349AvcEaKtlzrbd3CTp3qVPAFd1P_n)
  - មេរៀនសង្ខេប និង លំហាត់អនុវត្តន៍
     * [📚 អនុវត្តន៍អាំងតេក្រាលមិនកំណត់slide](https://docs.google.com/presentation/d/11VgDNhNb_RUI9pZE6A3ko4kOM83ucb6pPeh133yXKQU/edit#slide=id.gc73c85e0e3_0_124)
-    * [📚 ឯកសាររបស់លោកគ្រូ-]()
+    * [📚 ឯកសារកិច្ចការស្រាវជ្រាវព្រីមីទីវ_និង_អាំងតេក្រាលមិនកំណត់](https://drive.google.com/file/d/1KRJqTnGl3JkEM1uWQmZT2F0eMIlDvYS-/view?usp=sharing)
 ##
 <div align="right">
 	
